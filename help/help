@@ -1,0 +1,7 @@
+To preview site (in console):
+
+    blogdown::serve_site()
+
+To stop auto-update of preview:
+
+    blogdown::stop_server()
