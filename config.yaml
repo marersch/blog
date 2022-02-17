@@ -1,6 +1,6 @@
 baseURL: https://demo.gethugothemes.com/liva/examplesite/
 languageCode: de-de
-title: Liva | Personal blog template
+title: Erinner mich
 theme: liva-hugo-mod
 summaryLength: '10'
 paginate: 6
@@ -11,19 +11,19 @@ outputs:
     - RSS
     - JSON
 params:
-  author: Marlene
+  author:
   cookies:
     enable: no
     expire_days: 2
   copyright: '| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/)
     All Rights Reserved |'
   description: This is meta description
-  email: demo@email.com
+  email:
   googleAnalitycsID: Your ID
-  home: Home
-  location: Dhaka, Bangladedsh
+  home:
+  location:
   logo: images/logo.png
-  mobile: 0124857985320
+  mobile:
   newsletter:
     content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -52,21 +52,21 @@ params:
 menu:
   footer:
     - URL: about/
-      name: Über mich
-      weight: 3
+      name: About
+      weight: 2
     - URL: blog/
       name: Blog
       weight: 1
     - URL: contact/
-      name: Kontakt
-      weight: 2
+      name: Impressum
+      weight: 3
   main:
     - URL: about/
-      name: Über mich
-      weight: 3
+      name: About
+      weight: 2
     - URL: blog/
       name: Blog
       weight: 1
     - URL: contact/
-      name: Kontakt
-      weight: 2
+      name: Impressum
+      weight: 3
