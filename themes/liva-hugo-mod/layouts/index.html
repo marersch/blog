@@ -22,7 +22,7 @@
                 <div class="mb-3 post-meta">
                   {{ if not .Params.HideDate }}
                   <span class="border-bottom border-primary px-2 mx-1"></span>
-                  <span>{{ .PublishDate.Format "02. January 2006" }}</span>
+                  <span>{{ .Date.Format "02" }}. {{ index .Site.Data.monate (.Date.Format "1")}} {{ .Date.Format "2006"}}</span>
                   {{ end }}
                 </div>
                 <p class="card-text">{{ .Summary }}</p>
