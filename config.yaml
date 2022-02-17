@@ -15,11 +15,10 @@ params:
   cookies:
     enable: no
     expire_days: 2
-  copyright: '| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/)
-    All Rights Reserved |'
-  description: This is meta description
+  copyright: '| Inhalt lizenziert gemäß [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) |'
+  description: Erinner mich ist ein Blog über Geschichte, Philosophie und welche Rollen Frauen dabei eingenommen haben bzw. nehmen.
   email:
-  googleAnalitycsID: Your ID
+  googleAnalitycsID:
   home:
   location:
   logo: images/logo.png

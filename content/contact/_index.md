@@ -15,7 +15,8 @@ ist die Seite und Verantwortlichkeit von: <br>
 Dr. Marlene Erschbamer <br>  
 Eggen Dorf 19 <br>  
 39050 Deutschnofen <br>  
-Südtirol - Italien
+Südtirol - Italien <br>  
+blog@erinnermich.eu 
 
 ##### Urheberrecht und Markenschutz:
 Alle Texte, Bilder und Grafiken unterliegen folgender Lizenz:
@@ -23,7 +24,7 @@ Namensnennung 4.0 International - [CC BY 4.0](https://creativecommons.org/licens
 
 
 ##### Links:
-Die Inhalte der externen Links wurden sorgfältig inhaltlich geprüft. Dennoch habe ich keinerlei Einfluss auf eventuelle Veränderungen hinsichtlich der Gestaltung oder des Inhaltes. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Bei Bekanntwerdung rechtswidriger Inhalte auf externen Links werden diese gelöscht.
+Die Inhalte der externen Links wurden sorgfältig geprüft. Dennoch habe ich keinerlei Einfluss auf eventuelle Veränderungen hinsichtlich der Gestaltung oder des Inhaltes. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Bei Bekanntwerdung rechtswidriger Inhalte auf externen Links werden diese gelöscht.
 
 
 ##### Cookies:
