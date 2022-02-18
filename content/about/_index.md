@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2022-02-20
+date: 2022-02-18
 draft: false
 
 # image
