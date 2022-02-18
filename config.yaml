@@ -1,4 +1,4 @@
-baseURL: https://demo.gethugothemes.com/liva/examplesite/
+baseURL: /
 languageCode: de-de
 title: Erinner mich
 theme: liva-hugo-mod
