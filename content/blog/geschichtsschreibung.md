@@ -1,6 +1,6 @@
 ---
 title: "Frauen und Geschichte"
-date: 2022-02-18
+date: 2022-02-14
 draft: false
 
 # post thumb
