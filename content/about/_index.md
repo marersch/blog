@@ -14,11 +14,12 @@ type : "about"
 ---
 
 
-Herzlich willkommen auf *erinnermich.eu*! Mein Name ist Marlene Erschbamer und hier dreht sich alles über Geschichte, Philosophie und welchen Platz Frauen dabei eingenommen haben bzw. heute einnehmen. Es sollen Brücken von der Vergangenheit in die Gegenwart geschlagen werden, um an bemerkenswerte Frauen zu erinnern und zeitgleich Alltäglichkeiten besser nachvollziehen zu können.
+Herzlich willkommen auf *erinnermich.eu* ! <br>  
+Mein Name ist Marlene Erschbamer und hier dreht sich alles um Geschichte, Philosophie und welchen Platz Frauen dabei eingenommen haben bzw. heute einnehmen. Es sollen Brücken von der Vergangenheit in die Gegenwart geschlagen werden, um an bemerkenswerte Frauen zu erinnern und zeitgleich Alltäglichkeiten besser nachvollziehen zu können.
 
 ##### Hintergrund
 
-Habt ihr euch beim Aufschlagen eures Geschichts- und Philosophiebuches auch schon gefragt, wo die Frauen geblieben sind? Haben nur Männer Geschichte geschrieben und über große Fragen nachgedacht? Diese einseitige Darstellung hat mich bereits während meiner Schulzeit in Südtirol und teilweise auch später während meines Studiums in München irritiert.
+Habt ihr euch beim Aufschlagen eures Geschichts- oder Philosophiebuches auch schon gefragt, wo die Frauen geblieben sind? Haben nur Männer Geschichte geschrieben oder über große Fragen nachgedacht? Diese einseitige Darstellung hat mich bereits während meiner Schulzeit in Südtirol und teilweise auch später während meines Studiums in München irritiert.
 
 Schließlich kann ich mich gut daran erinnern, dass ich mir bereits im frühen Grundschulalter meinen Kopf darüber zerbrochen habe, warum ich bin, wer ich bin, und warum ich nicht wer anderes bin und was das bedeutet oder eben auch nicht... Die Philosophie und genauso mein Interesse an Geschichte begleiten mich seit Kindheitstagen an. Und ja, noch heute wundere ich mich über die Welt, die Menschen, angebliche Selbstverständlichkeiten und versuche Dynamiken aufzuspüren und zu verstehen. Diese Liebe habe ich teilweise zu meinem [Beruf](www.erschbamer.net) gemacht.
 
