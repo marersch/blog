@@ -1,4 +1,4 @@
-baseURL: https://www.erinnermich.eu/
+baseURL: /
 languageCode: de-de
 title: Erinner mich
 theme: liva-hugo-mod

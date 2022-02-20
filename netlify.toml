@@ -4,7 +4,7 @@ command = "hugo --minify --gc"
 
 [build.environment]
 HUGO_VERSION = "0.92.1"
-HUGO_BASEURL = "/"
+HUGO_BASEURL = "https://www.erinnermich.eu/"
 
 [[headers]]
 for = "/*" # This defines which paths this specific [[headers]] block will cover.
