@@ -4,7 +4,7 @@ date: 2022-02-18
 draft: false
 
 # meta description
-description: "this is meta description"
+description: "Impressum Erinner mich - Blog über Geschichte, Philosophie und welche Rollen Frauen dabei eingenommen haben bzw. nehmen"
 
 # type
 type : "impressum"
