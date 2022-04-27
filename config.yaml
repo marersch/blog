@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://www.erinnermich.eu/
 languageCode: de-de
 title: Erinner mich
 theme: liva-hugo-mod
@@ -11,7 +11,7 @@ outputs:
     - RSS
     - JSON
 params:
-  author:
+  author: Marlene Erschbamer
   cookies:
     enable: no
     expire_days: 2
