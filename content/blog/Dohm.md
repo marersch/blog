@@ -21,6 +21,7 @@ tags:
   - "Bildung"
   - "Klischee"
   - "Schriftstellerin"
+  - "Patriarchat"
 
   
 
