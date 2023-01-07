@@ -11,7 +11,7 @@ description: "Alexandra David-Néel. Sikkim. Himalaja. Tibet. Nepal. Mongolei. C
 
 # taxonomies
 categories:
-  - "Pionierin"
+  - "Pionierinnen"
   
 tags:
   - "Schriftstellerin"
