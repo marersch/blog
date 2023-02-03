@@ -36,7 +36,7 @@ Die geniale, mutige und intelligente Juana de Asbaje y Ramírez, später Sor Jua
 
 ##### Eine der gebildetsten Frauen ihrer Zeit
 
-Die spätere Sor Juana wurde in einem Dorf in der Nähe des Vulkans Popocatépetel, der unweit der heutigen Mexiko-Stadt liegt, geboren. Ihre Eltern waren nicht verheiratet, was offenbar keine Brandmarkung für unehelichen Kinder darstellte, obwohl dies auch in der kolonialen Welt als Moralbruch galt. 
+Die spätere Sor Juana wurde in einem Dorf in der Nähe des Vulkans Popocatépetl, der unweit der heutigen Mexiko-Stadt liegt, geboren. Ihre Eltern waren nicht verheiratet, was offenbar keine Brandmarkung für unehelichen Kinder darstellte, obwohl dies auch in der kolonialen Welt als Moralbruch galt. 
 
 Auf den Ländereien ihres Großvaters hatte Juana Zugang zu einer großen Bibliothek, in der sie ihren Wissensdurst stillen konnte. Ihre Familie förderte dies anfangs wohl nicht, Mädchen durften sich allenfalls mit frommen Texten beschäftigen.
 
