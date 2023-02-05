@@ -9,6 +9,9 @@ image: "images/about/ME.png"
 # meta description
 description: "Marlene Erschbamer - Blog über Geschichte, Philosophie, Rollen der Frauen - Hintergrund und was euch erwartet."
 
+# summary for main page
+summary: "Herzlich willkommen auf *erinnermich.eu* ! Mein Name ist Marlene Erschbamer und hier dreht sich alles um Geschichte, Philosophie und welchen Platz Frauen dabei eingenommen haben bzw. heute einnehmen."
+
 # type
 type : "about"
 ---

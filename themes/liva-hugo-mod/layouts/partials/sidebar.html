@@ -1,16 +1,5 @@
 <div class="col-lg-4">
   <div class="widgets">
-    <!-- about -->
-    <div class="widget">
-      {{ with .Site.GetPage "/about" }}
-      <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-      {{ if .Params.Image }}
-      <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4"></a>
-      {{ end }}
-      <p>{{ .Summary }}</p>
-      <a href="{{ .Permalink }}" class="btn btn-outline-primary">Know More</a>
-      {{ end }}
-    </div>
     <!-- category -->
     <div class="widget">
       <h4 class="widget-title">Kategorien</h4>

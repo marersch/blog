@@ -21,7 +21,9 @@ params:
   googleAnalitycsID:
   home:
   location:
-  logo: images/logo.png
+  logo: images/logo.jpg
+  logo_large: images/logo_large.jpg
+  logo_footer: images/logo_footer.jpg
   mobile:
   newsletter:
     content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy

@@ -21,13 +21,14 @@ tags:
   - "Barock"
   - "Naturwissenschaft"
   - "Bildung"
-  
+
+# summary for main page
+summary: "Mexikanische Gelehrte, Nonne, Dichterin, Forscherin, frühe Feministin - Sor Juana Inés de la Cruz (1648/51-1695) und das Recht auf Bildung."
   
 # post type
 type: "post"
 ---
 
-Mexikanische Gelehrte, Nonne, Dichterin, Forscherin, frühe Feministin - Sor Juana Inés de la Cruz (1648/51-1695) und das Recht auf Bildung.
 
 Mexiko zur Zeit der lateinamerikanischen Kolonialherrschaft und des hispanischen Barocks: Eine Frau sticht heraus, regt öffentliche und kirchliche Debatten an. Wer war sie?
 
