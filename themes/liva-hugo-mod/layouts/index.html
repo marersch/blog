@@ -32,15 +32,17 @@
           </div>
           {{ end }}
         </div>
+          <!-- pagination -->
+          <div class="col-12 mt-5">
+            {{ template "_internal/pagination.html" . }}
+          </div>
       </div>
+
       <!-- sidebar -->
       {{ partial "sidebar.html" . }}
       <!-- /sidebar -->
 
-      <!-- pagination -->
-      <div class="col-12 mt-5">
-        {{ template "_internal/pagination.html" . }}
-      </div>
+
     </div>
   </div>
 </section>
