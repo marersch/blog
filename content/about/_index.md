@@ -34,6 +34,6 @@ Warum schaffen es Männer in die Geschichtsbücher, Frauen müssen dafür fast s
 
 Über welches Thema würdet ihr hier gerne lesen? Schreibt mir unter: blog@erinnermich.eu.
 
-![Marlene Erschbamer](../images/about/me_about.jpg)
+![Marlene Erschbamer](../images/about/me_about_.jpg)
 
 
