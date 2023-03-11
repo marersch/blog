@@ -12,6 +12,7 @@ description: "Marguerite Porete. Mystikerin. Begine. Christentum. Mittelalter. I
 # taxonomies
 categories:
   - "Frauenrollen"
+  - "Philosophie"
   
 tags:
   - "Frau"

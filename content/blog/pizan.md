@@ -12,6 +12,7 @@ description: "Christine de Pizan. Erste feministische Autorin. Erste Frau, die v
 # taxonomies
 categories:
   - "Pionierinnen"
+  - "Philosophie"
   
 tags:
   - "Schriftstellerin"
