@@ -4,7 +4,7 @@ date: 2022-02-18
 draft: false
 
 # image
-image: "images/about/M.E.png"
+image: "images/about/MaEr.png"
 
 # meta description
 description: "Marlene Erschbamer - Blog über Geschichte, Philosophie, Rollen der Frauen - Hintergrund und was euch erwartet."
