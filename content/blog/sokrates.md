@@ -56,7 +56,7 @@ Xanthippe ist die dritte Frau im Bunde, die Sokrates und sein Denken beeinflusst
 
 Generationen von Männern empfanden Mitleid mit Sokrates, der seinen Hausdrachen ertrug. Diese Schilderungen werden allerdings kontrovers diskutiert. In den Aufzeichnungen des Platon findet sich keine negative Darstellung. Sie wurden [Xanthippe](https://www.wissenschaft.de/magazin/weitere-themen/verbittert-aber-nicht-zaenkisch/) erst viel später angedichtet, um Sokrates positiv hervorzuheben. Diese negative Beschreibung wurde auch benutzt, um das eigene frauenfeindliche Weltbild zu bekräftigen. Somit geschieht Xanthippe seit Jahrhunderten Unrecht, da sie von männlichen Geschichtsschreibern im Nachhinein zur Zankteufelin erklärt wurde.
 
-Historisch ist bis heute keine der drei Frauen eindeutig zu greifen. Gemäß Platon‘s Beschreibungen prägten sie jedoch das Denken und Handeln des wohl bekanntesten antiken Philosophen, der als Begründer der abendländischen Philosophie gilt und das europäische Denken bis heute prägt. Allein deshalb haben sie unsere Aufmerksamkeit verdient.
+Historisch ist bis heute keine der drei Frauen eindeutig zu greifen. Gemäß Platons Beschreibungen prägten sie jedoch das Denken und Handeln des wohl bekanntesten antiken Philosophen, der als Begründer der abendländischen Philosophie gilt und das europäische Denken bis heute prägt. Allein deshalb haben sie unsere Aufmerksamkeit verdient.
 
 
 *Literaturhinweise:*
