@@ -24,6 +24,8 @@ tags:
   - "Himalaja"
   - "Freiheit"
   - "Women of color"
+  - "Islam"
+  
   
 # post type
 type: "post"

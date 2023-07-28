@@ -19,6 +19,7 @@ tags:
   - "Geschichtsschreibung"
   - "Women of color"
   - "Afrika"
+  - "Islam"
 
 # post type
 type: "post"
