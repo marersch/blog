@@ -32,7 +32,7 @@ type: "post"
 ---
 
 
-Für Gleichheit und gegen Diskriminierung: Vor etwa 700 Jahren lebte in Kashmir die Dichterin, Mystikerin und Rebellin Lal Ded, die mir ihren Versen die Region bis heute prägt.
+Für Gleichheit und gegen Diskriminierung: Vor etwa 700 Jahren lebte in Kashmir die Dichterin, Mystikerin und Rebellin Lal Ded, die mit ihren Versen die Region bis heute prägt.
 
 Kashmir, einst ein Knotenpunkt entlang der historischen Seidenstraße, liegt im vorderen Himalaja. Dort trafen die unterschiedlichsten Sprachen, Kulturen, Religionen und Weltanschauungen aufeinander und beeinflussten sich gegenseitig. 
 
