@@ -45,7 +45,7 @@ Wie sahen jedoch die Kelten diese Frau? Hatten die Kelten eine geschlechtsspezif
 
 Aus Sicht der Römer, die in patriarchalischen Strukturen lebten und dachten, war Boudica sicherlich eine ungeheuerliche Frau und außergewöhnliche Führerin. Nach römischen Verständnis war das Haus der Platz einer Frau, nicht im Krieg und schon gar nicht als Anführerin. Boudica schien so gar nicht in das römische Weltbild zu passen.
 
-Vielleicht wurde Boudica deshalb in römischen Quellen als furchterregend, ungewöhnlich hochgewachsen und mit rauher Stimme beschrieben. Denkbar, dass es sich hierbei um ein verzerrtes Bild handelt.
+Vielleicht wurde Boudica deshalb in römischen Quellen als furchterregend, ungewöhnlich hochgewachsen und mit rauer Stimme beschrieben. Denkbar, dass es sich hierbei um ein verzerrtes Bild handelt.
 
 ##### Vorbild für Herrscherinnen
 
