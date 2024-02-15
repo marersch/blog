@@ -35,13 +35,13 @@ Gabriele Reuter brach mit den Konventionen: Sie brachte eine ledige Tochter zur 
 
 >Wir glauben alle, unser ganz persönliches Leben nach unserm Wollen zu führen, und dabei leben wir doch zugleich mit dem persönlichen noch ein typisches Leben der Zeit, das wir aber nur in seltenen Augenblicken durch die Hülle des persönlichen hindurch erkennen. Das wird nicht von dem individuellen Willen bestimmt, sondern durch Bedingungen, über die wir gar keine Gewalt haben. Darum tun wir wohl so oft Dinge, von denen wir fühlen, wir tun sie aus einem Zwang, der gegen unsere individuelle Natur ist. Das Schicksal hat manche unter uns ausersehen zu Symbolen der Zeit. Wir tragen ihr Brandmal, oder ihre Flammenzunge an der Stirne – wissen nicht, ob das feurige Zeichen Schande oder Ehre bedeutet ... Wer einmal so gezeichnet wurde, der muß sein Los auf sich nehmen und seine letzten Bitterkeiten austrinken. Er wird ahnen, daß nur auf diesem Wege sein Leben reif werden kann, zu einer Frucht am Erntekranz der Zeit.
 
-- Gabriele Reuters, aus: Das Tränenhaus, [elftes Kapitel](https://www.projekt-gutenberg.org/reuterga/traenenh/chap011.html), 1926 [1908].
+- Gabriele Reuter, aus: Das Tränenhaus, [elftes Kapitel](https://www.projekt-gutenberg.org/reuterga/traenenh/chap011.html), 1926 [1908].
 
 In ihrem Roman *Das Tränenhaus* verarbeitete sie die Geburt ihrer ledigen Tochter Lili in einem Gebärhaus für ledige Mütter: Verführte oder missbrauchte Mädchen werden in eine ärmliche Unterkunft gebracht, wo ihre Kinder nach der Geburt an Pflegemütter abgegeben werden. Offen über ein so großes Tabu wie die Schwangerschaft unverheirateter Frauen zu schreiben, Hintergründe aufzudecken, Missbrauch zu thematisieren - der Skandal, den dieses Buch auslöste, war vorprogrammiert. Gerade von Frauen wurde in der Geschichte immer wieder Stillschweigen erwartet. Doch was nützt es, Missstände zu verschweigen, den schönen Schein zu wahren?
 
 >Die Toni aber hatte von ihren Eltern die Erlaubnis erhalten, Weihnachten heim zu kommen, dann wolle man ihr verzeihen. Cornelie spürte, wieviel tiefer das junge Geschöpf noch im Boden des Elternhauses wurzelte als in der neuen Mutterschaft, die ihr kaum andere als unheimliche Gefühle erwecken konnte.
 
-- Gabriele Reuters, aus: Das Tränenhaus, [sechzehntes Kapitel](https://www.projekt-gutenberg.org/reuterga/traenenh/chap016.html), 1926 [1908].
+- Gabriele Reuter, aus: Das Tränenhaus, [sechzehntes Kapitel](https://www.projekt-gutenberg.org/reuterga/traenenh/chap016.html), 1926 [1908].
 
 Ausgegrenzte Frauen, das Wegschauen der Gesellschaft, ärmliche Lebensverhältnisse - Gabriele Reuter verstand es, diese Themen gekonnt aufzugreifen. Jedenfalls wurde *Das Tränenhaus* ein literarischer Erfolg.
 
