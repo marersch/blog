@@ -1,18 +1,22 @@
 /*  typography */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700&display=swap');
 
+
+html {
+    font-size: 16px;
+}
 body {
   line-height: 1.4;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 1.2rem;
   color: $text-color;
 }
 
 p, .paragraph {
-  font-weight: 400;
   color: $text-color;
-  font-size: 15px;
+  font-size: 1.2rem;
+  font-weight: 500;
   line-height: 1.7;
   font-family: $primary-font;
 }
@@ -33,25 +37,25 @@ a{
 }
 
 h1, .h1{
-  font-size: 45px;
+  font-size: 3rem;
 }
 
 h2, .h2{
-  font-size: 36px;
+  font-size: 2.5rem;
 }
 
 h3, .h3{
-  font-size: 28px;
+  font-size: 2rem;
 }
 
 h4, .h4{
-  font-size: 22px;
+  font-size: 1.5rem;
 }
 
 h5, .h5{
-  font-size: 18px;
+  font-size: 1.4rem;
 }
 
 h6, .h6{
-  font-size: 16px;
+  font-size: 1.3rem;
 }
