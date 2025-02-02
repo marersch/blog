@@ -17,6 +17,7 @@ tags:
   - "Erinnerung"
   - "Gewalt"
   - "Klischee"
+  - "Nordamerika"
 
 
 
