@@ -11,7 +11,7 @@ description: "Quasselstrippe. Vorurteile. Redewendung. Ein Mann ein Wort. Eine F
 
 # taxonomies
 categories:
-  - "Klischee"
+  - "Klischees"
   
 tags:
   - "Frau"
