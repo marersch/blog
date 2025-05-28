@@ -19,6 +19,7 @@ tags:
   - "Griechenland"
   - "Bildung"
   - "Frau"
+  - "Medizin"
 
 
 # summary for main page
