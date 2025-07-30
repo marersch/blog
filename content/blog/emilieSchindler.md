@@ -16,7 +16,7 @@ categories:
   
 tags:
   - "Nationalsozialismus"
-  - "Welkriege"
+  - "Weltkriege"
 
   
   # summary for main page
