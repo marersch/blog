@@ -18,7 +18,7 @@ tags:
   - "Künstlerin"
   
 
-  # summary for main page
+# summary for main page
 summary: "Evelyn De Morgan (1855–1919) war eine der wenigen Frauen ihrer Zeit, die als Künstlerin erfolgreich war. In ihren Werken thematisierte sie Liebe, Tod und Auferstehung sowie Pazifismus und Frauenrechte."
   
 
