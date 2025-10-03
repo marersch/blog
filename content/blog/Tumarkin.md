@@ -1,5 +1,5 @@
 ---
-title: "Die erste ihrer Art"
+title: "Die Erste ihrer Art"
 date: 2025-10-03
 draft: false
 
