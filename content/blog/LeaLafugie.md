@@ -57,3 +57,11 @@ Léa Lafugie reiste 1926 über Lahore nach Kaschmir und weiter nach Ladakh, wo s
 - Buffetrille, Katia. 2019. L'âge d'or du Tibet: XVIIe & XVIIIe siècles. Les Belles Lettres.
 - Hamel, Didier und Sandrine Dapsens. 2016. Léa Lafugie: Art and Adventure. Hexart Publishing.
 
+
+
+
+
+
+.
+*Verwandter Beitrag:*
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/) - über Alexandra David-Néel

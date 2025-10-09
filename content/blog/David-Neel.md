@@ -76,3 +76,9 @@ Als sie nach mehrjähriger Reise endlich Lhasa betrat, war sie bis auf die Knoch
 *Literaturhinweise:*
 - Thévoz, Samuel. 2016. "[On the Threshold of the "Land of Marvels:" Alexandra David-Neel in Sikkim and the Making of Global Buddhism](https://doi.org/10.17885/heiup.ts.23541)," The Journal of Transcultural Studies 7 (1), S. 149-86.
 - Widmer, Caroline. 2008. "Alexandra David-Néel (1868-1969): Eine Frau, die Grenzen überschreitet," IN: Anna-Katharina Höpflinger, Ann Jeffers und Daria Pezzoli-Olgiati (Hg.): Handbuch Gender und Religion. Göttingen: Vandenhoeck & Ruprecht, S. 79-87.
+
+
+
+.
+*Verwandter Beitrag:*
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/) - über Léa Lafugie

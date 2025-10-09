@@ -20,6 +20,7 @@ tags:
   - "Himalaja"
   - "Women of color"
   - "Asien"
+  - "Tibet"
 
 
   # summary for main page
@@ -68,4 +69,10 @@ Die Erinnerung an die Geschichten dieser Frauen kann ermutigen, den eigenen Weg 
 *Literaturhinweise:*
 - Erschbamer, Marlene. 2024. [Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003438823-11/marginality-inequality-dependency-marlene-erschbamer), IN: Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich und Nanette R. Spina, Routledge, S. 204-219.
 - Erschbamer, Marlene. 2019. The Sisters of Pho lha nas. Preliminary Remarks on Two Women and Their Links to the 'Ba' ra ba Bka' brgyud Tradition, IN: Wind Horses: Tibetan, Himalayan and Mongolian Studies, ed. by Andrea Drocco, Lucia Galli, Chiara Letizia, Giacomella Orofino and Carmen Simioli, Series Minor, LXXXVIII, Napoli, S. 139-150.
+
+
+
+.
+*Verwandter Beitrag:*
+- [Einflussreiche Frau in Tibet](https://www.erinnermich.eu/blog/chokyi_dronma/)
 

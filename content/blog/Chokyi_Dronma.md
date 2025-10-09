@@ -64,10 +64,15 @@ Die Nonne Chokyi Dronma gilt als große Ausnahme: Zum einen war sie eine der wen
 
 
 
-.
-
-
 *Literaturhinweise:*
 - Diemberger, Hildegard. 2007. When a Woman becomes a Religious Dynasty: the Samding Dorje Phagmo of Tibet. New York: Columbia University Press.
 - Diemberger, Hildegard. 2014. [The First Samding Dorje Pakmo, Chokyi Dronma](http://treasuryoflives.org/biographies/view/First-Samding-Dorje-Pakmo-Chokyi-Dronma/13205). Treasury of Lives.
 - Erschbamer, Marlene. 2022. [Herstory Im Tibetischen Buddhismus.](https://www.eurac.edu/de/blogs/imagining-futures/herstory-im-tibetischen-buddhismus). Eurac Research, doi:10.57708/B122550231.
+
+
+
+
+
+.
+*Verwandter Beitrag:*
+- [Zwei tibetische Prinzessinnen](https://www.erinnermich.eu/blog/pemachozin_pemachodzom/)
