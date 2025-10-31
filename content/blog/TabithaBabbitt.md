@@ -28,7 +28,7 @@ summary: "Zu Beginn des 19. Jahrhunderts erfand eine Frau in den USA die Kreiss�
 type: "post"
 ---
 
-Werkzeug für alle - das war ihre Überzeugung. Sie erfand Geräte, die heute noch weltweit Verwendung finden. Doch ihr Glauben verbot es ihr, ihre Erfindungen patentieren zu lassen. Das Resultat? Männer schnappten ihre Erfindung und erhielten die Rechte darauf.
+Werkzeug für alle - das war ihre Überzeugung. Sie erfand Geräte, die heute noch weltweit Verwendung finden. Doch ihr Glaube verbot es ihr, ihre Erfindungen patentieren zu lassen. Das Resultat? Männer schnappten ihre Erfindung und erhielten die Rechte darauf.
  
 Sarah „Tabitha“ Babbitt (1779-1853) war die Erfinderin der Kreissäge, die aufgrund ihrer Weltanschauung um Anerkennung und Ruhm betrogen wurde.
 
