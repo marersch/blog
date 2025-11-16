@@ -1,13 +1,21 @@
 <div class="col-lg-4">
   <div class="widgets">
-    <!-- category -->
+    <!-- newsletter -->
     <div class="widget">
       <h4 class="widget-title">Newsletter</h4>
-      <div>Newsletter abonnieren und <br>keinen Beitrag mehr verpassen!</div>
+      <p>Newsletter abonnieren und <br>keinen Beitrag mehr verpassen!</p>
       <script async data-uid="96d4fce9ca" src="https://sunny-experimenter-289.ck.page/96d4fce9ca/index.js"></script>
       <div><a href="/contact/#datenschutz-newsletter" style="color:#00AAA1;">Einverständnis/Datenschutz</a></div>
+     </div>
+    <!-- buch -->
+      <div class="widget">
+		<h4 class="widget-title">Zeitwunden</h4>
+		<img class="rounded" src="{{ .Site.Params.foto_zeitwunden | absURL }}" alt="Zeitwunden Buch">
+		<p> Mein Roman <a href="https://fiona-novale.erinnermich.eu/" style="color:#00AAA1;">ZEITWUNDEN</a> <br> Pseudonym Fiona Novale </p>
       </div>
-    <div class="widget">
+    
+    <!-- category -->
+    <!-- <div class="widget">
       <h4 class="widget-title">Kategorien</h4>
       {{- if isset .Site.Taxonomies "categories" }}
       {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
@@ -20,7 +28,7 @@
       </ul>
       {{- end }}
       {{- end }}
-    </div>
+    </div> -->
     <!-- Tags -->
     <div class="widget">
       <h4 class="widget-title">Tags</h4>
@@ -28,7 +36,7 @@
       {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
       <ul class="list-inline">
         {{- range $name, $items := .Site.Taxonomies.tags }}
-        <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white"
+        <li class="list-inline-item"><a class="d-block p-1 bg-primary text-white"
             href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | humanize }}</a></li>
         {{- end }}
       </ul>
