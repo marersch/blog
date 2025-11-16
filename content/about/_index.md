@@ -24,7 +24,7 @@ Mein Name ist Marlene Erschbamer und hier dreht sich alles um Geschichte, Philos
 
 Habt ihr euch beim Aufschlagen eures Geschichts- oder Philosophiebuches auch schon einmal gefragt, wo denn die Frauen geblieben sind? Haben nur Männer Geschichte geschrieben oder über die großen Fragen nachgedacht? Diese einseitige Darstellung hat mich bereits während meiner Schulzeit in Südtirol und teilweise auch später während meines Studiums in München irritiert.
 
-Schließlich kann ich mich gut daran erinnern, dass ich mir bereits im Grundschulalter meinen Kopf darüber zerbrochen habe, warum ich bin, wer ich bin, und warum ich nicht wer anderes bin und was das bedeutet oder eben auch nicht... Philosophie und genauso mein Interesse an Geschichte begleiten mich seit meiner Kindheit. Und ja, auch heute noch wundere ich mich über die Welt, die Menschen, vermeintliche Selbstverständlichkeiten und versuche Dynamiken aufzuspüren und zu verstehen. Diese Liebe habe ich teilweise zu meinem [Beruf](https://erschbamer.net/portfolio/) gemacht.
+Schließlich kann ich mich gut daran erinnern, dass ich mir bereits im Grundschulalter meinen Kopf darüber zerbrochen habe, warum ich bin, wer ich bin, und warum ich nicht wer anderes bin und was das bedeutet oder eben auch nicht... Philosophie und genauso mein Interesse an Geschichte begleiten mich seit meiner Kindheit. Und ja, auch heute noch wundere ich mich über die Welt, die Menschen, vermeintliche Selbstverständlichkeiten und versuche Dynamiken aufzuspüren und zu verstehen. Diese Liebe habe ich teilweise zu meinem [Beruf](https://scholar.erschbamer.net) gemacht.
 
 ##### Was euch erwartet
 
