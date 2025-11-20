@@ -7,7 +7,8 @@ draft: false
 image: "images/post/anscombe.jpg"
 
 # meta description
-description: "Elizabeth Anscombe. Oxford. Ludwig Wittgenstein. Peter Geach. Geschichte der Philosophie von der Antike bis zur Moderne, Metaphysik, Erkenntnistheorie, Sprachphilosophie, Philosophie des Geistes bzw. Psychologie, Handlungsphilosophie, Moralphilosophie, politische Philosophie und Religionsphilosophie. Cambridge. Frau in Hosen. Moral, Tugend und Ethik. Kritik an Harry Truman. Absicht."
+description: "Elizabeth Anscombe. Oxford. Ludwig Wittgenstein. Peter Geach. Geschichte der Philosophie von der Antike bis zur Moderne, Metaphysik, Erkenntnistheorie, Sprachphilosophie, Philosophie des Geistes bzw. Psychologie, Handlungsphilosophie, Moralphilosophie, politische Philosophie und Religionsphilosophie. Cambridge. Frau in Hosen. Moral, Tugend und Ethik. Kritik an Harry Truman. Absicht. Elizabeth Anscombe.
+G.E.M. Anscombe. Elizabeth Anscombe Philosophin. Anscombe Philosophie. Analytische Philosophie Anscombe. Anscombe Cambridge. Oxford Philosophinnen. Ludwig Wittgenstein. Bedeutendste Philosophinnen des 20. Jahrhunderts. Frauen in der analytischen Philosophie. Wittgensteins Erbe Anscombe."
 
 # taxonomies
 categories:

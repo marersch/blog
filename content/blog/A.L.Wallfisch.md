@@ -7,7 +7,8 @@ draft: false
 image: "images/post/lasker-wallfisch.jpg"
 
 # meta description
-description: "Anita Lasker-Wallfisch. Mädchenorchester Auschwitz. Wir leben trotzdem! Überlebende KZ. Gegen das Vergessen. Gegen Neonazismus. Holocaust. Holocaustleugnung. Verfolgung Juden. Antisemitismus. Musik Nationalsozialismus. Musik Konzentrationslager. KZ Bergen Belsen. KZ Auschwitz. Cellistin Auschwitz. Marschmusik KZ zum Abzählen. Lustige Musik für Deportierte."
+description: "Anita Lasker-Wallfisch. Mädchenorchester Auschwitz. Wir leben trotzdem! Überlebende KZ. Gegen das Vergessen. Gegen Neonazismus. Holocaust. Holocaustleugnung. Verfolgung Juden. Antisemitismus. Musik Nationalsozialismus. Musik Konzentrationslager. KZ Bergen Belsen. KZ Auschwitz. Cellistin Auschwitz. Marschmusik KZ zum Abzählen. Lustige Musik für Deportierte. Anita Lasker-Wallfisch
+Die Cellistin von Auschwitz. Anita Lasker Wallfisch Zeitzeugin. Holocaust Überlebende Anita Lasker-Wallfisch. Mädchenorchester Auschwitz. Musik im KZ Auschwitz. Holocaust Bildung."
 
 # taxonomies
 categories:

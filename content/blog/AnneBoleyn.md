@@ -7,7 +7,7 @@ draft: false
 image: "images/post/anneBoleyn.jpg"
 
 # meta description
-description: "Anne Boleyn. König Heinrich VIII. zweite Ehefrau. Königin Elizabeth I. Stundenbuch. Verführerin und Ehebrecherin. Bruch mit dem Papst. Hinrichtung. Großbritannien. Anglikanische Kirche. Netzwerk Frauen. Gedenke meiner."
+description: "Anne Boleyn. König Heinrich VIII. zweite Ehefrau. Königin Elizabeth I. Stundenbuch. Verführerin und Ehebrecherin. Bruch mit dem Papst. Hinrichtung. Großbritannien. Anglikanische Kirche. Netzwerk Frauen. Gedenke meiner. Heinrich VIII. Anne Boleyn. zweite Frau Heinrich VIII. Geschichte Anne Boleyn."
 
 # taxonomies
 categories:

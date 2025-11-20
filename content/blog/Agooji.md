@@ -7,7 +7,7 @@ draft: false
 image: "images/post/dahomeyKriegerinnen.jpg"
 
 # meta description
-description: "Männergeschichte. Menschengeschichte. Amazonen. Mythenbildung. Klischees. Rollenmuster. Vorurteile. Kriegerin. Schubladendenken. Agooji. Königreich Dahomey. Westafrika. Benin. Krieg gegen Frankreich. Französische Kolonie. Sklaven. Elitekriegerinnen. Frauen als Geheimwaffe. Mystifizierte Kriegerinnen. Gefürchtete Frauen. Zenobia. Boudica. Njinga Mbande."
+description: "Männergeschichte. Menschengeschichte. Amazonen. Mythenbildung. Klischees. Rollenmuster. Vorurteile. Kriegerin. Schubladendenken. Agooji. Königreich Dahomey. Westafrika. Benin. Krieg gegen Frankreich. Französische Kolonie. Sklaven. Elitekriegerinnen. Frauen als Geheimwaffe. Mystifizierte Kriegerinnen. Gefürchtete Frauen. Zenobia. Boudica. Njinga Mbande. Historische weibliche Krieger. Kriegerinnen von Dahomey. Agojie. Dahomey Amazonen. weibliche Krieger Dahomey."
 
 # taxonomies
 categories:

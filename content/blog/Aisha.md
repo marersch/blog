@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Aisha.jpg"
 
 # meta description
-description: "Aisha al-Manoubia, Lella, muslimische Heilige, Tunesien, Gleichberechtigung, Sufismus, Rat von Tunis, Gelehrte, Politikerin"
+description: "Aisha al-Manoubia, Lella, muslimische Heilige, Tunesien, Gleichberechtigung, Sufismus, Rat von Tunis, Gelehrte, Politikerin. Frauen im Islamische Mystik. Islamische Heiligenverehrung Nordafrika. Tunesische Geschichte Frauen. Berber Frau Geschichte. Aisha al-Manoubia. Lalla Manoubia. Sufi Heilige Tunesien. Weibliche Sufi Heilige. Geschichte Aisha al-Manoubia. Biographie Aisha al-Manoubia. Aisha al-Manoubia Frauenrechte. Frau Islam Verehrung. Frau Islam Politik. Frau Islam Gelehrte. Islam Gleichberechtigung."
 
 # taxonomies
 categories:

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/AngelaDavis.jpg"
 
 # meta description
-description: "Angela Davis. Aktivistin. Feministin. Kapitalismuskritikerin. Kommunistin. Philosophin. Schauprozess. Women of color. DDR. USA. Dynamite Hill."
+description: "Angela Davis. Aktivistin. Feministin. Kapitalismuskritikerin. Kommunistin. Philosophin. Schauprozess. Women of color. DDR. USA. Dynamite Hill. Angela Davis. Angela Davis Philosophin. Angela Davis Bürgerrechtlerin. Angela Davis Aktivistin. Biographie Angela Davis. Angela Davis FBI Most Wanted. Angela Davis Prozess. Angela Davis Philosophie. Angela Davis politische Philosophie. Angela Davis Kritische Theorie. Angela Davis Feminismus. Angela Davis Rassentheorie."
 
 # taxonomies
 categories:

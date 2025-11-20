@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Achmatowa.jpg"
 
 # meta description
-description: "Anna Andrejewna Achmatowa. Dichterin und Schriftstellerin. Requiem. ukrainisch-russische Dichterin und Schriftstellerin. Nominierung Nobelpreis. Ersten Weltkrieg, die Oktoberrevolution, die junge Sowjetrepublik, die stalinistischen Repressionen der 1930er Jahre, den Zweiten Weltkrieg sowie die wiederkehrenden Repressionen ab 1945 und schließlich Stalins Tod 1953. Erinnerung. Erinnern nicht vergessen. Gegen das Vergessen. Gedichte. Silberne Zeitalter. Russland. St. Petersburg. Odessa. Vergangenheit erhalten."
+description: "Anna Achmatowa. Anna Achmatowa Dichterin. russische Dichterin Anna Achmatowa. Biographie Anna Achmatowa. Gedichte Anna Achmatowa. Anna Andrejewna Achmatowa. Dichterin und Schriftstellerin. Requiem. ukrainisch-russische Dichterin und Schriftstellerin. Nominierung Nobelpreis. Ersten Weltkrieg, die Oktoberrevolution, die junge Sowjetrepublik, die stalinistischen Repressionen der 1930er Jahre, den Zweiten Weltkrieg sowie die wiederkehrenden Repressionen ab 1945 und schließlich Stalins Tod 1953. Erinnerung. Erinnern nicht vergessen. Gegen das Vergessen. Gedichte. Silberne Zeitalter. Russland. St. Petersburg. Odessa. Vergangenheit erhalten. Silbernes Zeitalter russische Poesie Anna Achmatowa. Frauen in der russischen Literatur."
 
 # taxonomies
 categories:

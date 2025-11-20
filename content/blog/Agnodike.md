@@ -7,7 +7,7 @@ draft: false
 image: "images/post/agnodike1.jpg"
 
 # meta description
-description: "Agnodike. Erste Ärztin und Geburtshelferin im antiken Griechenland. Ärztin in Männerkleidern. Bildung für Frauen. Antikes Griechenland."
+description: "Agnodike. Erste Ärztin und Geburtshelferin im antiken Griechenland. Ärztin in Männerkleidern. Bildung für Frauen. Antikes Griechenland. Agnodike. Agnodike von Athen. erste Ärztin der Geschichte. Agnodike Hebamme. Geschichte Agnodike. Frauen in der antiken Medizin. Medizin im antiken Griechenland. Frauen als Ärzte verboten Athen. Agnodike verkleidet als Mann. Agnodike Inspiration Frauen Medizin. Pionierin der Gynäkologie. Symbol weibliche Gleichberechtigung Medizin."
 
 # taxonomies
 categories:

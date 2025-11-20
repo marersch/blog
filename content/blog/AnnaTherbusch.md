@@ -7,7 +7,7 @@ draft: false
 image: "images/post/therbusch.jpg"
 
 # meta description
-description: "Anna Dorothea Therbusch. Rokoko. Malerin. Preußen. Porträt-Malerin. Ehrenmitglied Stuttgarter Akademie. Institut der freien Künste von Bologna. Pariser Académie royale de peinture et de sculpture. Selbstbildnis gelehrte Frau mit Monokel. Werk Junge Frau im Negligé. Künstlerin. Erfolgreiche Malerin Deutschland. Künstlerinnen Europa."
+description: "Anna Dorothea Therbusch. Rokoko. Malerin. Preußen. Porträt-Malerin. Ehrenmitglied Stuttgarter Akademie. Institut der freien Künste von Bologna. Pariser Académie royale de peinture et de sculpture. Selbstbildnis gelehrte Frau mit Monokel. Werk Junge Frau im Negligé. Künstlerin. Erfolgreiche Malerin Deutschland. Künstlerinnen Europa. Anna Dorothea Therbusch. Anna Dorothea Therbusch Malerin. deutsche Rokoko-Malerin. Anna Dorothea Lisiewska. Künstlerin 18. Jahrhundert. Frau Kunst."
 
 # taxonomies
 categories:

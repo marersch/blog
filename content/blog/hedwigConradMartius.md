@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hedwigConrad-Martius.jpg"
 
 # meta description
-description: "Hedwig Conrad-Martius. Naturphilosophie. Phänomenologie. Moritz Geiger. Universität München. Edmund Husserl. Universität Göttingen. Realontologie. Wahrnehmung, Bewusstsein und Wirklichkeit. Raum und Zeit. Seinsphilosophie. Deutsche Philosophin."
+description: "Hedwig Conrad-Martius. Naturphilosophie. Phänomenologie. Moritz Geiger. Universität München. Edmund Husserl. Universität Göttingen. Realontologie. Wahrnehmung, Bewusstsein und Wirklichkeit. Raum und Zeit. Seinsphilosophie. Deutsche Philosophin. Bedeutendste Philosophinnen des 20. Jahrhunderts. Frau jüdische Wurzel Hedwig Conrad-Martius. Jüdische Philosophin. Philosophie Raum und Zeit. Philosophie Natur und Sein Hedwig Conrad Martius. Frau in der Philosophie."
 
 # taxonomies
 categories:

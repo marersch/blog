@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ma.jpg"
 
 # meta description
-description: "Anandamayi Ma. Indien. Hinduismus. Religiöse Meisterin. Asien. Hinduistische Frau. Selbstverwirklichung. Bengalen. Bengalische Mutter. Philosophie Indien. Indische Philosophin. Einheit aller Religionen. Frauen im Hinduismus. Ostbengalen Bangladesch. Krishna. Frauenrollen Indien. Kinderhochzeit. Kinderehe. Frau dient Mann."
+description: "Anandamayi Ma. Indien. Hinduismus. Religiöse Meisterin. Asien. Hinduistische Frau. Selbstverwirklichung. Bengalen. Bengalische Mutter. Philosophie Indien. Indische Philosophin. Einheit aller Religionen. Frauen im Hinduismus. Ostbengalen Bangladesch. Krishna. Frauenrollen Indien. Kinderhochzeit. Kinderehe. Frau dient Mann. Anandamayi Ma. Sri Anandamayi Ma. Anandamayi Ma Dichterin. Anandamayi Ma spirituelle Meisterin. Biographie Anandamayi Ma."
 
 
 # taxonomies

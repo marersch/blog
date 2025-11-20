@@ -7,7 +7,7 @@ draft: false
 image: "images/post/waeger_tibet.jpg"
 
 # meta description
-description: "Rollenbilder im Nationalsozialismus. Frau als Geburtsmaschine. Mutter der Tibeter. Tibethilfe. Irmtraut Wäger. Tibeter im Exil in Indien."
+description: "Rollenbilder im Nationalsozialismus. Frau als Geburtsmaschine. Mutter der Tibeter. Tibethilfe. Irmtraut Wäger. Tibeter im Exil in Indien. Irmtraut Wäger. Amala. Tibet Hilfe Deutschland. Herz für Tibet. Tibet gegen Vergessen. Tibet Faszination. Tibet Zerstörung. Tibet Ethnozid. Tibet. Tibet. Tibet. Exiltibeter. Tibetische Kultur. Erhalt tibetische Kultur Identität."
 
 # taxonomies
 categories:
