@@ -7,7 +7,7 @@ draft: false
 image: "images/post/enheduanna.jpg"
 
 # meta description
-description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Namen in Geschichtsbüchern stehen?"
+description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Namen in Geschichtsbüchern stehen? Vergessene Frauen Geschichte. Weibliche Pioniere Geschichte. Frauen Unsichtbarkeit Geschichtsschreibung. Männerdominierte Historiografie. Geschlechter bias Geschichtsforschung. Wissenschaftlerinnen historisch vergessen. Frauen in der Geschichte wiederentdecken. Systematische Auslassung weiblicher Autoren Historie. Bedeutende Frauen Geschichte neu erzählt. Herstory. Jede Geschichte zählt. Frauengeschichte Frauenpower."
 
 # taxonomies
 categories:
@@ -58,3 +58,17 @@ Wünschenswert wäre eine Geschichtsschreibung des Menschen, bei der der Mensch 
 
 *Literaturhinweis:*
 - Paletschek, Sylvia. 2007. „Historiographie und Geschlecht,“  IN: R. Johanna Regnath (Hg.): Eroberung der Geschichte: Frauen und Tradition. Hamburg: LIT-Verlag, S. 105-127.
+
+
+
+
+.
+
+
+*Verwandte Beiträge:*
+- [Frühkindliche Vorurteile](https://www.erinnermich.eu/blog/stereotypen/)
+- [Über verleugnete Geschichte](https://www.erinnermich.eu/blog/gerdalerner/)
+- [Schubladendenken](https://www.erinnermich.eu/blog/moorleiche/)
+- [Die Macht der Sprache](https://www.erinnermich.eu/blog/machtsprache/)
+- [Variablen der Geschichte](https://www.erinnermich.eu/blog/neuegeschichte/)
+

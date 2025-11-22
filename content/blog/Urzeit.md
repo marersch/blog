@@ -7,7 +7,7 @@ draft: false
 image: "images/post/urzeit.jpg"
 
 # meta description
-description: "Steinzeit. Frau und Mann gleichberechtigt. Klimawandel und Sesshaftigkeit führten zu Ungleichheit der Geschlechter. Geschlechtsspezifische Ernährung."
+description: "Steinzeit. Frau und Mann gleichberechtigt. Klimawandel und Sesshaftigkeit führten zu Ungleichheit der Geschlechter. Geschlechtsspezifische Ernährung. Jagd Steinzeit Rollenverteilung. Frauen Jagd Steinzeit Forschung. Geschlechterrollen Steinzeit Mythos. Archäologie Frauen Jägerinnen. Jäger und Sammlerinnen Rollen. Steinzeit Geschlechtergleichheit Archäologie. Frauen Jagd Grabbeigaben prähistorisch. Gleichberechtigung Steinzeit Knochenfunde. Archäologie Geschlechterrollen. Jäger-Sammler-Kulturen. Mythos männlicher Jäger Frauenforschung. Prähistorische Geschlechterunterschiede. Verteilung Jagdwaffen Gräber Steinzeit. Soziale Unterschiede Geschlechter Urgesellschaft."
 
 # taxonomies
 categories:
@@ -54,3 +54,13 @@ Steinzeitliche Knochenfunde und Grabbeigaben aus verschiedenen Regionen der Welt
 *Literaturhinweise:*
 - Röder, Brigitte (Hg.). 2014. Ich Mann. Du Frau. Feste Rollen seit Urzeiten? Freiburg i.Br.: Rombach Verlag.
 - Sénécheau, Miriam, Silviane Scharl und Christina Kempcke-Richter. 2011. „Archäologie im Schulbuch. 10 Jahre DGUF-Arbeitskreis und das Beispiel der Jungsteinzeit in Schulbüchern,“ IN: Jutta Meurers-Balke und Werner Schön (Hg.): Vergangene Zeiten...LIBER AMICORUM. Gedenkschrift für Jürgen Hoika. Bonn: Habelt, S. 241–258.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mythos Stillen](https://www.erinnermich.eu/blog/stillen/)
+- [Die Schamanin](https://www.erinnermich.eu/blog/schamanin/)
+- [Fürstin der Kupferzeit](https://www.erinnermich.eu/blog/kupferzeit-fuerstin/)
+- [Variablen der Geschichte](https://www.erinnermich.eu/blog/neuegeschichte/)

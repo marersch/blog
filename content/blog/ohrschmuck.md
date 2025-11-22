@@ -71,5 +71,10 @@ Im Laufe des 20. Jahrhunderts bekamen Ohrringe noch eine andere Bedeutung: Sie w
 
 Abgesehen davon trugen Männer ab den 1960er Jahren Ohrringe, um sich als Hippie zu kennzeichnen, und etwa ab den 1980ern, um ihrer homosexuellen Orientierung Ausdruck zu verleihen. Mittlerweile hat das jedoch an Bedeutung verloren und Männer wie Frauen tragen Ohrringe häufig ohne politischen, sozialen oder kulturellen Hintergrund, sondern schlicht und einfach, weil es gefällt.
 
+*Verwandte Beiträge:*
+- [Bemalte Haut](https://www.erinnermich.eu/blog/tattoos/)
+- [Schönheitsideale](https://www.erinnermich.eu/blog/ideal/)
+- [Weiß wie Schnee](https://www.erinnermich.eu/blog/farbe/)
+
 
 

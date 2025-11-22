@@ -7,7 +7,7 @@ draft: false
 image: "images/post/zenobia.jpg"
 
 # meta description
-description: "Zenobia. Kampf gegen Rom. Ambivalentes Frauenbild. Herrscherin mit männlichen und weiblichen Eigenschaften. Irritation der Männerwelt. Vorbild der arabischen Frauenbewegung."
+description: "Zenobia. Kampf gegen Rom. Ambivalentes Frauenbild. Herrscherin mit männlichen und weiblichen Eigenschaften. Irritation der Männerwelt. Vorbild der arabischen Frauenbewegung. Zenobia Königin von Palmyra. Zenobia Rebellion gegen Rom. Zenobia Kaiser Aurelian. Zenobia Geschichte Palmyra. Zenobia die Kriegerkönigin. Zenobia Herrscherin Orient. Zenobia Schicksal Tod. Zenobia Erbe Symbol Syrien. Herstory. Frauengeschichte. Frauen schreiben Geschichte. Geschichtsschreibung Frau. Frauenrollen."
 
 # taxonomies
 categories:
@@ -58,3 +58,16 @@ Dieses Bild einer mächtigen und gebildeten Frau passt nun gar nicht in das Welt
 
 *Literaturhinweis:*
 - Wieber, Anja. 2000. „Die Augusta aus der Wüste – die palmyrenische Herrscherin Zenobia,“ In: Thomas Späth, Beate Wagner-Hasel (Hg.): Frauenwelten in der Antike. Geschlechterordnung und weibliche Lebenspraxis. Stuttgart: Verlag J.B. Metzler, S. 281–310.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Herrscherin im Orient](https://www.erinnermich.eu/blog/semiranis/)
+- [Frauen stehen ihren Mann](https://www.erinnermich.eu/blog/tomyris/)
+- [Kleopatra Südamerikas](https://www.erinnermich.eu/blog/moche/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
+- [Erste Pharaonin](https://www.erinnermich.eu/blog/meret-neith/)
+- [Kaiserin Theodora](https://www.erinnermich.eu/blog/theodora/)
+- [Nonnen-Samurai-Herrscherin](https://www.erinnermich.eu/blog/hojomasako/)
+- [Königin des Nordens](https://www.erinnermich.eu/blog/margarethe_i/)

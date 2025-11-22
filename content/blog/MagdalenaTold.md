@@ -7,7 +7,7 @@ draft: false
 image: "images/post/saeben.jpg"
 
 # meta description
-description: "Magdalena Told. Kloster Säben in Südtirol. 1797, 1809. Franzosen und Bayern in Südtirol. Nonne in Soldatenkleidung."
+description: "Magdalena Told. Kloster Säben in Südtirol. 1797, 1809. Franzosen und Bayern in Südtirol. Nonne in Soldatenkleidung.Magdalena Told Biografie Kloster Säben Südtirol. Magdalena Told Nonne Säben Südtirol. Magdalena Told Geschichte Kloster Säben Klausen. Magdalena Told Kloster Säben Chronik. Geschichte Südtirol. Angriff Südtirol. Frau verteidigt Südtirol. Frauenpower Südtirol. Nonne Südtirol. Gewalt Kloster Südtirol. Erinnerung Magdalena Told Südtirol. Nonne gegen Soldaten. Kriegszeit Frau Südtirol. Mutige Frauen Südtirol. Frauengeschichte. Herstory Südtirol."
 
 # taxonomies
 categories:
@@ -52,3 +52,7 @@ Dann trat sie vor den Truppenführer und schilderte die Verwüstung des Klosters
 Kurze Zeit später fielen erneut die Franzosen in Südtirol ein und Säben wurde zu einem strategischen Stützpunkt deklariert. Im Jahre 1810 erhielt der Bischof von Brixen von den Franzosen den Befehl, den Nonnen neue Quartiere zuzuordnen. Das Kloster sollte zukünftig anderweitig genutzt werden. Doch die Nonne Magdalena ließ sich auch dieses Mal nicht aus ihrem Kloster vertreiben. 
 
 1814 kehrte endlich Ruhe ein und die Klostergemeinschaft wurde wieder aufgebaut. Später, zwischen 1829 und 1833, übernahm Magdalena noch das Amt der Klostervorsteherin.
+
+
+*Verwandter Beitrag:*
+- [Heldenmädchen](https://www.erinnermich.eu/blog/heldenmaedchen/)
