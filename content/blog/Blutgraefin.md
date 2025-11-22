@@ -7,7 +7,8 @@ draft: false
 image: "images/post/bathory.jpg"
 
 # meta description
-description: "Blutgräfin. Elisabeth Báthory. Ungarische Gräfin. Erzsébet Báthory. Wien. Blut als Jungbrunnen. Ewige Jugend. Stadt Čachtice. Habsburger. Mörderin. Intrige. Guinnesbuch der Rekorde. Reiche ungarische Adelsfamilie. Sadistin."
+description: "Blutgräfin. Elisabeth Báthory. Ungarische Gräfin. Erzsébet Báthory. Wien. Blut als Jungbrunnen. Ewige Jugend. Stadt Čachtice. Habsburger. Mörderin. Intrige. Guinnesbuch der Rekorde. Reiche ungarische Adelsfamilie. Sadistin. Elisabeth Báthory Ungarische Gräfin Serienmörderin. Geschichte Legenden Mythos Frau Blutgräfin. Frau Blut Jugend. Elisabeth Báthory ungarische Gräfin Gewalt. Blut von Jungfrauen. Baden im Blut.
+Ewige Jugend Schönheit Blut."
 
 # taxonomies
 categories:

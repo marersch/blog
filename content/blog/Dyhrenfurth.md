@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hettieDyhrenfurth.jpg"
 
 # meta description
-description: "Hettie Dyhrenfurth. Olympische Goldmedaille in Bergsteigen. Sikkim. Kangchendzönga. Frau im Himalaja. Himalaya. Höhenrekord für Frauen. Karakorum. Ladakh. Wettrennen gegen die Nazis. Bergsteigerin. Bergsteiger und Geologe Günter Oskar Dyhrenfurth."
+description: "Hettie Dyhrenfurth. Olympische Goldmedaille in Bergsteigen. Sikkim. Kangchendzönga. Frau im Himalaja. Himalaya. Höhenrekord für Frauen. Karakorum. Ladakh. Wettrennen gegen die Nazis. Bergsteigerin. Bergsteiger und Geologe Günter Oskar Dyhrenfurth. Hettie Dyhrenfurth Alpinistin Höhenrekord Frauen. Olympia Goldmedaille Alpinismus 1936. Biografie Alpinismus Frau. Frau Berge. Frau Himalaya Berg Frau."
 
 # taxonomies
 categories:

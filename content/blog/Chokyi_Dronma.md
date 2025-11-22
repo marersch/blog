@@ -7,7 +7,7 @@ draft: false
 image: "images/post/dorjePhagmo.jpg"
 
 # meta description
-description: "Himalaja. Tibet. Buddhistin. Tibetischer Buddhismus. Frau im Buddhismus. Frau und Macht im Tibetischen Buddhismus. Weibliche Inkarnationslinie. Prinzessin Chokyi Dronma. tantrischen Gottheit Vajravarahi. Mangyul Gunthang. Samding Dorje Phagmo. Kloster Samding in Tibet. Volle Ordinations tibetische Nonne. Vollordination Nonnen."
+description: "Himalaja. Tibet. Buddhistin. Tibetischer Buddhismus. Frau im Buddhismus. Frau und Macht im Tibetischen Buddhismus. Weibliche Inkarnationslinie. Prinzessin Chokyi Dronma. tantrischen Gottheit Vajravarahi. Mangyul Gunthang. Samding Dorje Phagmo. Kloster Samding in Tibet. Volle Ordinations tibetische Nonne. Vollordination Nonnen Tibet. Chokyi Dronma. Chökyi Drönma. Erste weibliche Reinkarnation. Samding Dorje Phagmo Tibet. Tibetische Prinzessin Nonne. Frau Tibetischer Buddhismus. Frau Buddhismus Macht. Frauen im tibetischen Buddhismus. Geschichte Tibet. Tibet. Frau Tibet. Tibet Frau. Prinzessin Tibet. Frau Kloster Tibet. Himalaya Frau."
 
 # taxonomies
 categories:

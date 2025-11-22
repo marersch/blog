@@ -7,7 +7,8 @@ draft: false
 image: "images/post/droste-huelshoff.jpg"
 
 # meta description
-description: "Annette von Droste-Hülshoff. Wichtigste deutsche Schrifstellerin. Dichterin. Komponistin. Die Judenbuche. Der Knabe im Moor. Intrige. Gesellschaftliche Erwartungen und soziale Normen für Frauen. Deutsche Biedermeier. Ambivalenz des Daseins und der Natur. Nichte von Maximilian Friedrich von Droste zu Hülshoff. Streng katholische Lebensbilder für Frauen. Mord an einem Juden, Gewalt, Armut und Alkoholmissbrauch."
+description: "Annette von Droste-Hülshoff. Wichtigste deutsche Schrifstellerin. Dichterin. Komponistin. Die Judenbuche. Der Knabe im Moor. Intrige. Gesellschaftliche Erwartungen und soziale Normen für Frauen. Deutsche Biedermeier. Ambivalenz des Daseins und der Natur. Nichte von Maximilian Friedrich von Droste zu Hülshoff. Streng katholische Lebensbilder für Frauen. Mord an einem Juden, Gewalt, Armut und Alkoholmissbrauch. Annette von Droste-Hülshoff Dichterin. Die Judenbuche berühmtestes Prosawerk Kriminalnovelle. Biedermeier Literaturepoche Frau.
+Realismus Frau. Biografie Annette von Droste-Hülshoff. 20 Mark Schein Frau."
 
 # taxonomies
 categories:

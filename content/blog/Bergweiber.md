@@ -7,7 +7,7 @@ draft: false
 image: "images/post/bergweiber.jpg"
 
 # meta description
-description: "Alpen. Bergsteigen. Französin Henriette d’Angeville. Mont Blanc. Alpinismus und Frauen. Britin Lucy Walker. Matterhorn. Paula Wiesinger. Südtirol. Rosengarten. Dolomiten. Ostroute der Rosengartenspitze. Amerikanerin Lynn Hill. Nose, eine etwa 1000 Meter lange Kletterroute in Kalifornien."
+description: "Alpen. Bergsteigen. Französin Henriette d’Angeville. Mont Blanc. Alpinismus und Frauen. Britin Lucy Walker. Matterhorn. Paula Wiesinger. Südtirol. Rosengarten. Dolomiten. Ostroute der Rosengartenspitze. Amerikanerin Lynn Hill. Nose, eine etwa 1000 Meter lange Kletterroute in Kalifornien. Frauen im Alpinismus. Bergsteigerinnen. Geschichte des Frauenalpinismus. Pionierinnen am Berg. Alpinistinnen. Frauen Bergsteigen 19. Jahrhundert. Ausschluss Frauen Alpenvereine. Frühe Bergsteigerinnen. Geschlechterrollen Alpinismus. Gender History Alpinismus."
 
 # taxonomies
 categories:

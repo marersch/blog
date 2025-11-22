@@ -7,7 +7,8 @@ draft: false
 image: "images/post/ChingShih.jpg"
 
 # meta description
-description: "Ching Shih. Zheng Shi. Zheng Yisao. Witwe Cheng. Erfolgreichster Pirat aller Zeiten. Piratin. Südchina. China. Piratencodex. Ehrencodex. Riesige Flotte. Boat people. Tankas. Zuerst Piratin dann Adlige. Verhandlungen mit Kaiser von China."
+description: "Ching Shih. Zheng Shi. Zheng Yisao. Witwe Cheng. Erfolgreichster Pirat aller Zeiten. Piratin. Südchina. China. Piratencodex. Ehrencodex. Riesige Flotte. Boat people. Tankas. Zuerst Piratin dann Adlige. Verhandlungen mit Kaiser von China. Ching Shih. Zheng Yi Sao. Piratenkönigin China. Größte Piratenflotte der Geschichte.
+Red Flag Fleet. 19. Jahrhundert Piraterie Frau. Südchinesisches Meer. Strenger Ehrenkodex Piraten. Qing-Dynastie Konflikt. Prostituierte Aufstieg Macht."
 
 # taxonomies
 categories:

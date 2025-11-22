@@ -7,7 +7,7 @@ draft: false
 image: "images/post/david-neel.jpg"
 
 # meta description
-description: "Alexandra David-Néel. Sikkim. Himalaja. Tibet. Nepal. Mongolei. China. Japan. Wüste Gobi. Sidkeong Tulku. Philippe Néel. In die verbotene Stadt Lhasa. Opernsängerin. Tunis. Orientalistin. Abenteurerin. Feministin. Buddhistin. Reiseschriftstellerin. Erforscherin des Tibetischen Buddhismus."
+description: "Alexandra David-Néel. Sikkim. Himalaja. Tibet. Nepal. Mongolei. China. Japan. Wüste Gobi. Sidkeong Tulku. Philippe Néel. In die verbotene Stadt Lhasa. Opernsängerin. Tunis. Orientalistin. Abenteurerin. Feministin. Buddhistin. Reiseschriftstellerin. Erforscherin des Tibetischen Buddhismus. Tibet Frankreich. Alexandra David-Néel. Erste westliche Frau in Lhasa. Lhasa Tibet. Forschungsreisende Nordindien Tibet. Frau Buddhismus. Orientalistin Alexandra David-Néel. Verbotene Stadt Lhasa Tibet. Frauen in der Geschichte der Entdeckungen. Biografie Alexandra David-Néel Tibet."
 
 # taxonomies
 categories:

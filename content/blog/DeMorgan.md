@@ -7,7 +7,7 @@ draft: false
 image: "images/post/DeMorgan.jpg"
 
 # meta description
-description: "Evelyn De Morgan. Präraffaelismus. Kunst ist ewig. Frau und Kunst. Leben, Tod, Auferstehung. Florenz, London. William De Morgan. Keramik. Kunst. Erfolgreiche Malerin. Erfolgreiche Künstlerin. Feminismus in Kunst. Pazifismus. Frauenwahlrecht England. Gleichstellung Geschlechter. Realismus Symbolismus Kunst. Töchter des Nebels. Red Cross."
+description: "Evelyn De Morgan. Präraffaelismus. Kunst ist ewig. Frau und Kunst. Leben, Tod, Auferstehung. Florenz, London. William De Morgan. Keramik. Kunst. Erfolgreiche Malerin. Erfolgreiche Künstlerin. Feminismus in Kunst. Pazifismus. Frauenwahlrecht England. Gleichstellung Geschlechter. Realismus Symbolismus Kunst. Töchter des Nebels. Red Cross. Symbolismus Malerei. Feministische Künstlerin Evelyn De Morgan. Spiritistin. Spiritualismus"
 
 # taxonomies
 categories:

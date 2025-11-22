@@ -7,7 +7,7 @@ draft: false
 image: "images/post/BettineArnim.jpg"
 
 # meta description
-description: "Bettine Brentano. Bettine von Arnim. Romantik. Bettina von Arnim. Schriftstellerin. Philosophin. Musikerin. Komponistin. Malerin. Johann Wolfgang von Goethe. Clemens Brentano. Ikone der deutschen Romantik."
+description: "Bettine Brentano. Bettine von Arnim. Romantik. Bettina von Arnim. Schriftstellerin. Philosophin. Musikerin. Komponistin. Malerin. Johann Wolfgang von Goethe. Clemens Brentano. Ikone der deutschen Romantik. Deutsche Romantik. Schriftstellerin Bettine von Arnim. Bettine von Arnim Sozialkritikerin. Briefroman Frau Bettine von Arnim. Musik Frau Romantik. Musik Komponistin Romantik. Schriftstellerin Romantik Bettine von Arnim."
 
 # taxonomies
 categories:

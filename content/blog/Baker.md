@@ -7,7 +7,7 @@ draft: false
 image: "images/post/josephineBaker.jpg"
 
 # meta description
-description: "Josephine Baker. Rassentrennung USA. Schwarze Venus. Widerstand gegen Nazis. Regenbogenfamilie. Diskriminierung. Women of color. Pionierinnen. Charleston. Bananenrock. Pariser Panthéon. Paris. Französische Nationalheldin. Pogrom gegen Schwarze. Marsch auf Washington."
+description: "Josephine Baker. Rassentrennung USA. Schwarze Venus Josephine Baker. Widerstand gegen Nazis Josephine Baker. Regenbogenfamilie. Diskriminierung. Women of color Josephine Baker. Pionierinnen. Charleston Josephine Baker. Bananenrock Josephine Baker. Pariser Panthéon. Paris. Französische Nationalheldin Josephine Baker. Pogrom gegen Schwarze. Marsch auf Washington. Josephine Baker Tänzerin Sängerin Bürgerrechtsaktivistin. Stilikone Josephine Baker. Josephine Baker Tänzerin Résistance. Josephine Baker Bananenröckchen Panthéon. Josephine Baker Biografie Aktivistin."
 
 # taxonomies
 categories:

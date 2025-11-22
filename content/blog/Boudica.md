@@ -7,7 +7,7 @@ draft: false
 image: "images/post/boudica1.jpg"
 
 # meta description
-description: "Symbolfigur der Macht. Keltische Königin Boudica. Kampf gegen Rom. Königin Elisabeth I. Königin Viktoria. Premierministerin Margaret Thatcher. Premierministerin Theresa May."
+description: "Symbolfigur der Macht. Keltische Königin Boudica. Kampf gegen Rom. Königin Elisabeth I. Königin Viktoria. Premierministerin Margaret Thatcher. Premierministerin Theresa May. Boudica Keltische Königin. Aufstand gegen Römer Frau Kampf. Britannien Frau Macht. Kriegerkönigin Boudica Kampf gegen Rom. Boudica Nationalheldin. Boudica Statue London Westminster. Boudica Mythos Legende. Frauenmacht Antike."
 
 # taxonomies
 categories:

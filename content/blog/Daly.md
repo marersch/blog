@@ -7,7 +7,7 @@ draft: false
 image: "images/post/maryDaly.jpg"
 
 # meta description
-description: "Mary Daly. Theologin. Philosophin. Radikale Feministin. Gnadenlose Kritikerin des Patriarchats. große Weltreligion namens Patriarchat."
+description: "Mary Daly. Theologin. Philosophin. Radikale Feministin. Gnadenlose Kritikerin des Patriarchats. große Weltreligion namens Patriarchat. Mary Daly. Radikaler Feminismus. Feministische Theologie. Sprachkritik Patriarchat Frau. Gyn Ecology Mary Daly. Mary Daly Feministin. Mary Daly Theorie. Kritik Patriarchat Mary Daly."
 
 # taxonomies
 categories:

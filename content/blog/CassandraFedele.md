@@ -7,7 +7,9 @@ draft: false
 image: "images/post/CassandraFedele.jpg"
 
 # meta description
-description: "Cassandra Fedele. Bekannteste italienische Humanistin. Bekannteste Humanistin in Europa. Umfangreiche Bildung. Latein. Griechisch. Rede an Universität. Rede vor venezianischem Senat. Hochzeit und Bildungsstillstand. Armut."
+description: "Cassandra Fedele. Bekannteste italienische Humanistin. Bekannteste Humanistin in Europa. Umfangreiche Bildung. Latein. Griechisch. Rede an Universität. Rede vor venezianischem Senat. Hochzeit und Bildungsstillstand. Armut. Cassandra Fedele
+Venezianische Humanistin. Gelehrte Frau Renaissance Cassandra Fedele.
+Öffentliche Rednerin Venedig Cassandra Fedele. Frauen im Humanismus Italien. Frau Italien. Frühe Feministin Europa Italien. Patriarchat Bildung."
 
 
 # taxonomies

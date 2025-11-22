@@ -7,7 +7,7 @@ draft: false
 image: "images/post/berthaBenz.jpg"
 
 # meta description
-description: "Berta Benz. Auto. Carl Benz. Erste Fernfahrt. Mannheim bis Pforzheim. Auto. Automobil. Erfindung des Autos. Frau verhilft Auto zum Siegeszug."
+description: "Bertha Benz. Auto. Carl Benz. Erste Fernfahrt. Mannheim bis Pforzheim. Auto. Automobil. Erfindung des Autos. Frau verhilft Auto zum Siegeszug. Erste Autofahrt. Automobil Pionierin. Carl Benz Ehefrau. Geschichte des Automobils. Historische Autofahrt Mannheim Pforzheim. Frau Auto. Auto Leidenschaft."
 
 # taxonomies
 categories:

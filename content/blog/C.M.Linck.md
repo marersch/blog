@@ -7,7 +7,7 @@ draft: false
 image: "images/post/linck.jpg"
 
 # meta description
-description: "Catharina Margaretha Linck. Anastasius Lagrantinus Rosenstengel. letzte Frau in Europa, die wegen Unzucht mit einer anderen Frau verurteilt und hingerichtet wurde. Catharina Margaretha Mühlhahn. Sodomie. Deutschland. Unzucht mit anderen Frau. Frau als Prophet, Soldat und Bettler in Deutschland. preußische König Friedrich Wilhelm I. Penisattrappe."
+description: "Catharina Margaretha Linck. Anastasius Lagrantinus Rosenstengel. letzte Frau in Europa, die wegen Unzucht mit einer anderen Frau verurteilt und hingerichtet wurde. Catharina Margaretha Mühlhahn. Sodomie. Deutschland. Unzucht mit anderen Frau. Frau als Prophet, Soldat und Bettler in Deutschland. preußische König Friedrich Wilhelm I. Penisattrappe. Catharina Margaretha Linck. Letzte Hinrichtung Homosexualität Europa. Cross dressing Geschichte. Frauen im 18. Jahrhundert. Geschlechterrollen Frühe Neuzeit. Lesbische Geschichte. LGBTQ Geschichte."
 
 # taxonomies
 categories:

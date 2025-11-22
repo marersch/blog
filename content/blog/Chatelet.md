@@ -7,7 +7,7 @@ draft: false
 image: "images/post/chatelet.jpg"
 
 # meta description
-description: "Émilie Marquise du Châtelet. Immanuel Kant. Voltaire. Aufklärung. Jean-Jacques Rousseau. Mathematik, Physik und Philosophie. Newton. Gesellschaftliche Pflichten. Soziale Rollenzuweisungen. Aufklärung für Männer."
+description: "Émilie Marquise du Châtelet. Immanuel Kant. Voltaire. Aufklärung. Jean-Jacques Rousseau. Mathematik, Physik und Philosophie. Newton. Gesellschaftliche Pflichten. Soziale Rollenzuweisungen. Aufklärung für Männer. Émilie du Châtelet. Emilie Du Chatelet. Wissenschaftlerin Aufklärung. Übersetzung Newton Principia. Mathematikerin Physikerin Emilie Du Chatelet. Frauen in der Wissenschaft Geschichte. Frau Wissenschaft."
 
 # taxonomies
 categories:

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/perkinsGilman.jpg"
 
 # meta description
-description: "Charlotte Perkins Gilman. Nordamerikanische Sozialphilosophin, Schriftstellerin, Malerin. Tücken der Ehe. Gelbe Tapete. Herland. Hysterie durch intellektuelle Aktivitäten. Wochenbettdepression. analytisches Denken und kritische Sichtweisen für Mädchen. Kindern Vertrauen entgegenbringen, nicht unterwerfen. Nordamerika. Rollenklischees Frau. Medizin für Männer. Medizin nicht für Frauen."
+description: "Charlotte Perkins Gilman. Nordamerikanische Sozialphilosophin, Schriftstellerin, Malerin. Tücken der Ehe. Gelbe Tapete. Herland. Hysterie durch intellektuelle Aktivitäten. Wochenbettdepression. analytisches Denken und kritische Sichtweisen für Mädchen. Kindern Vertrauen entgegenbringen, nicht unterwerfen. Nordamerika. Rollenklischees Frau. Medizin für Männer. Medizin nicht für Frauen. Charlotte Perkins Gilman Die gelbe Tapete The Yellow Wallpaper. Feminismus. Sozialreformerin. Soziologin. Frauenbewegung. Frauenrechte. Geschlechterrollen. Patriarchat. Wirtschaftliche Unabhängigkeit Frauen."
 
 # taxonomies
 categories:

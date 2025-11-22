@@ -7,7 +7,7 @@ draft: false
 image: "images/post/artemisiaGentileschi.jpg"
 
 # meta description
-description: "Biblische Judith und Susanna. Artemisia Gentileschi: renommierte, italienische Barockmalerin. Starke und mutige Frauen behaupten sich, behalten ihre Würde."
+description: "Biblische Judith und Susanna. Artemisia Gentileschi: renommierte, italienische Barockmalerin. Starke und mutige Frauen behaupten sich, behalten ihre Würde. Artemisia Gentileschi Judith Susanna. Judith enthauptet Holofernes Gentileschi. Susanna und die Alten Gentileschi. Artemisia Gentileschi biblische Frauen. Bibel starke Frauen. Bibel Frauenbild. Bibel Kunst Frau. Biblische Heldinnen Kunst. Frauenfiguren Barockmalerei. Artemisia Gentileschi Biografie Vergewaltigung. Frau Gewalt Geschichte. Frau Gewalt Bibel. Weibliche Perspektive Kunstgeschichte. Starke Frauenbilder Artemisia Gentileschi."
 
 # taxonomies
 categories:

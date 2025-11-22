@@ -7,7 +7,7 @@ draft: false
 image: "images/post/boehme.jpg"
 
 # meta description
-description: "Margarete Böhme. Margarete Schlüter. Ormános Sandor. Wilhelmine Margarete Susanna Feddersen. Deutsche Schriftstellerin. Husum. Tagebuch einer Verlorenen. Bestseller. Nationalsozialismus und Verbot ihrer Bücher. Frauen am Rand der Gesellschaft. Prostitution."
+description: "Margarete Böhme. Margarete Schlüter. Ormános Sandor. Wilhelmine Margarete Susanna Feddersen. Deutsche Schriftstellerin. Husum. Tagebuch einer Verlorenen. Bestseller. Nationalsozialismus und Verbot ihrer Bücher. Frauen am Rand der Gesellschaft. Prostitution. Margarete Böhme Tagebuch einer Verlorenen. Margarete Böhme Schriftstellerin Autorin Margarete Böhme. Sozialkritischer Roman Frau. Prostitutionsroman. Gesellschaftskritik Jahrhundertwende. Kaiserzeit Schriftstellerin. Frauenfrage Deutschland. Benachteiligung von Frauen."
 
 # taxonomies
 categories:

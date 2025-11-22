@@ -7,7 +7,7 @@ draft: false
 image: "images/post/camilleClaudel.jpg"
 
 # meta description
-description: "Camille Claudel. weggesperrt. Auguste Rodin. Bildhauerin Malerin. bedeutende Künstlerin. Frankreich. Alfred Boucher. Das reife Alter. Die große Welle. Der große Walzer. Depression Verfolgungswahn. Nervenheilanstalt. von Familie weggesperrt. von Familie eingesperrt. Musée Camille Claudel."
+description: "Camille Claudel. weggesperrt. Auguste Rodin. Bildhauerin Malerin. bedeutende Künstlerin. Frankreich. Alfred Boucher. Das reife Alter. Die große Welle. Der große Walzer. Depression Verfolgungswahn. Nervenheilanstalt. von Familie weggesperrt. von Familie eingesperrt. Musée Camille Claudel. Camille Claudel Bildhauerin. Auguste Rodin Lehrer Mentor Geliebter. Frau Handwerk Kunst Skulptur Plastik Camille Claudel. Frau Psychiatrie Nervenheilanstalt Gewalt. Frau Paranoia. Verfolgungswahn Gewalt. Frauen im 19. Jahrhundert Kunst. Weibliches Genie Kunst. Kunst Wahnsinn."
 
 # taxonomies
 categories:

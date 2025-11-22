@@ -7,7 +7,7 @@ draft: false
 image: "images/post/dohm.jpg"
 
 # meta description
-description: "Hedwig Dohm. Soziale Gerechtigkeit. Selbstbestimmung. Kritik an Nietzsche. Bildung für alle. Chancengleichheit. Mutterschaft als soziales und kulturelles Konstrukt."
+description: "Hedwig Dohm. Soziale Gerechtigkeit. Selbstbestimmung. Kritik an Nietzsche. Bildung für alle. Chancengleichheit. Mutterschaft als soziales und kulturelles Konstrukt. Hedwig Dohm. Pionierin Frauenbewegung. Frauenwahlrecht. Stimmrecht für Frauen. Sozialkritikerin Hedwig Dohm. Schriftstellerin Hedwig Dohm Essayistin. Kulturelle Prägung Geschlechterrollen."
 
 # taxonomies
 categories:

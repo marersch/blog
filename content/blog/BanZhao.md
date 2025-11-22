@@ -7,7 +7,7 @@ draft: false
 image: "images/post/banZhao.jpg"
 
 # meta description
-description: "Ban Zhao. Chinesische Hofdame, Philosophin, Historikerin. Chinas erste Denkerin. Chinesisches Geschichtswerk Han Shu. Lektionen für Frauen. Gelehrte am Hofe des Kaisers. China Frauenbild."
+description: "Ban Zhao. Chinesische Hofdame, Philosophin, Historikerin. Chinas erste Denkerin. Chinesisches Geschichtswerk Han Shu. Lektionen für Frauen. Gelehrte am Hofe des Kaisers. China Frauenbild. Ban Zhao Chinesische Historikerin. Ban Zhao Gelehrte. Han-Dynastie. Ban Zhao Lektionen für Frauen. Geschlechterrollen im alten China. Frauenbildung China Han. Ban Zhao Konfuzianismus weibliche Gelehrte."
 
 # taxonomies
 categories:

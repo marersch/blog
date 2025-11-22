@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Clorinda.jpg"
 
 # meta description
-description: "Clorinda Matto de Turner. Lateinamerika. Peru. Schriftstellerin. Verlegerin. Feministin. Begründerin des indigenistischen Romans. Kritik an peruanischer Gesellschaft. Weibliche Sexualität."
+description: "Clorinda Matto de Turner. Lateinamerika. Peru. Schriftstellerin. Verlegerin. Feministin. Begründerin des indigenistischen Romans. Kritik an peruanischer Gesellschaft. Weibliche Sexualität. Peruanische Schriftstellerin Clorinda Matto de Turner. Feminismus Lateinamerika. Feminismus Peru. Frauenrechte Lateinamerika. Frau Lateinamerika. Soziale Gerechtigkeit Frau. Kritik an Unterdrückung Frau Clorinda Matto de Turner."
 
 # taxonomies
 categories:
