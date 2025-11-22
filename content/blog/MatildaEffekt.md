@@ -4,10 +4,10 @@ date: 2023-09-29
 draft: false
 
 # post thumb
-image: "images/post/matildaEffekt.jpg"
+image: "images/post/matilda.jpg"
 
 # meta description
-description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Ignorierte Frauen in der Wissenschaft. Matilda Effekt. Otto Hahn. Lise Meitner. Mileva Maric. Albert Einstein. Rosalind Franklin. DNA Doppelhelix. Nobelpreis. Matilda Joslyn Gage. Gender Citation Gap."
+description: "Männliche Geschichtsschreibung. Herstory. Frau Geschichte. Mutige und ambitionierte Frauen. Ignorierte Frauen in der Wissenschaft. Matilda Effekt. Otto Hahn. Lise Meitner. Mileva Maric. Albert Einstein. Rosalind Franklin. DNA Doppelhelix. Nobelpreis. Matilda Joslyn Gage. Gender Citation Gap. Unsichtbare Frauen. Vergessene Wissenschaftlerinnen. Herstory."
 
 # taxonomies
 categories:
@@ -37,7 +37,7 @@ Die Liste der Frauen, die große wissenschaftliche Leistungen vollbracht haben, 
 
 Die Amerikanerin Matilda Joslyn Gage veröffentlichte 1883 einen Text über [Frauen als Erfinderinnen](https://www.jstor.org/stable/25118273?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A84656e3869b20dc3a424d26ac8d4d034). Darin stellte sie fest, dass keine Behauptung über Frauen so weit verbreitet sei wie die, dass Frauen kein erfinderisches oder mechanisches Genie besäßen. Matilda Gage wies darauf hin, dass solche Behauptungen leichtfertig oder aus Unwissenheit aufgestellt werden, wenngleich Tradition, Geschichte und Erfahrung gleichermaßen beweisen, dass Frauen diese Fähigkeiten in hohem Maße besitzen. Obwohl die wissenschaftliche Ausbildung von Frauen so lange vernachlässigt wurde, wurden einige der wichtigsten Erfindungen der Welt von Frauen gemacht.
 
-Rund hundert Jahre später entdeckte die Historikerin Margaret Rossiter diesen Text und begann, sich mit den verdrängten Frauen und ihren Leistungen in der Forschung auseinanderzusetzen. In Anlehnung an die Autorin des Textes aus dem 19. Jahrhundert nannte sie dieses Phänomen den [Matilda-Effekt](https://www.jstor.org/stable/285482).
+Rund hundert Jahre später entdeckte die Historikerin Margaret Rossiter diesen Text und begann, sich mit den verdrängten Frauen und ihren Leistungen in der Forschung auseinanderzusetzen. In Anlehnung an die Autorin des Textes aus dem 19. Jahrhundert nannte sie dieses Phänomen den Matilda-Effekt.
 
 ##### Gründe der Unsichtbarmachung
 
@@ -51,5 +51,6 @@ Doch beim Matilda-Effekt handelt es sich nicht um ein vergangenes Phänomen, er 
 
 Auch als Vortragende gelten Männer bis heute häufig als seriöser und kompetenter. Insgesamt schlägt sich dies auch in der Entlohnung nieder: Nach wie vor verdienen Männer für gleichwertige Arbeit in der Regel mehr als Frauen. Damit werden immer noch weit verbreitete Klischees bedient: Ein kompetenter Wissenschaftler ist männlich und idealerweise weißhäutig. Naja ...
 
-*Literaturhinweis:*
+*Literaturhinweise:*
+- Rossiter, Margaret W. 1993. The Matthew Matilda Effect in Science, Social Studies of Science, vol. 23.2, S. 325–41.
 - Steinbrink, Malte, Philipp Aufenvenne, Christian Haase und Max Pochadt. 2023. [Matilda in der Humangeographie. Gender Citation Gap und Zitierpartikularismus](https://opus4.kobv.de/opus4-uni-passau/files/1250/Steinbrink_Humangeographie.pdf). GW-Unterricht, 169.2, S. 5-21.
