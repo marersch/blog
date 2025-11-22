@@ -7,7 +7,7 @@ draft: false
 image: "images/post/renz.jpg"
 
 # meta description
-description: "Barbara Renz. Pionierin Bibliothek. Hof- und Staatsbilbiothek in München. Bibliothek als Männerwelt. Ethnologin. Katholische Frauenrechtlerin und Religionswissenschaftlerin. Symbol der Schlange. Schlange und Baum. Erste Frau, die im Königreich Bayern promovierte. Schlange in Religionen. Universität La Sapienza Rom. Geisteswissenschaften, Philosophie. Prinzessin Therese von Bayern. Bibliotheksdirektor Georg von Laubmann. Handwörterbuch der Sexualwissenschaft. Baum und Schlange. Sexualität. Bayerischen Hof- und Staatsbibliothek. Bauerntochter. Barbara Renz Völkerkunde Bayern. Dr. phil. Barbara Renz. erste promovierte Frau Bayerns Barbara Renz. Frauenstudium Bayern Barbara Renz. Barbara Renz Katholische Frauenbewegung."
+description: "Barbara Renz. Pionierin Bibliothek. Hof- und Staatsbilbiothek in München. Bibliothek als Männerwelt. Ethnologin. Katholische Frauenrechtlerin und Religionswissenschaftlerin. Symbol der Schlange. Schlange und Baum. Barbara Renz. Erste Frau, die im Königreich Bayern promovierte. Schlange in Religionen. Barbara Renz. Universität La Sapienza Rom. Geisteswissenschaften, Philosophie. Prinzessin Therese von Bayern. Bibliotheksdirektor Georg von Laubmann. Handwörterbuch der Sexualwissenschaft. Baum und Schlange. Sexualität. Bayerischen Hof- und Staatsbibliothek. Bauerntochter. Barbara Renz Völkerkunde Bayern. Dr. phil. Barbara Renz. erste promovierte Frau Bayerns Barbara Renz. Frauenstudium Bayern Barbara Renz. Barbara Renz Katholische Frauenbewegung."
 
 # taxonomies
 categories:

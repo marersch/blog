@@ -7,7 +7,8 @@ draft: false
 image: "images/post/charlotteCorday.jpg"
 
 # meta description
-description: "Charlotte Corday. Mord in der Badewanne. Französische Revolution. Rechte der Frauen. Jean-Paul Marat. Frankreich. Hinrichtung."
+description: "Charlotte Corday. Mord in der Badewanne. Französische Revolution. Rechte der Frauen. Jean-Paul Marat. Frankreich. Hinrichtung. Charlotte Corday. Jean-Paul Marat
+Ermordung Marat. Französische Revolution Rolle Frau. Attentäterin Frankreich. Französische Revolution Attentäterin. Charlotte Corday Hinrichtung. Charlotte Corday Mörderin. Politischer Mord. Charlotte Corday Französische Revolution. Frau Französische Revolution."
 
 # taxonomies
 categories:

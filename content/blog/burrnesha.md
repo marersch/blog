@@ -7,7 +7,9 @@ draft: false
 image: "images/post/mannfrauen.jpg"
 
 # meta description
-description: "Burrnesha. Balkan: in Teilen Albaniens, in Bosnien und Herzegowina, im Kosovo, in Montenegro, in Nordmazedonien und in Teilen Westserbiens. Jungfrauenschwur. Mannfrauen. Frauen leben als Mann. Frauen müssen schweigen. Batscha Poschi - die Tochter muss ein Sohn sein. Afghanistan. Frauen haben als Mann mehr Rechte."
+description: "Burrnesha. Balkan: in Teilen Albaniens, in Bosnien und Herzegowina, im Kosovo, in Montenegro, in Nordmazedonien und in Teilen Westserbiens. Jungfrauenschwur. Mannfrauen. Frauen leben als Mann. Frauen müssen schweigen. Batscha Poschi - die Tochter muss ein Sohn sein. Afghanistan. Frauen haben als Mann mehr Rechte. Burrnesha
+Eingeschworene Jungfrau. Burrnesha Sworn Virgin. Albanien Tradition. Patriarchat Balkan. Geschlechterrolle Albanien. Burrnesha Frauenrechte Patriarchat Balkan.
+Burrnesha Aussterbende Tradition."
 
 # taxonomies
 categories:

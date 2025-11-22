@@ -7,7 +7,7 @@ draft: false
 image: "images/post/claraZetkin.jpg"
 
 # meta description
-description: "Clara Zetkin. Rote Emanze. SPD. KPD. Mutter des Frauentages. Abgeordnete im Deutschen Reichstag der Weimarer Republik. Frauenrechtlerin. Politikerin. Chefredakteurin der sozialdemokratischen Frauenzeitschrift Die Gleichheit. Schreckgespenst des Bürgertums. Leben selbst bestimmen. Rechte der Arbeiterinnen. Freunschaft mit Rosa Luxemburg und Lenin. Pazifistin. Warnung vor den Nationalsozialisten."
+description: "Clara Zetkin. Rote Emanze. SPD. KPD. Mutter des Frauentages. Abgeordnete im Deutschen Reichstag der Weimarer Republik. Frauenrechtlerin. Politikerin. Chefredakteurin der sozialdemokratischen Frauenzeitschrift Die Gleichheit. Schreckgespenst des Bürgertums. Leben selbst bestimmen. Rechte der Arbeiterinnen. Freunschaft mit Rosa Luxemburg und Lenin. Pazifistin. Warnung vor den Nationalsozialisten. Clara Zetkin. Internationaler Frauentag. Initiatorin des 8. März. Sozialismus Frau. Frau Kommunismus. Frauenbewegung. Frauenrechte."
 
 # taxonomies
 categories:

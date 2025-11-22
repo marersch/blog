@@ -7,7 +7,7 @@ draft: false
 image: "images/post/kayBoyle.jpg"
 
 # meta description
-description: "Kay Boyle. USA. Europa. Schriftstellerin. Weltkriege. Briefe an Lola Ridge. Rebellen und Outcasts. Ausgestoßene. Frankreich Westdeutschland Korrespondentin. Soziale Verantwortung Privilegien. Romane. Politische und persönliche Themen vereinend. Kurzgeschichten. Gedichte. Romane. Kinderbücher."
+description: "Kay Boyle. USA. Europa. Schriftstellerin. Weltkriege. Briefe an Lola Ridge. Rebellen und Outcasts. Ausgestoßene. Frankreich Westdeutschland Korrespondentin. Soziale Verantwortung Privilegien. Romane. Politische und persönliche Themen vereinend. Kurzgeschichten. Gedichte. Romane. Kinderbücher. Kay Boyle. Amerikanische Schriftstellerin Kay Boyle. Kay Boyle Politische Aktivistin. Paris Exil 1920er Amerikanerin. McCarthy-Ära Blacklist. Vietnamkrieg Proteste."
 
 # taxonomies
 categories:

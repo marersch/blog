@@ -7,7 +7,7 @@ draft: false
 image: "images/post/bier-krug.png"
 
 # meta description
-description: "Bierbrauen Aufgabe der Hausfrau. Rechtstexte über Frau und Bier. Rotes Bier rettet Ägypten. Bierkränzchen und Bierhexen."
+description: "Bierbrauen Aufgabe der Hausfrau. Rechtstexte über Frau und Bier. Rotes Bier rettet Ägypten. Bierkränzchen und Bierhexen. Frauen Biergeschichte. Brauende Frauen Historisch. Geschichte Bierbrauen Frauenrolle. Frauen Handwerk Bier. Frauen im Mittelalter Bierbrauen. Ägypten Bier Göttin. Bier Frau. Industrialisierung Bier Frauenverdrängung. Brauerinnen als Hexen. Mythos Bier Mann. Braukessel Mitgift Mittelalter. Hausfrau Bier Geschichte."
 
 # taxonomies
 categories:
@@ -71,3 +71,10 @@ Logistische, technische und finanzielle Voraussetzungen führten dazu, dass Brau
 - Markham, Gervase. 2011. The well-kept kitchen. London: Penguin Books. Originaltitel: The English Huswife [1615].
 - Nelson, Max. 2005. The Barbarian’s Beverage. A History of Beer in Ancient Europe. London: Routledge.
 - Sallaberger, Walther. 2012. "Bierbrauen in Versen. Eine neue Edition und Interpretation der Ninkasi-Hymne," IN: Catherine Mittermayer und S. Ecklin (Hg.): Altorientalische Studien zu Ehren von Pascal Attinger. Fribourg und Göttingen: Acad. Press Fribourg und Vandenhoeck & Ruprecht, S. 291–328.
+
+
+
+.
+
+*Verwandter Beitrag:*
+- [Bierhexen](https://www.erinnermich.eu/blog/bierhexen/)

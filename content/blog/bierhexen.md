@@ -7,7 +7,7 @@ draft: false
 image: "images/post/bierhexe.jpg"
 
 # meta description
-description: "Bierhexen. Brauhexen. Bierbrauen Frau. Reinheitsgebot. Frau Teufel Bier. Brauzunft. Braugilde. Biergilde. Kirche Bier Frau. Hopfen. Bier giftige Zutaten. Halluzination Bier. Aberglaube und Reinheitsgebot. Frauenrollen Bier. Bier Zunft."
+description: "Bierhexen. Brauhexen. Bierbrauen Frau. Reinheitsgebot. Frau Teufel Bier. Brauzunft. Braugilde. Biergilde. Kirche Bier Frau. Hopfen. Bier giftige Zutaten. Halluzination Bier. Aberglaube und Reinheitsgebot. Frauenrollen Bier. Bier Zunft. Gewalt gegen Frauen. Frau Bier Gewalt. Brauerinnen Hexenverfolgung. Geschichte Bierbrauen Frauen."
 
 # taxonomies
 categories:
