@@ -7,7 +7,7 @@ draft: false
 image: "images/about/MaEr.png"
 
 # meta description
-description: "Marlene Erschbamer - Blog über Geschichte, Philosophie, Rollen der Frauen - Hintergrund und was euch erwartet. Geschichtsschreibung. Philosophinnen. Klischees. Frauen schreiben Geschichte. Sichtbarkeitmachung Frauen. Herstory. Frauengeschichten. Frau und Geschichte. Starke Frauen. Vergessene Frauen. Wissen Frau. Pionierinnen. Vergessene Pionierinnen. Heldinnen der Geschichte. Heldinnen des Alltags. Erinnermich. Herstory to go. Herstory zur Inspiration. Männer und Frauen schreiben Geschichte."
+description: "Marlene Erschbamer - Blog über Geschichte, Philosophie, Rollen der Frauen - Hintergrund und was euch erwartet. Herstory Frauenrollen Geschichtsschreibung. Philosophinnen. Klischees. Frauen schreiben Geschichte. Sichtbarkeitmachung Frauen. Herstory. Frauengeschichten. Frau und Geschichte. Starke Frauen. Vergessene Frauen. Wissen Frau. Pionierinnen. Vergessene Pionierinnen. Heldinnen der Geschichte. Heldinnen des Alltags. Erinnermich. Herstory to go. Herstory zur Inspiration. Männer und Frauen schreiben Geschichte. Marlene Erschbamer alias Fiona Novale. Gesellschaftsroman Zeitwunden. Roman Zeitwunden von Fiona Novale. Gewalt gegen Frauen aufgrund Frauseins. Herstory. Vergessene Geschichten. "
 
 # summary for main page
 summary: "Herzlich willkommen auf *erinnermich.eu* ! Mein Name ist Marlene Erschbamer und hier dreht sich alles um Geschichte, Philosophie und welchen Platz Frauen dabei eingenommen haben bzw. heute einnehmen."

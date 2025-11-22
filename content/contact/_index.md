@@ -4,7 +4,7 @@ date: 2022-02-18
 draft: false
 
 # meta description
-description: "Marlene Erschbamer. Impressum Erinner mich - Blog über Geschichte, Philosophie und welche Rollen Frauen dabei eingenommen haben bzw. nehmen."
+description: "Marlene Erschbamer. Impressum Erinner mich - Blog über Geschichte, Philosophie und welche Rollen Frauen dabei eingenommen haben bzw. nehmen. Blog erinnermich.eu Frauen.schreiben.Geschichte. Herstory. Frauenpower. Übersehene Geschichte. Vergessene Geschichte. Herstory. Marlene Erschbamer alias Fiona Novale. Gesellschaftsroman Zeitwunden Fiona Novale."
 
 # type
 type : "impressum"
