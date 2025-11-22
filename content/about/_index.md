@@ -34,4 +34,8 @@ Warum schaffen es Männer in die Geschichtsbücher, während Frauen dafür fast 
 
 Über welches Thema würdet ihr hier gerne lesen? Schreibt mir unter: blog@erinnermich.eu.
 
+##### Zeitwunden von Fiona Novale
+
+Die Arbeit an diesem Blog hat mich inspiriert, einen Roman zu schreiben: [Zeitwunden](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg), erschienen im Jahr 2025 unter dem Pseudonym [Fiona Novale](https://fiona-novale.erinnermich.eu/).
+
 
