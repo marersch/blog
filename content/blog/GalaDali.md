@@ -4,10 +4,10 @@ date: 2025-02-14
 draft: false
 
 # post thumb
-image: "images/post/gala.jpg"
+image: "images/post/dali.jpg"
 
 # meta description
-description: "Gala Dali. Managerin, Muse Mythos Salvador Dali. Surrealismus. Selbstinszenierung Kunst. Weg einer Muse. Paul Éluard. Max Ernst. Extravagante Frau. Lebensstil. Marke Dalí."
+description: "Gala Dali. Managerin, Muse Mythos Salvador Dali. Surrealismus. Selbstinszenierung Kunst. Weg einer Muse. Paul Éluard. Max Ernst. Extravagante Frau. Lebensstil. Marke Dalí. Gala Dalí. Gala Éluard Dalí. Elena Ivanovna Diakonova. Salvador. Dalí Frau. Muse Gala. Gala Dalí Biografie. Wer war Gala Dalí. Herstory Kunst. Gala Dalí Muse. Gala Dalí Kunst. Herstory. Surrealismus Gala Dalí. Künstler-Muse Beziehung."
 
 # taxonomies
 categories:
