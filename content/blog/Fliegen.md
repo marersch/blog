@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fliegen2.jpg"
 
 # meta description
-description: "Zwischen Männerdomäne und Rollenklischee. Fliegende Frauen. Ballonfahrt. Flugzeuge. Sophie Blanchard. Amelia Earhart. Elly Beinhorn. Neta Snook. Napoleon Bonaparte."
+description: "Zwischen Männerdomäne und Rollenklischee. Fliegende Frauen. Ballonfahrt. Flugzeuge. Sophie Blanchard. Amelia Earhart. Elly Beinhorn. Neta Snook. Napoleon Bonaparte. Frauen in der Luftfahrt. Luftfahrtpionierinnen. Herstory Fliegen. Fliegende Frauen. Pionierinnen der Lüfte. Geschichte der Luftfahrt. Pilotinnen. Frauen im Cockpit. Rollenklischees. Männerdomäne. Gleichberechtigung. Historische Pilotinnen. Ballonfahrt Geschichte. Frühe Luftfahrt. Herstory. Women in aviation. Female pilots history. Aviation pioneers women. Gender roles aviation."
 
 # taxonomies
 categories:
