@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Ehrmann.jpg"
 
 # meta description
-description: "Marianne Ehrmann. Gefallene Frau. Philosophie eines Weibs. Frauenrollen. Theater. Journalistin. Schauspielerin. Schriftstellerin. Philosophin der Aufklärung. Eine der ersten Verlegerinnen. Amalie - eine wahre Geschichte in Briefen. Männliche Herrschaft. Patriarchat. Simone de Beauvoir."
+description: "Marianne Ehrmann. Gefallene Frau. Philosophie eines Weibs. Frauenrollen. Frau Theater Herstory. Marianne Ehrmann Journalistin. Marianne Ehrmann Schauspielerin. Schriftstellerin. Philosophin der Aufklärung. Eine der ersten Verlegerinnen. Amalie eine wahre Geschichte in Briefen. Männliche Herrschaft. Patriarchat. Simone de Beauvoir. Herstory Frau. Marianne Ehrmann Philosophie. Marianne Ehrmann Schriftstellerin. Erinnermich Frauen schreiben Geschichte Marianne Ehrmann Herstory. Marianne Ehrmann Aufklärung Feminismus. Marianne Ehrmann Gendernormen 18. Jahrhundert. Marianne Ehrmann Frauenrechte."
 
 # taxonomies
 categories:
@@ -34,7 +34,9 @@ Marianne Ehrmann, geborene Brentano, war Journalistin, Schauspielerin, Schriftst
 
 ##### Von einem Übel ins nächste
 
-Marianne Ehrmann wurde in Rapperswil am Zürichsee geboren. Nachdem ihre Eltern gestorben waren, wurde sie von Verwandten aufgenommen, verdiente sich als Hausmädchen ein wenig dazu. Da zu ihrer Zeit Frauen entweder einen Vater oder einen Ehemann für die gesellschaftliche Reputation benötigten, entschloss sie, einen Offizier zu heiraten. Dies geschah wohl nicht aus Liebe, sondern den gesellschaftlichen Erwartungen zu entsprechen. Doch sie hatte keine gute Wahl getroffen: Ihr Mann war spielsüchtig und gewalttätig. So geschah es, dass er nach Verlust seines Geldes seine Wut regelmäßig an seiner Frau ausließ und sie schlug. 
+Marianne Ehrmann wurde in Rapperswil am Zürichsee geboren. Nachdem ihre Eltern gestorben waren, wurde sie von Verwandten aufgenommen, verdiente sich als Hausmädchen ein wenig dazu. Da zu ihrer Zeit Frauen entweder einen Vater oder einen Ehemann für die gesellschaftliche Reputation benötigten, entschloss sie, einen Offizier zu heiraten.
+
+Dies geschah wohl nicht aus Liebe, sondern den gesellschaftlichen Erwartungen zu entsprechen. Doch sie hatte keine gute Wahl getroffen: Ihr Mann war spielsüchtig und gewalttätig. So geschah es, dass er nach Verlust seines Geldes seine Wut regelmäßig an seiner Frau ausließ und sie schlug. 
 
 >Seitdem wir Menschen so viele Bedürfniße haben, seitdem sind wir auch unglüklicher. Es ist ja Alles so unregelmäßig ausgetheilt, der Schurke ist reich und der Rechtschaffene arm, und doch reich, aber nur in seinem Herzen.
 
@@ -58,7 +60,7 @@ Das erinnert an die berühmte Soziologin des 20. Jahrhunderts, Simone de Beauvoi
 
 >Man ist nicht als Frau geboren, man wird es. 
 
-- IN: Das andere Geschlecht, 1951 [1949: Le Deuxième Sexe], von Simone de Beauvoir.
+- In: Das andere Geschlecht, 1951 [1949: Le Deuxième Sexe], von Simone de Beauvoir.
 
 Ähnliche Beobachtungen machte bereits Marianne Ehrmann, die in ihrem Buch dafür warb, dass jede Mutter ihre Töchter zu eigenständigen und selbstdenkenden Wesen erziehen möge. Nur durch Wissen könne die Verführungssprache der Männer enttarnt und somit die Unschuld eines Mädchens oder einer Frau bewahrt werden - die Thematiken der gefallenen Frau und der damit verbundenen gesellschaftlichen Stigmata waren zentral für Ehrmanns Leben und Wirken, ziehen sich wie ein roter Faden durch ihr Leben.
 
@@ -82,3 +84,14 @@ Marianne Ehrmann schrieb einen erfolgreichen Roman, *Amalie. Eine wahre Geschich
 *Literaturhinweise:*
 - Heinz, Jutta. 2019. [Marianne Ehrmann: Philosophie eines Weibes](https://schoengeistinnen.de/marianne-ehrmann). Blog: Die Schöngeistinnen.
 - Kirstein, Britt-Angela. 1997. [Marianne Ehrmann : Publizistin und Herausgeberin im ausgehenden 18. Jahrhundert](https://archive.org/details/springer_10.1007-978-3-663-08714-4). Wiesbaden: Springer Fachmedien.
+
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Gespräche als Lebenselixir](https://www.erinnermich.eu/blog/rahelvarnhagen/)
+- [Gebildetes Frauenzimmer](https://www.erinnermich.eu/blog/chatelet/)
+- [Bewegte Zeiten](https://www.erinnermich.eu/blog/elizabethcarter/)
+- [Weltweisheit für Frauenzimmer](https://www.erinnermich.eu/blog/unzer_dichterkrone/)
