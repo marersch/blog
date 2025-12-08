@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ennigaldi.jpg"
 
 # meta description
-description: "Ennigaldi-Nanna. Babylon. Museumsgründerin. Hohepriesterin. Menschliche Frau des Mondgottes Nanna Sin. Mesopotamien. Stadt Ur. Babylonische Prinzessin. Neubabylonischer König Nabonid. Kultur und Umweltschutz. Archäologie. Enheduanna erste Schriftstellerin. britische Archäologe Sir Charles Leonard Woolley. heutiges Irak."
+description: "Ennigaldi-Nanna. Babylon. Museumsgründerin. Herstory Hohepriesterin. Menschliche Frau des Mondgottes Nanna Sin. Ennigaldi-Nanna Mesopotamien. Stadt Ur. Ennigaldi-Nanna Babylonische Prinzessin. Neubabylonischer König Nabonid. Kultur und Umweltschutz. Archäologie. Enheduanna erste Schriftstellerin. britische Archäologe Sir Charles Leonard Woolley. heutiges Irak. Ennigaldi-Nanna Herstory. Enheduanna und Ennigaldi-Nanna. Mondgott Frau Ennigaldi-Nanna. Herstory. Erinnermich Ennigaldi-Nanna."
 
 # taxonomies
 categories:
@@ -74,5 +74,7 @@ Die Geschichte des ersten bekannten Museums der Welt und seiner Kuratorin verdeu
 .
 
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Enheduanna](https://www.erinnermich.eu/blog/enheduanna/)
+- [Artemis - ab zum Mond](https://www.erinnermich.eu/blog/mond/)
+- [Menschlicher Computer](https://www.erinnermich.eu/blog/lepaute/)

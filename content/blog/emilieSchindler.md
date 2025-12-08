@@ -7,7 +7,7 @@ draft: false
 image: "images/post/schindler.jpg"
 
 # meta description
-description: "Schindlers Liste. Emilie Schindler. Rettung Juden. Nationalsozialismus Deutschland. Oskar Schindler. Schindler Liste. Mut. Argentinien. 1200 Juden gerettet. Auschwitz. KZ. Konzentrationslage. NSDAP. SS. Frau von Oskar Schindler. Deportation."
+description: "Schindlers Liste. Emilie Schindler. Rettung Juden. Nationalsozialismus Deutschland. Oskar Schindler. Schindler Liste. Mut. Argentinien. 1200 Juden gerettet. Auschwitz. KZ. Konzentrationslage. NSDAP. SS. Frau von Oskar Schindler. Deportation. Herstory Nationalsozialismus. Rolle Frau Nazis. Herstory Deutschland. Schindler Frau Herstory. Rettung Juden Weltkrieg. Weltkriege Frau Herstory."
 
 # taxonomies
 categories:
@@ -65,3 +65,17 @@ Erst als 1993 der Spielfilm *Schindlers Liste* in die Kinos kam, erinnerte man s
 *Literaturhinweise:*
 - Schindler, Emilie & Erika Rosenberg. 2001. Ich, Emilie Schindler: Erinnerungen einer Unbeugsamen. Herbig.
 - Schindler, Emilie, Erika Rosenberg & Elisabeth Brilke. 1997. In Schindlers Schatten: Emilie Schindler erzählt ihre Geschichte. Kiepenheuer & Witsch.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Gelebte Erinnerung](https://www.erinnermich.eu/blog/estherbejarano/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Stolperstein](https://www.erinnermich.eu/blog/amaliafleischer/)
+- [Auschwitzs Cellistin](https://www.erinnermich.eu/blog/a.l.wallfisch/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Raum für Schweigen](https://www.erinnermich.eu/blog/sarahkofman/)
+- [Herzenssache Musik](https://www.erinnermich.eu/blog/fridakern/)
+- [Trümmerfrauen](https://www.erinnermich.eu/blog/truemmerfrauen/)

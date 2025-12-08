@@ -7,7 +7,7 @@ draft: false
 image: "images/post/euniceNewtonFoote.jpg"
 
 # meta description
-description: "Eunice Newton Foote (1819-1888). Treibhauseffekt. Pionierin der Klimaforschung. Klimawandel. CO2 in Atmosphäre. Bestimmte Gase in der Atmosphäre Wärme von der Sonne aufnehmen und so die Temperatur auf der Erde beeinflussen. Naturwissenschaften. Forscherin. Erfinderin. Frauenrechtlerin. USA."
+description: "Eunice Newton Foote (1819-1888). Eunice Newton Foote Treibhauseffekt. Eunice Newton Foote Pionierin der Klimaforschung. Eunice Newton Foote Klimawandel. Eunice Newton Foote CO2 in Atmosphäre. Bestimmte Gase in der Atmosphäre Wärme von der Sonne aufnehmen und so die Temperatur auf der Erde beeinflussen. Eunice Newton Foote Naturwissenschaften. Eunice Newton Foote Forscherin. Eunice Newton Foote Erfinderin. Eunice Newton Foote Frauenrechtlerin. Eunice Newton Foote USA. Klimaforschung Herstory. Frau Klimaforschung Eunice Newton Foote. Erinnermich Herstory Klimaforschung. Eunice Newton Foote Pionierin Herstory. Pionierin Herstory Erinnermich. Klimawandel Herstory. Erinnermich Klimawandel Frau Eunice Newton Foote."
 
 # taxonomies
 categories:
@@ -55,3 +55,13 @@ Denn leider fanden ihre Arbeiten zu Lebzeiten nicht die Beachtung und Anerkennun
 
 *Literaturhinweis:*
 - Newton Foote, Eunice. 1856. [Circumstances affecting the Heat of the Sun's Rays](https://archive.org/details/mobot31753002152491/page/377/mode/2up), The American journal of science, New York, S. 382-383.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Natur ist kein totes Museum](https://www.erinnermich.eu/blog/hedwigconradmartius/)
+- [Jungfrau aus dem Eis](https://www.erinnermich.eu/blog/juanita/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
+- [Keine halben Sachen](https://www.erinnermich.eu/blog/merian/)
+- [Mathematik war ihr Leben](https://www.erinnermich.eu/blog/sonjakowalewski/)

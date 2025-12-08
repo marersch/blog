@@ -7,7 +7,7 @@ draft: false
 image: "images/post/elizabethCarter.jpg"
 
 # meta description
-description: "Elizabeth Carter. Wichtige Intellektuelle der Aufklärung. Übersetzung Epiktet, Stoiker des Altertums. Wandern als Komponente eines erfüllten Lebens. Übersetzerin. Altertumsforscherin. Autorin. Englische Dichterin. Mitglied der Blaustrumpfgesellschaft um Elizabeth Montagu."
+description: "Elizabeth Carter. Wichtige Intellektuelle der Aufklärung. Übersetzung Epiktet, Stoiker des Altertums. Frauenrollen Herstory. Wandern als Komponente eines erfüllten Lebens. Frau Wandern. Elizabeth Carter Übersetzerin. Elizabeth Carter Altertumsforscherin. Elizabeth Carter Autorin. Englische Dichterin Elizabeth Carter. Mitglied der Blaustrumpfgesellschaft um Elizabeth Montagu. Virginia Woolf ein eigenes Zimmer. Bewegung Input Denken. Bewegung Philosophie. Wandern Philosophie. Philosophie Herstory. Kritik gesellschaftliche Normen Herstory. Feministische Perspektive gesellschaftliche Normen."
 
 # taxonomies
 categories:
@@ -71,3 +71,15 @@ Intelligente oder schreibende Frauen waren vielen Männern ein Gräuel, was sich
 - Andrews, Kerri. 2022. Frauen, die wandern, sind nie allein. Unterwegs mit berühmten Denkerinnen - von Anaïs Nin bis Virginia Woolf. Goldmann.
 - Carter, Elizabeth. 2005. Elizabeth Carter, 1717-1806. An edition of some unpublished letters. Herausgegeben von Gwen Hampshire.  University of Delaware Press.
 - Eger, Elizabeth. 2010. Bluestockings. Women of Reason from Enlightenment to Romanticism. Palgrave Macmillan.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Gespräche als Lebenselixir](https://www.erinnermich.eu/blog/rahelvarnhagen/)
+- [Gebildetes Frauenzimmer](https://www.erinnermich.eu/blog/chatelet/)
+- [Phönix aus der Asche](https://www.erinnermich.eu/blog/ehrmann_phoenix/)
+- [Weltweisheit für Frauenzimmer](https://www.erinnermich.eu/blog/unzer_dichterkrone/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)
+- [Wilde Bergweiber](https://www.erinnermich.eu/blog/bergweiber/)

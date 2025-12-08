@@ -7,7 +7,7 @@ draft: false
 image: "images/post/EstherBejarano.jpg"
 
 # meta description
-description: "Esther Bejarano. Mädchenorchester Auschwitz. Wir leben trotzdem! Künstlerin für den Frieden. Rap-Band gegen rechts. Überlebende KZ. Gegen das Vergessen. Gegen Neonazismus. Holocaust. Holocaustleugnung. Verfolgung Juden. Antisemitismus."
+description: "Esther Bejarano Herstory. Esther Bejarano Erinnermich Herstory. Esther Bejarano Herstory Nationalsozialismus. Esther Bejarano Auschwitz Herstory. Esther Bejarano KZ Herstory. Esther Bejarano Mädchenorchester Auschwitz. Wir leben trotzdem! Künstlerin für den Frieden. Esther Bejarano Rap-Band gegen rechts. Esther Bejarano Überlebende KZ. Esther Bejarano Gegen das Vergessen. Esther Bejarano Gegen Neonazismus. Esther Bejarano Holocaust. Erinnermich Holocaustleugnung. Erinnermich Verfolgung Juden. Antisemitismus. Esther Bejarano Musik. Musik gegen Gewalt Herstory. Musik gegen Vergessen Herstory."
 
 # taxonomies
 categories:
@@ -74,6 +74,20 @@ Deshalb ist es wichtig, nicht zu vergessen, was damals geschehen ist. Es ist wic
 - Bejarano, Esther mit Sascha Hellen. 2022. Nie schweigen: "Ihr sollt die Stimme gegen das Vergessen sein, wenn wir nicht mehr da sind." Bonifatius.
 - Bejarano, Esther mit Antonella Romeo. 2014. Erinnerungen: vom Mädchenorchester in Auschwitz zur Rap-Band gegen Rechts. Laika-Verlag.
 - Bejarano, Esther. 1989. "Man nannte mich Krümel": eine jüdische Jugend in den Zeiten der Verfolgung. Curio-Verlag.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Stolperstein](https://www.erinnermich.eu/blog/amaliafleischer/)
+- [Auschwitzs Cellistin](https://www.erinnermich.eu/blog/a.l.wallfisch/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Raum für Schweigen](https://www.erinnermich.eu/blog/sarahkofman/)
+- [Herzenssache Musik](https://www.erinnermich.eu/blog/fridakern/)
+- [Trümmerfrauen](https://www.erinnermich.eu/blog/truemmerfrauen/)
 
 
 

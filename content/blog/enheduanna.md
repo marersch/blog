@@ -7,7 +7,7 @@ draft: false
 image: "images/post/enheduanna.jpeg"
 
 # meta description
-description: "Erster überlieferter Schrifsteller der Weltgeschichte war eine Frau. Frauen und Bildung. Hohepriesterin in Mesopotamien. Erste Urheberin."
+description: "Enheduanna. Erster überlieferter Schrifsteller der Weltgeschichte war eine Frau. Frauen und Bildung. Hohepriesterin in Mesopotamien. Erste Urheberin. Enheduanna. Erster Schrifsteller der Menschheit. Enheduanna Frau Herstory. Mesopotamien Frau. Herstory Mesopotamien. Frauen schreiben Geschichte. Enheduanna Hohepriesterin Mesopotamien. Schriften Frau. Schriftstellerin. Pionierin Weltgeschichte. Pionierin Literaturgeschichte. Literaturgeschichte Herstory. Literaturgeschichte Frau. Enheduanna Schriftstellerin. Enheduanna Herstory. Enheduanna Schriftstellerin. Erste Schriftstellerin Enheduanna."
 
 # taxonomies
 categories:
@@ -68,3 +68,10 @@ All diese Privilegien wurden damals den wenigsten Frauen zuteil. Zugleich zeugen
 
 
 
+
+.
+
+*Verwandte Beiträge:*
+- [Frau des Mondgottes](https://www.erinnermich.eu/blog/ennigaldi-nanna/)
+- [Mächtigster Pirat aller Zeiten](https://www.erinnermich.eu/blog/chingshih/)
+- [Bierbrauen in Frauenhand](https://www.erinnermich.eu/blog/bierbrauen/)
