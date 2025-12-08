@@ -7,12 +7,12 @@ draft: false
 image: "images/post/Eberhardt.jpg"
 
 # meta description
-description: "Isabelle Eberhardt: Frau als arabischer Mann. Schreibende Nomadin. Flucht vor Konventionen. Kritik an Eurozentrismus."
+description: "Isabelle Eberhardt. Frau als arabischer Mann. Schreibende Nomadin. Flucht vor Konventionen. Kritik an Eurozentrismus. Isabelle Eberhardt Geschlechterrollen Nordafrika. Herstory. Isabelle Eberhardt Sahara Reisen. Isabelle Eberhardt. Algerien Kolonialzeit. Isabelle Eberhardt Nomadentum."
 
 # taxonomies
 categories:
-  - "Klischees"
   - "Frauenrollen"
+  
 tags:
   - "Nomadin"
   - "Afrika"
@@ -70,3 +70,13 @@ Durch wahres Interesse und Verständnis lässt sich in Welten eintauchen, die ei
 
 *Literaturhinweis:*
 - Eberhardt, Isabelle. 1988. The passionate nomad: the diary of Isabelle Eberhardt. Boston: Beacon Press.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Entdeckungsreise durch Afrika](https://www.erinnermich.eu/blog/tinne/)
+- [Mary Kingsley – allein durch Westafrika](https://www.erinnermich.eu/blog/kingsley/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Der Berg ruft](https://www.erinnermich.eu/blog/dyhrenfurth/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)
