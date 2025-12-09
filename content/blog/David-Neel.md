@@ -22,6 +22,8 @@ tags:
   - "Asien"
   - "Freiheit"
   - "Forscherin"
+  - "Buddhismus"
+  - "Religion"
 
 
 # post type

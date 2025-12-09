@@ -25,6 +25,8 @@ tags:
   - "Freiheit"
   - "Women of color"
   - "Islam"
+  - "Hinduismus"
+  - "Religion"
   
   
 # post type

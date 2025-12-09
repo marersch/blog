@@ -21,6 +21,8 @@ tags:
   - "Mittelalter"
   - "Schriftstellerin"
   - "Literatur"
+  - "Christentum"
+  - "Religion"
 
 # post type
 type: "post"

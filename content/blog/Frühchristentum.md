@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Fruehchristentum.jpg"
 
 # meta description
-description: "Frühchristentum. Diakoninnen. Apostolinnen. Apostel Paulus. Diakonin Phöbe. Apostolin Junia. Schrift als Werkzeug der Macht. Männerkirche. Kirche und Patriarchat."
+description: "Frühchristentum Frau. Herstory Frühchristentum. Urchristentum Frau Rolle. Rolle Frau Urchristentum. Christentum Frau. Rolle Frau Religion. Rolle Frau Christen. Rolle Frau Christentum. Herstory Christentum. Kirche Rolle Frau. Frausein Kirche. Herstory Kirche. Kirche Frau Macht. Frau Kirche. Herstory Glauben. Glaube Frau. Diakoninnen. Apostolinnen. Apostel Paulus. Diakonin Phöbe. Apostolin Junia. Schrift als Werkzeug der Macht. Männerkirche. Kirche und Patriarchat. Frauen schreiben Geschichte Kirche. Frauen schreiben Geschichte Religion. Frauen schreiben Geschichte Christen. Frauen schreiben Geschichte Christentum. Frauen schreiben Geschichte Frühchristentum. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Erinnermich Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -21,6 +21,8 @@ tags:
   - "Antike"
   - "Macht"
   - "Patriarchat"
+  - "Christentum"
+  - "Religion"
   
   
 # post type
@@ -58,3 +60,15 @@ Ein zentrales Werkzeug zur Unsichtbarmachung der Frauen war die Sprache bzw. die
 Sprache ist Macht. Das geschriebene Wort gilt vielfach als absolut. Dabei wird gerne übersehen, dass es sich bei der Bibel nicht um die eine Originalversion handelt, die es nämlich nie gegeben hat, sondern um verschiedene Übersetzungen. Abgesehen davon ändern Wörter mit der Zeit oder durch eine Übersetzung durchaus ihre Bedeutung. 
 
 Hinzu kommt, dass sich die Bedeutung oder Auffassung von Wörtern auch je nach kulturellem Hintergrund, Sprache und eigener Geschichte ändert. Je nach Kontext rufen Wörter nämlich unterschiedliche Bilder, Gefühle oder Erinnerungen hervor. Es lohnt sich also, kritisch zu bleiben.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mitarbeiterin des Apostels Paulus](https://www.erinnermich.eu/blog/priska/)
+- [Mit dem Buch in den Tod](https://www.erinnermich.eu/blog/porete/)
+- [Über verleugnete Geschichte](https://www.erinnermich.eu/blog/gerdalerner/)
+- [Baum und Schlange](https://www.erinnermich.eu/blog/barbararenz/)
+- [Bis zu den Knien im Frauenblut](https://www.erinnermich.eu/blog/daly/)
+- [Mutige Frauen in Männerwelten](https://www.erinnermich.eu/blog/bibel_barockmalerin/)

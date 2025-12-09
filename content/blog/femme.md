@@ -7,7 +7,7 @@ draft: false
 image: "images/post/femme.jpg"
 
 # meta description
-description: "Cherchez la femme. Deutsches Sprichwort. Redewendung. Jäger Sammler Gesellschaften. Sesshaftwerdung Nachteil Frauen. Steigung Geburtenrate. Macht, Eigentum, Konflikte. Mann, Macht. Schwächung Frau. Antikes Rom. Juvenal Satire. Die Mohikaner von Paris, Alexandre Dumas. Klischee Kriminalroman. Frau Übeltäterin."
+description: "Cherchez la femme. Herstory Deutsches Sprichwort. Frau Redewendung. Deutsche Redewendung Frau. Frauengeschichte Sprache Redewendung. Frauengeschichte Sprichwort. Frau Jäger Sammler Gesellschaften. Sesshaftwerdung Nachteil Frauen. Steigung Geburtenrate. Frau Macht, Eigentum, Konflikte. Mann, Macht. Schwächung Frau. Antikes Rom Frau Herstory. Juvenal Satire. Die Mohikaner von Paris, Alexandre Dumas. Klischee Kriminalroman. Frau Übeltäterin. Klischee Frausein. Klischee Frau. Klischee Sprache. Erinnermich Blog. Erinnermich Frauen schreiben Geschichte Marlene Erschbamer. Erinnermich Marlene Erschbamer Blog."
 
 # taxonomies
 categories:
@@ -89,4 +89,15 @@ So viel zu den Klischees über Frauen, die im Laufe der Geschichte zwar immer wi
 - Dumas, Alexandre. 1889. Théatre complet de Al. Dumas, fils. Calmann Lévy.
 - Iuvenalis, Decimus Iunius. 2014. Juvenal. Satiren: Lateinisch - Deutsch. Walter de Gruyter GmbH.
 
+
+
+.
+
+
+*Verwandte Beiträge:*
+- [Die Büchse der ...](https://www.erinnermich.eu/blog/pandora/)
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)
+- [Quasselstrippen](https://www.erinnermich.eu/blog/quasselstrippe/)
+- [Chefin der Unterwelt](https://www.erinnermich.eu/blog/mandelbaum/)
+- [Engel von Bremen](https://www.erinnermich.eu/blog/gescheg/)
 

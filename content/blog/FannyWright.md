@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fannyWright1.jpg"
 
 # meta description
-description: "Fanny Wright. Frances Wright. Schottland. USA. Gegen die Sklaverei in den USA. Projekt Nashoba. Memphis, Tennessee. Gegen die Ehe, für die freie Liebe. Gesellschaftsleben und Sitten in den Vereinigten Staaten von Amerika. New Harmony Gazette. Free Enquirer. Sex oder Liebe zwischen Rassen. Wortgewaltige Reden für Rechte der Frauen."
+description: "Fanny Wright Herstory. Frances Wright Frauen schreiben Geschichte. Schottland. USA. Fanny Wright Gegen die Sklaverei in den USA. Fanny Wright Projekt Nashoba. Memphis, Tennessee. Fanny Wright Gegen die Ehe, für die freie Liebe. Fanny Wright Gesellschaftsleben und Sitten in den Vereinigten Staaten von Amerika. Fanny Wright New Harmony Gazette. Fanny Wright Free Enquirer. Fanny Wright Sex oder Liebe zwischen Rassen. Fanny Wright Wortgewaltige Reden für Rechte der Frauen. Fanny Wright Herstory. Fanny Wright Erinnermich. Blog Erinnermich Frauen schreiben Geschichte. Erinnermich Marlene Erschbamer. Starke Frauen USA. Frauenpower USA. US Geschichte Frau. US Geschichte Herstory. Fanny Wright US Herstory. Fanny Wright Erinnermich US Herstory."
 
 # taxonomies
 categories:
@@ -69,3 +69,15 @@ Ihr Leben endete tragisch: 1852 rutschte sie auf einer vereisten Treppe aus, bra
 *Literaturhinweise:*
 - Eckhardt, Celia Morris. 1984. Fanny Wright: Rebel in America. Harvard University Press.
 - Fruzińska, Justyna. 2020. Frances Wright’s America: A 19th-Century Utopia. [Text Matters: A Journal of Literature, Theory and Culture](https://doi.org/10.18778/2083-2931.10.22), 10, S. 408–422.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Weiblicher Moses](https://www.erinnermich.eu/blog/tubman/)
+- [Die Skandalgräfin](https://www.erinnermich.eu/blog/fannyreventlow/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
+- [Der eigene Weg](https://www.erinnermich.eu/blog/salome/)
+- [Der Geist hat kein Geschlecht](https://www.erinnermich.eu/blog/gournay/)

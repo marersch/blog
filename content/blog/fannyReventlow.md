@@ -7,7 +7,7 @@ draft: false
 image: "images/post/FranziskaReventlow.jpg"
 
 # meta description
-description: "Franziska Gräfin zu Reventlow. Fanny Reventlow. Skandalgräfin. Schwabinger Gräfin. München. Schwabinger Bohème. Sexuelle Revolution. Ascona. Erster Weltkrieg. Deutsche Malerin. Schriftstellerin. Übersetzerin. Virtuosin der freien Liebe."
+description: "Franziska Gräfin zu Reventlow Erinnermich. Erinnermich Frauen schreiben Geschichte Herstory. Fanny Reventlow Erinnermich Herstory. Fanny Reventlow Skandalgräfin. Schwabinger Gräfin. München. Fanny Reventlow Schwabinger Bohème. Sexuelle Revolution Herstory. Sexuelle Revolution Frau. Ascona. Erster Weltkrieg. Fanny Reventlow Deutsche Malerin. Fanny Reventlow Schriftstellerin. Fanny Reventlow Übersetzerin. Fanny Reventlow Virtuosin der freien Liebe. Erinnermich Herstory. Herstory Frauen schreiben Geschichte. Herstory Erinnermich. Frauen in der Geschichte. Frausein Herstory. Frausein 19. Jahrhundert. Frausein Anfang 20. Jahrhundert. Skandal Frau Erinnermich. Erinnermich Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -82,3 +82,14 @@ Aufgrund ihres Lebensstils und ihres gelebten Freiheitsdrangs gilt sie heute als
 - Decker, Kerstin. 2018. Franziska zu Reventlow: Eine Biografie. Berlin Verlag.
 - Egbringhoff, Ulla. 2000. Franziska zu Reventlow. Rowohlt Taschenbuch Verlag.
 - Wendt, Gunna. 2008. Franziska zu Reventlow: die anmutige Rebellin. Aufbau Verlag.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Unerschrockene Rebellin](https://www.erinnermich.eu/blog/fannywright/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Kunst ist ewig](https://www.erinnermich.eu/blog/demorgan/)
+- [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
+- [Der eigene Weg](https://www.erinnermich.eu/blog/salome/)

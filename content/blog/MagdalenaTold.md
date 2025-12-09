@@ -17,6 +17,8 @@ tags:
   - "Gewalt"
   - "Erinnerung"
   - "Südtirol"
+  - "Christentum"
+  - "Religion"
   
 
 # post type

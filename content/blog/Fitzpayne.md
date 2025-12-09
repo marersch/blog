@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fitzpayne.jpg"
 
 # meta description
-description: "England. Mittelalter. Priestermörderin. Geliebte des Priesters. Ela Fitzpayne. Machtdemonstration Frau. Machtkampf Kirche und Adelige Mittelalter England. John Forde. Kirche Sex Erpressung Rache Macht. Demütigung Frau Kirche. Macht und Moral."
+description: "Ela Fitzpayne England. Ela Fitzpayne Mittelalter. Ela Fitzpayne Priestermörderin. Ela Fitzpayne Geliebte des Priesters. Ela Fitzpayne. Machtdemonstration Frau. Machtkampf Kirche und Adelige Mittelalter England. John Forde. Kirche Sex Erpressung Rache Macht. Ela Fitzpayne Demütigung Frau Kirche. Ela Fitzpayne Macht und Moral. Ela Fitzpayne Herstory. Ela Fitzpayne Frauen schreiben Geschichte. Ela Fitzpayne Macht England Mittelalter. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Erinnermich Marlene Erschbamer. Ela Fitzpayne Machtkampf Kirche. Kirche England Mittelalter Frau. Frau Kirche Mittelalter. Mittelalter Frau Kirche."
 
 # taxonomies
 categories:
@@ -69,3 +69,15 @@ Der Auftragsmord schien eine Machtdemonstration zu sein. Zwischen Kirche und Ade
 *Literaturhinweise:*
 - Eisner, M., S.E. Brown, et al. 2025. [Spatial dynamics of homicide in medieval English cities: the Medieval Murder Map project](https://doi.org/10.1007/s10609-025-09512-7), *Crim Law Forum* 36, S. 381–418. 
 - Haines, Roy Martin. 2012. Archbishop Simon Mepham 1328-1333: A Boy Amongst Men. Xlibris.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mord in der Badewanne](https://www.erinnermich.eu/blog/charlottecorday/)
+- [Engel von Bremen](https://www.erinnermich.eu/blog/gescheg/)
+- [Blutgräfin](https://www.erinnermich.eu/blog/blutgraefin/)
+- [Alles wird gut](https://www.erinnermich.eu/blog/juliana/)
+- [Mutige Frauen in Männerwelten](https://www.erinnermich.eu/blog/bibel_barockmalerin/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)

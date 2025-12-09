@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fliegen2.jpg"
 
 # meta description
-description: "Zwischen Männerdomäne und Rollenklischee. Fliegende Frauen. Ballonfahrt. Flugzeuge. Sophie Blanchard. Amelia Earhart. Elly Beinhorn. Neta Snook. Napoleon Bonaparte. Frauen in der Luftfahrt. Luftfahrtpionierinnen. Herstory Fliegen. Fliegende Frauen. Pionierinnen der Lüfte. Geschichte der Luftfahrt. Pilotinnen. Frauen im Cockpit. Rollenklischees. Männerdomäne. Gleichberechtigung. Historische Pilotinnen. Ballonfahrt Geschichte. Frühe Luftfahrt. Herstory. Women in aviation. Female pilots history. Aviation pioneers women. Gender roles aviation."
+description: "Zwischen Männerdomäne und Rollenklischee. Fliegende Frauen. Ballonfahrt. Flugzeuge. Frau fliegen Sophie Blanchard. Frau fliegen Amelia Earhart. Frau fliegen Elly Beinhorn. Frau fliegen Neta Snook. Frau fliegen Napoleon Bonaparte. Frauen in der Luftfahrt. Luftfahrtpionierinnen. Herstory Fliegen. Fliegende Frauen. Pionierinnen der Lüfte. Geschichte der Luftfahrt. Pilotinnen. Frauen im Cockpit. Rollenklischees. Männerdomäne. Gleichberechtigung. Historische Pilotinnen. Ballonfahrt Geschichte. Frühe Luftfahrt. Herstory. Women in aviation. Female pilots history. Aviation pioneers women. Gender roles aviation. Piloten Frau Herstory. Frauen schreiben Geschichte Fliegen. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Erinnermich Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -77,3 +77,12 @@ Sie blieben sich selbst treu und verwirklichten ihre Träume, an die anfangs nur
 - Noyes, Deborah. 2022. Lady Icarus. Balloonmania and the Brief, Bold Life of Sophie Blanchard. New York: Random House.
 - Probst, Ernst. 2014. Königinnen der Lüfte: Biographien berühmter Fliegerinnen. Hamburg: Diplomica Verlag.
 - Snook Southern, Neta. 1974. [I thaught Amelia to fly](https://archive.org/details/i-taught-amelia-to-fly-by-neta-snook-southern). New York: Vantage Press. 
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Pilotenschein Nr. 115](https://www.erinnermich.eu/blog/mellibeese/)
+- [Weiblicher Indiana Jones](https://www.erinnermich.eu/blog/mariareiche/)
+- [Volle Fahrt voraus](https://www.erinnermich.eu/blog/berthabenz/)

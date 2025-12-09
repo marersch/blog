@@ -20,6 +20,7 @@ tags:
   - "Herrscherin"
   - "Macht"
   - "Buddhismus"
+  - "Religion"
 
 
 # summary for main page

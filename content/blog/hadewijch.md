@@ -23,6 +23,8 @@ tags:
   - "Philosophie"
   - "Philosophin"
   - "Musik"
+  - "Christentum"
+  - "Religion"
   
   
 # summary for main page

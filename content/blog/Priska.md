@@ -21,6 +21,8 @@ tags:
   - "Macht"
   - "Patriarchat"
   - "Römer"
+  - "Christentum"
+  - "Religion"
   
 # summary for main page
 summary: "Über eine bedeutende Frau des Frühchristentums, Missionarin, Leiterin einer Hauskirche in Korinth, Predigerin und Lehrerin: Priska (1.Jh.n.Chr.)."

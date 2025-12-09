@@ -22,6 +22,7 @@ tags:
   - "Macht"
   - "Klischee"
   - "Buddhismus"
+  - "Religion"
 
 # summary for main page
 summary: "Tibet, 15. Jahrhundert: Von der tibetischen Prinzessin zur einflussreichen religiösen Persönlichkeit: Chokyi Dronma (1422-1455). Über weibliche Stereotypen im tibetischen Buddhismus und ihre Ausnahmen."

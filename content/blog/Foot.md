@@ -7,7 +7,7 @@ draft: false
 image: "images/post/foot.jpg"
 
 # meta description
-description: "Philippa Foot. Oxford. Trolley-Problem. Ethik. Philosophie. Philosophin. Philosophisches Quartett. Tugendethik. Delikate ethische Fragen: Abtreibung und Sterbehilfe. Moral. Die Natur des Guten. Männer im Krieg, Frauen in der Philosophie. Aristoteles. Tugend. Wie rational ist Moral."
+description: "Philippa Foot. Philippa Foot Oxford. Philippa Foot Trolley-Problem. Philippa Foot Ethik. Philippa Foot Philosophie. Philippa Foot Philosophin. Philippa Foot Philosophisches Quartett. Philippa Foot Tugendethik. Philippa Foot Delikate ethische Fragen: Abtreibung und Sterbehilfe. Philippa Foot Moral. Philippa Foot Die Natur des Guten. Männer im Krieg, Frauen in der Philosophie. Aristoteles. Philippa Foot Tugend. Philippa Foot Wie rational ist Moral. Philippa Foot Philosophie England. Philosophie Oxford Philippa Foot. Philosophin Oxford Philippa Foot. Herstory Philosophie. Frauen schreiben Geschichte Philosophie. Frauen in Philosophie. Philosophierende Frauen. Denkerinnern Philippa Foot. Philippa Foot Denkerin Oxford. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Erinnermich Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -92,6 +92,11 @@ Schon in der Antike stellten sich große Philosophen die Frage, was ein gutes un
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Philosophisches Quartett I](https://www.erinnermich.eu/blog/anscombe/) (über Elizabeth Anscombe)
-
+- [Philosophisches Quartett III](https://www.erinnermich.eu/blog/midgley/) (über Mary Midgley)
+- [Philosophisches Quartett IV](https://www.erinnermich.eu/blog/murdoch/) (über  Iris Murdoch)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Die gelbe Tapete](https://www.erinnermich.eu/blog/charlotteperkinsgilman/)
+- [Frankenstein](https://www.erinnermich.eu/blog/maryshelley/)

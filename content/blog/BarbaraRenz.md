@@ -21,6 +21,8 @@ tags:
   - "Forscherin"
   - "Philosophin"
   - "Bibel"
+  - "Christentum"
+  - "Religion"
  
   
 # summary for main page
@@ -71,3 +73,11 @@ Barbara Renz, und die Anfänge bibliothekarischer Frauenarbeit
 an der Hof- und Staatsbibliothek vor hundert Jahren. Bibliotheksforum Bayern 12, S. 197–201.
 - Wacker, Marie-Theres. 2013. Dr. phil. Barbara Klara Renz (1863–1955). Eine katholische Interpretin der Bibel zwischen Ethnologie, Religionsphilosophie und dem Streit für das Bildungsrecht von Frauen. Lectio difficilior: European electronic journal for feminist exegesis, S. 1–45.
 - Wacker, Marie-Theres. 2023. [Renz, Barbara](https://www.deutsche-biographie.de/dboR2983.html#dbocontent). NDB-online.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Frühchristentum & Frauen](https://www.erinnermich.eu/blog/fr%C3%BChchristentum/)
+- [Mitarbeiterin des Apostels Paulus](https://www.erinnermich.eu/blog/priska/)

@@ -25,6 +25,7 @@ tags:
   - "Macht"
   - "Forscherin"
   - "Geschichtsschreibung"
+  - "Religion"
   
 # summary for main page
 summary: "Österreichische Jüdin, Überlebende des Holocaust, Frauenhistorikerin und Geschichtsphilosophin: Gerda Lerner (1920-2013)."  

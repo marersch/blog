@@ -7,7 +7,7 @@ draft: false
 image: "images/post/kern.jpg"
 
 # meta description
-description: "Frida Kern. Friederike Seitz. Oper. Die rote Rose. Studium an der Wiener Musikakademie als außerordentliche Hörerin. Komponistin. Dirigentin. Damenkapelle. Werke der NS-Zeit. Nationalsozialismus. Männerdomäne Musik. Oberösterreich. Erfolg durch männliches Pseudonym. Chorwerk die Briefe der Gefallenen. Antraug Aufnahme NSDAP. Universität Wien. Oberösterreichische Künstlerbund."
+description: "Frida Kern. Friederike Seitz. Frida Kern Oper. Frida Kern Die rote Rose. Frida Kern Studium an der Wiener Musikakademie als außerordentliche Hörerin. Frida Kern Komponistin. Frida Kern Dirigentin. Frida Kern Damenkapelle. Frida Kern Werke der NS-Zeit. Frida Kern Nationalsozialismus. Frida Kern Männerdomäne Musik. Frida Kern Oberösterreich. Frida Kern Erfolg durch männliches Pseudonym. Frida Kern Chorwerk die Briefe der Gefallenen. Frida Kern Antraug Aufnahme NSDAP. Frida Kern Universität Wien. Frida Kern Oberösterreichische Künstlerbund. Frida Kern Musikerin. Frida Kern Musik. Frida Kern Österreich. Frida Kern Musik Österreich. Frida Kern Herstory. Frida Kern Frauen schreiben Geschichte. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Erinnermich Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -68,3 +68,17 @@ Frida Kern zählte zu Lebzeiten zu den bekanntesten und erfolgreichsten Komponis
 - Kirchmayr, Birgit (Hrsg.). 2008. "Kulturhauptstadt des Führers": Kunst und Nationalsozialismus in Linz und Oberösterreich : ein Projekt der Oberösterreichischen Landesmuseen in Kooperation mit Linz 2009 Kulturhauptstadt Europas. Land Oberösterreich, Oberösterr. Landesmuseen.
 - Marx, Eva und Gerlinde Haase. 2001. 210 österreichische Komponistinnen vom 16. Jahrhundert bis zur Gegenwart: Biographie, Werk und Bibliographie : ein Lexikon. Residenz Verlag.
 - Mayer, Clara (Hrsg.). 1996. Annäherung VII – an sieben Komponistinnen: Hildegard von Bingen, Anna Bon di Venezia, Hope Lee, Matilde Capuis, Frida Kern, Bettine von Arnim, Louise Farrenc.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Übersehene Komponistin](https://www.erinnermich.eu/blog/petronellagoering/)
+- [Gelebte Erinnerung](https://www.erinnermich.eu/blog/estherbejarano/)
+- [Feder, Papier & Tintenfass](https://www.erinnermich.eu/blog/droste-huelshoff/)
+- [Sei Dir selber treu](https://www.erinnermich.eu/blog/bettinearnim/)
+- [Verrückt nach Angelika](https://www.erinnermich.eu/blog/kauffmannangelika/)
+- [Im Schatten berühmter Brüder](https://www.erinnermich.eu/blog/goethemozart/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Mystische Lieder & Liebe](https://www.erinnermich.eu/blog/hadewijch/)
+

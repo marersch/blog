@@ -20,6 +20,8 @@ tags:
   - "Philosophie"
   - "Philosophin"
   - "Großbritannien"
+  - "Christentum"
+  - "Religion"
 
   
   
