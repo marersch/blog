@@ -7,7 +7,7 @@ draft: false
 image: "images/post/dali.jpg"
 
 # meta description
-description: "Gala Dali. Managerin, Muse Mythos Salvador Dali. Surrealismus. Selbstinszenierung Kunst. Weg einer Muse. Paul Éluard. Max Ernst. Extravagante Frau. Lebensstil. Marke Dalí. Gala Dalí. Gala Éluard Dalí. Elena Ivanovna Diakonova. Salvador. Dalí Frau. Muse Gala. Gala Dalí Biografie. Wer war Gala Dalí. Herstory Kunst. Gala Dalí Muse. Gala Dalí Kunst. Herstory. Surrealismus Gala Dalí. Künstler-Muse Beziehung."
+description: "Gala Dali. Gala Dali Managerin, Gala Dali Muse Mythos Salvador Dali. Gala Dali Surrealismus. Gala Dali Selbstinszenierung Kunst. Gala Dali Weg einer Muse. Gala Dali Paul Éluard. Gala Dali Max Ernst. Gala Dali Extravagante Frau. Gala Dali Lebensstil. Gala Dali Marke Dalí. Gala Dalí Herstory. Gala Dali Frauengeschichte. Gala Dali Frauen schreiben Geschichte. Gala Éluard Dalí. Elena Ivanovna Diakonova. Salvador. Dalí Frau. Muse Gala. Gala Dalí Biografie. Wer war Gala Dalí. Herstory Kunst. Gala Dalí Muse. Gala Dalí Kunst. Herstory. Surrealismus Gala Dalí. Künstler Muse Beziehung. Gala Dali Kunst Herstory. Kunst Frauengeschichte. Kunst Frau. Erinnermich. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Erinnermich Herstory."
 
 # taxonomies
 categories:
@@ -71,3 +71,18 @@ Der Muse Gala und dem Künstler Dalí gelang es, eine eigene künstlerische Welt
 - Frank, Sylvia. 2022. Gala und Dalí - Die Unzertrennlichen. Aufbau Taschenbuch.
 - Gerber Klein, Michèle. 2024. Surreal: The Extraordinary Life of Gala Dalí. HarperCollins Publishers.
 - Hille, Karoline. 2009. Gefährliche Musen: Frauen um Max Ernst. Ebersbach.
+
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Kunst ist ewig](https://www.erinnermich.eu/blog/demorgan/)
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)
+- [Verrückt nach Angelika](https://www.erinnermich.eu/blog/kauffmannangelika/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Berliner Künstlerin](https://www.erinnermich.eu/blog/annatherbusch/)
+- [Brillianz & Leid](https://www.erinnermich.eu/blog/camilleclaudel/)
+- [Venezianische Barockmalerin](https://www.erinnermich.eu/blog/giovannagarzoni/)
+

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/garzoni.jpg"
 
 # meta description
-description: "Barockmalerin Giovanna Garzoni. Marken Italien Venedig Turin Rom London Pairs. Medici. Stillleben. Wissenschaftliche Illustrationen. Portraits. Lincei. Accademia di San Luca Rom. Arthur Schopenhauer. Frauenfeind. Frauen und Kunst. Friedrich Nietzsche, Richard Wagner, Albert Einstein, Thomas Mann, Kurt Tucholsky und Wilhelm Busch."
+description: "Giovanna Garzoni. Barockmalerin Giovanna Garzoni. Giovanna Garzoni Marken Giovanna Garzoni Italien Giovanna Garzoni Venedig Giovanna Garzoni Turin Giovanna Garzoni Rom Giovanna Garzoni London Giovanna Garzoni Pairs. Giovanna Garzoni Medici. Giovanna Garzoni Stillleben. Giovanna Garzoni Wissenschaftliche Illustrationen. Giovanna Garzoni Portraits.Giovanna Garzoni  Lincei. Accademia di San Luca Rom. Arthur Schopenhauer. Frauenfeind. Frauen und Kunst. Friedrich Nietzsche, Richard Wagner, Albert Einstein, Thomas Mann, Kurt Tucholsky und Wilhelm Busch. Giovanna Garzoni Herstory. Giovanna Garzoni Frauengeschichte. Kunst Frauengeschichte. Kunst Herstory. Giovanna Garzoni Kunst. Giovanna Garzoni Herstory. Giovanna Garzoni Erinnermich. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Giovanna Garzoni Blog. Giovanna Garzoni Frau."
 
 
 # taxonomies
@@ -73,5 +73,12 @@ Lange Zeit hielt sich der Glaube, dass Frauen und Kunst nur dann zusammengehöre
 
 
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Mutige Frauen in Männerwelten - über Artemisia Gentileschi](https://www.erinnermich.eu/blog/bibel_barockmalerin/)
+- [Kunst ist ewig](https://www.erinnermich.eu/blog/demorgan/)
+- [Verrückt nach Angelika](https://www.erinnermich.eu/blog/kauffmannangelika/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Berliner Künstlerin](https://www.erinnermich.eu/blog/annatherbusch/)
+- [Brillianz & Leid](https://www.erinnermich.eu/blog/camilleclaudel/)
+- [Keine halben Sachen](https://www.erinnermich.eu/blog/merian/)
+- [Zum Denken und Forschen geboren](https://www.erinnermich.eu/blog/sorjuana/)

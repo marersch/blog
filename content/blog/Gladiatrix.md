@@ -7,7 +7,7 @@ draft: false
 image: "images/post/gladiatorinnen1.jpg"
 
 # meta description
-description: "Weibliche Galdiatoren. Altes Rom. Amazonen. Gefangene Kriegerinnen in römischen Arenen. Kampf in der Arena. Frauen als Gladiator. Gladiatrix."
+description: "Weibliche Gladiatoren. Altes Rom. Amazonen. Gefangene Kriegerinnen in römischen Arenen. Kampf in der Arena. Frauen als Gladiator. Gladiatrix. Herstory Rom. Herstory Gladiatoren. Altes Rom Frau. Frauenrollen Antike. Frauen schreiben Geschichte Rom. Antike Herstory. Kämperin Herstory. Klischee Frau. Frauenrollen Geschichte. Frauenrollen Altes Rom. Frauenrollen Antike. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Vorurteile Frau. Frauenpower. Starke Frauen Antike. Arena Frau. Kampf Frau. Kampf Herstory. Geschichte Kampf Frau."
 
 # taxonomies
 categories:
@@ -74,8 +74,12 @@ Es stellt sich die Frage, ob solche Kämpfe dann auch eine erotische Komponente 
 .
 
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Amazonen](https://www.erinnermich.eu/blog/amazonen/)
-
+- [Nonnen-Samurai-Herrscherin](https://www.erinnermich.eu/blog/hojomasako/)
+- [Frauen stehen ihren Mann](https://www.erinnermich.eu/blog/tomyris/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
+- [Zenobia](https://www.erinnermich.eu/blog/zenobia/)
 
 

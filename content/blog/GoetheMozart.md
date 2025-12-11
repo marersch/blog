@@ -7,7 +7,7 @@ draft: false
 image: "images/post/schwestern.jpg"
 
 # meta description
-description: "Maria Anna Mozart. Cornelia Goethe. Frauen und Bildung. Frau als Ehefrau und Mutter. Schicksal von talentierten Frauen. Gesellschaft und Rollenerwartungen. Wunderkinder. Wolfgang Amadeus Mozart. Johann Wolfgang Goethe."
+description: "Maria Anna Mozart. Cornelia Goethe. Frauen und Bildung. Frau als Ehefrau und Mutter. Schicksal von talentierten Frauen. Gesellschaft und Rollenerwartungen. Wunderkinder. Wolfgang Amadeus Mozart. Johann Wolfgang Goethe. Mozart Frauengeschichte. Mozart Herstory. Goethe Frauengeschichte. Goethe Herstory. Cornelia Goethe Herstory. Cornelia Goethe Frauengeschichte. Maria Anna Mozart Herstory. Maria Anna Mozart Frauengeschichte. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Erinnermich Herstory. Blog Herstory. Komponistin Frauengeschichte. Komponistin Herstory. Literatur Goethe Frau. Goethe Literatur Herstory."
 
 # taxonomies
 categories:
@@ -70,3 +70,12 @@ Was mag in dieser hochgebildeten und talentierten Frau vorgegangen sein, als sie
 
 *Literaturhinweis:*
 - Pusch, Luise F. (Hg.). 1985. Schwestern berühmter Männer. Zwölf biographische Portraits. Frankfurt a. M.: Insel Verlag.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Brillianz & Leid](https://www.erinnermich.eu/blog/camilleclaudel/)
+- [Gekrönte Dichterin](https://www.erinnermich.eu/blog/vonziegler_dichterkrone/)
+- [Übersehene Komponistin](https://www.erinnermich.eu/blog/petronellagoering/)
+- [Vögel ohne Nest](https://www.erinnermich.eu/blog/clorindamatto/)

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/reuter.jpg"
 
 # meta description
-description: "Gabriele Reuter. Schriftstellerin. Kritik an Patriarchat. Frauenvernichtenden Aspekte patriarchalischer Gesellschaften. Gebranntmarkte Mädchen & freie Mutterschaft. Das Tränenhaus. Aus guter Familie. Bestsellerautorin. Vielgelesen zu Lebzeiten. Lebenswege und Leidenswege von Frauen. Bohème. Frauenbewegung Jahrhundertwende. Kairo, Weimar, Berlin, Wien und München."
+description: "Gabriele Reuter. Gabriele Reuter Schriftstellerin. Gabriele Reuter Kritik an Patriarchat. Gabriele Reuter Frauenvernichtenden Aspekte patriarchalischer Gesellschaften. Gabriele Reuter Gebranntmarkte Mädchen & freie Mutterschaft. Gabriele Reuter Das Tränenhaus. Gabriele Reuter Aus guter Familie. Gabriele Reuter Bestsellerautorin. Gabriele Reuter Vielgelesen zu Lebzeiten. Gabriele Reuter Lebenswege und Leidenswege von Frauen. Gabriele Reuter Bohème. Gabriele Reuter Frauenbewegung Jahrhundertwende. Gabriele Reuter Kairo, Weimar, Berlin, Wien und München. Gabriele Reuter Herstory. Gabriele Reuter Frauen schreiben Geschichte. Gabriele Reuter Frauengeschichte. Gabriele Reuter Erinnermich. Gabriele Reuter Blog. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Blog Herstory. Blog Frauengeschichte. Gabriele Reuter Literatur. Gabriele Reuter Patriarchat. Gabriele Reuter Mutterschaft. Gabriele Reuter Buch. Gabriele Reuter Literatur. Frauengeschichte Literatur. Herstory. Literatur. Geschichte Literatur Frau."
 
 # taxonomies
 categories:
@@ -71,5 +71,8 @@ Sie begann erste Texte für die Lokalpresse zu schreiben und konnte so ihre Fami
 *Verwandte Beiträge:*
 - Hedwig Dohm: [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
 - Franziska von Reventlow: [Die Skandalgräfin](https://www.erinnermich.eu/blog/fannyreventlow/)
-
+- [Bis zu den Knien in Frauenblut](https://www.erinnermich.eu/blog/daly/)
+- [Über verleugnete Geschichte](https://www.erinnermich.eu/blog/gerdalerner/)
+- Annette von Droste-Hülshoff [Feder, Papier & Tintenfass](https://www.erinnermich.eu/blog/droste-huelshoff/)
+- Marianne Ehrmann: [Phönix aus der Asche](https://www.erinnermich.eu/blog/droste-huelshoff/)
 

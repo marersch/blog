@@ -7,7 +7,7 @@ draft: false
 image: "images/post/GabrielaMistral.jpg"
 
 # meta description
-description: "Gabriela Mistral. Chile. Literaturnobelpreis. Chilenische Dichterin. Diplomatin. Nobelpreisträgerin. Erste Frau Lateinamerikas Nobelpreis in Literatur. Thomas Mann. Lotte und Stefan Zweig. Pinochet."
+description: "Gabriela Mistral. Gabriela Mistral Chile. Gabriela Mistral Literaturnobelpreis. Gabriela Mistral Chilenische Dichterin. Gabriela Mistral Diplomatin. Gabriela Mistral Nobelpreisträgerin. Gabriela Mistral Erste Frau Lateinamerikas Nobelpreis in Literatur. Thomas Mann. Lotte und Stefan Zweig. Pinochet. Gabriela Mistral Lateinamerika. Gabriela Mistral Südamerika. Herstory Gabriela Mistral. Gabriela Mistral Herstory. Gabriela Mistral Frauengeschichte. Gabriela Mistral Literaturgeschichte. Gabriela Mistral Dichterin. Gabriela Mistral Lyrik. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Herstory Frauen schreiben Geschichte. Blog Herstory. Blog Frauengeschichte."
 
 # taxonomies
 categories:
@@ -78,4 +78,15 @@ ihren bleichen Früchten fehlt das Licht meiner Gärten.
 - Karnofsky, Eva und Barbara Potthast. 2012. Mächtig, mutig und genial. Vierzig Außergewöhnliche Frauen aus Lateinamerika. Berlin: Rotbuch Verlag.
 - Mistral, Gabriela. 2009. Madwomen. The "Locas Mujeres" Poems of Gabriela Mistral, a Bilingual Edition. University of Chicago Press.
 - Taylor, Martin C. 2012. Gabriela Mistral's Struggle with God and Man. A Biographical and Critical Study of the Chilean Poet. McFarland Publ.
+
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Vögel ohne Nest](https://www.erinnermich.eu/blog/clorindamatto/)
+- [Zum Denken und Forschen geboren](https://www.erinnermich.eu/blog/sorjuana/)
+- [Zeitlos aktuell](https://www.erinnermich.eu/blog/lagerl%C3%B6f/)
+- [Seele des Silbernen Zeitalters](https://www.erinnermich.eu/blog/a.a.achmatowa/)
 

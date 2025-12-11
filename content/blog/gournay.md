@@ -7,7 +7,7 @@ draft: false
 image: "images/post/DeGournay.jpg"
 
 # meta description
-description: "Marie Le Jars de Gournay. Philosophie. Moral. Bildung. Gesellschaftskritik. Religiöse Beweise für Gleichheit der Geschlechter. Sklaverei der Frau. Verdummung der Frau. Feminismus. Frühfeminismus."
+description: "Marie Le Jars de Gournay. Marie Le Jars de Gournay Philosophie. Marie Le Jars de Gournay Moral. Marie Le Jars de Gournay Bildung. Marie Le Jars de Gournay Gesellschaftskritik. Marie Le Jars de Gournay Religiöse Beweise für Gleichheit der Geschlechter. Marie Le Jars de Gournay Sklaverei der Frau. Verdummung der Frau. Marie Le Jars de Gournay Feminismus. Marie Le Jars de Gournay Frühfeminismus. Marie Le Jars de Gournay Herstory. Marie Le Jars de Gournay Frauengeschichte. Blog Erinnermich. Frauen schreiben Geschichte. Blog Herstory. Erinnermich Frauen schreiben Geschichte. Marie Le Jars de Gournay Herstory. Marie Le Jars de Gournay Geschlecht Klischee. Klischee Geschlechter. Klischee Frau."
 
 # taxonomies
 categories:
@@ -81,3 +81,5 @@ Obwohl es zu ihrer Zeit Begriffe wie Feminismus noch nicht gab, gilt De Grounay 
 - [Von wegen unterlegen](https://www.erinnermich.eu/blog/patriarchat/)
 - [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
 - [Frühchristentum & Frauen](https://www.erinnermich.eu/blog/fr%C3%BChchristentum/)
+- [Die Macht der Sprache](https://www.erinnermich.eu/blog/machtsprache/)
+- [Phönix aus der Asche](https://www.erinnermich.eu/blog/ehrmann_phoenix/)

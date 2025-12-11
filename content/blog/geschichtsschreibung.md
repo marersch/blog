@@ -7,7 +7,7 @@ draft: false
 image: "images/post/enheduanna.jpg"
 
 # meta description
-description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Namen in Geschichtsbüchern stehen? Vergessene Frauen Geschichte. Weibliche Pioniere Geschichte. Frauen Unsichtbarkeit Geschichtsschreibung. Männerdominierte Historiografie. Geschlechter bias Geschichtsforschung. Wissenschaftlerinnen historisch vergessen. Frauen in der Geschichte wiederentdecken. Systematische Auslassung weiblicher Autoren Historie. Bedeutende Frauen Geschichte neu erzählt. Herstory. Jede Geschichte zählt. Frauengeschichte Frauenpower."
+description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Namen in Geschichtsbüchern stehen? Vergessene Frauen Geschichte. Weibliche Pioniere Geschichte. Frauen Unsichtbarkeit Geschichtsschreibung. Männerdominierte Historiografie. Geschlechter bias Geschichtsforschung. Wissenschaftlerinnen historisch vergessen. Frauen in der Geschichte wiederentdecken. Systematische Auslassung weiblicher Autoren Historie. Bedeutende Frauen Geschichte neu erzählt. Herstory. Jede Geschichte zählt. Frauengeschichte Frauenpower. Blog Erinnermich. Erinnermich Frauengeschichte. Blog Erinnermich Frauen schreiben Geschichte. Frauen schreiben Geschichte. Frauengeschichte. Herstory Geschichtsschreibung. Geschichtsschreibung Frau. Frau Frauenrollen. Frauenrollen Geschichte."
 
 # taxonomies
 categories:

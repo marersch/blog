@@ -7,7 +7,7 @@ draft: false
 image: "images/post/gewalt.jpg"
 
 # meta description
-description: "Macht der Sprache. Ungleichheit, Unterdrückung. Stereotype. Männliche Herrschaft. Symbolische Gewalt. Gewalt gegen Frauen. Gewalt gegen Männer. 25. November. Formen der Gewalt: physische, psychische, sexualisierte und ökonomische Gewalt bis hin zu sozialer Isolation, Diskriminierung, Stalking, Mobbing, menschenfeindlicher Sprache. Gedenk- und Aktionstag gegen Diskriminierung und Gewalt an Frauen und Mädchen. Häusliche Gewalt. Clara Zetkin. Femizid. Goethe. Schiller. Wittgenstein. Gewalt."
+description: "Macht der Sprache. Ungleichheit, Unterdrückung. Stereotype. Männliche Herrschaft. Symbolische Gewalt. Gewalt gegen Frauen. Gewalt gegen Männer. 25. November. Formen der Gewalt: physische, psychische, sexualisierte und ökonomische Gewalt bis hin zu sozialer Isolation, Diskriminierung, Stalking, Mobbing, menschenfeindlicher Sprache. Gedenk- und Aktionstag gegen Diskriminierung und Gewalt an Frauen und Mädchen. Häusliche Gewalt. Clara Zetkin. Femizid. Goethe. Schiller. Wittgenstein. Gewalt. Nein zu Gewalt. Geschlechtsspezifische Gewalt. Frau Gewalt."
 
 # taxonomies
 categories:

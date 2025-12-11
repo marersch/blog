@@ -7,7 +7,7 @@ draft: false
 image: "images/post/GerdaLerner.jpg"
 
 # meta description
-description: "Gerda Lerner. Frauengeschichte. Frauen Geschichte geben. Patriarchat. Überlebende Holocaust. Österreichische Jüdin. Professorin der Geschichte in den USA. Frauenhistorikerin. Geschichtsphilosophin. Macht. Unterdrückung. Sexualität."
+description: "Gerda Lerner. Gerda Lerner Frauengeschichte. Gerda Lerner Frauen Geschichte geben. Gerda Lerner Patriarchat. Gerda Lerner Überlebende Holocaust. Gerda Lerner Österreichische Jüdin. Gerda Lerner Professorin der Geschichte in den USA. Gerda Lerner Frauenhistorikerin. Gerda Lerner Geschichtsphilosophin. Gerda Lerner Macht. Gerda Lerner Unterdrückung. Gerda Lerner Sexualität. Gerda Lerner Geschichtsschreibung. Gerda Lerner Herstory. Gerda Lerner Frauen schreiben Geschichte. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Erinnermich Herstory. Erinnermich Blog Frauengeschichte."
 
 # taxonomies
 categories:
@@ -86,6 +86,10 @@ Trotzdem scheint es noch ein langer Weg zu sein, bis das Wissen um die Geschicht
 *Verwandte Beiträge:*
 - [Variablen der Geschichte](https://www.erinnermich.eu/blog/neuegeschichte/)
 - [Frauen und Geschichte](https://www.erinnermich.eu/blog/geschichtsschreibung/)
+- [Schubladendenken](https://www.erinnermich.eu/blog/moorleiche/)
+- [Der Matilda-Effekt](https://www.erinnermich.eu/blog/matildaeffekt/)
+- [Gelebte Erinnerung](https://www.erinnermich.eu/blog/estherbejarano/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
 
 
 

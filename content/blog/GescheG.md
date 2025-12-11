@@ -7,7 +7,7 @@ draft: false
 image: "images/post/GescheGottfried.jpg"
 
 # meta description
-description: "Gesche Gottfried. Serienmörderin. Deutschland. Engel von Bremen. Letzte öffentliche Enthauptung Bremen. Spuckstein Bremen. Familienmitglieder vergiften. Mordserie Bremen. Mordserie Deutschland. historische Mordserie. Mäusebutter. Arsen. Arsenik."
+description: "Gesche Gottfried. Gesche Gottfried Serienmörderin. Gesche Gottfried Deutschland. Gesche Gottfried Engel von Bremen. Gesche Gottfried Letzte öffentliche Enthauptung Bremen. Gesche Gottfried Spuckstein Bremen. Gesche Gottfried Familienmitglieder vergiften. Gesche Gottfried Mordserie Bremen. Gesche Gottfried Mordserie Deutschland. Gesche Gottfried historische Mordserie. Gesche Gottfried Mäusebutter. Gesche Gottfried Arsen. Gesche Gottfried Arsenik. Gesche Gottfried Herstory. Gesche Gottfried Frauengeschichte. Gesche Gottfried Erinnermich Blog. Blog Erinnermich. Erinnermich Frauen schreiben Geschichte. Gesche Gottfried Mörderin. Gesche Gottfried Mörderin Deutschland."
 
 # taxonomies
 categories:
@@ -63,4 +63,13 @@ Aus den Verhörprotokollen geht hervor, dass sie psychisch labil war, Halluzinat
 - Amrahs, Hseham. 2024. Wahre Geschichten der Schrecklichsten Serienmörderinnen. Draft2digital.
 - Kolvenbach, Katharina & Nina Batram. 2023. Früher war mehr Verbrechen: historische Kriminalfälle aus dem erfolgreichen Podcast. Droemer Taschenbuch.
 - Uthmann, Jörg von. 2006. Killer, Krimis, Kommissare: kleine Kulturgeschichte des Mordes. Beck.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mord in der Badewanne](https://www.erinnermich.eu/blog/charlottecorday/)
+- [Priestermörderin](https://www.erinnermich.eu/blog/fitzpayne/)
+- [Blutgräfin](https://www.erinnermich.eu/blog/blutgraefin/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
 
