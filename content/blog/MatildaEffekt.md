@@ -4,10 +4,10 @@ date: 2023-09-29
 draft: false
 
 # post thumb
-image: "images/post/matilda.jpg"
+image: "images/post/matilda1.jpg"
 
 # meta description
-description: "Männliche Geschichtsschreibung. Herstory. Frau Geschichte. Mutige und ambitionierte Frauen. Ignorierte Frauen in der Wissenschaft. Matilda Effekt. Otto Hahn. Lise Meitner. Mileva Maric. Albert Einstein. Rosalind Franklin. DNA Doppelhelix. Nobelpreis. Matilda Joslyn Gage. Gender Citation Gap. Unsichtbare Frauen. Vergessene Wissenschaftlerinnen. Herstory."
+description: "Matilda Effekt. Matilda Effekt Männliche Geschichtsschreibung. Matilda Effekt Herstory. Matilda Effekt Frau Geschichte. Matilda Effekt Mutige und ambitionierte Frauen. Matilda Effekt Ignorierte Frauen in der Wissenschaft. Matilda Effekt. Otto Hahn. Matilda Effekt Lise Meitner. Matilda Effekt Mileva Maric. Albert Einstein. Matilda Effekt Rosalind Franklin. Matilda Effekt DNA Doppelhelix. Matilda Effekt Nobelpreis. Matilda Joslyn Gage. Matilda Effekt Gender Citation Gap. Matilda Effekt Unsichtbare Frauen. Matilda Effekt Vergessene Wissenschaftlerinnen. Matilda Effekt Herstory. Matilda Effekt Frauengeschichte. Herstory Erinnermich. Herstory Frauengeschichte. Frauen schreiben Geschichte. Frauen schreiben Geschichte Erinnermich. Frauen schreiben Geschichte Herstory. Frauen schreiben Geschichte Matilda Effekt. Blog Erinnermich."
 
 # taxonomies
 categories:
@@ -54,3 +54,14 @@ Auch als Vortragende gelten Männer bis heute häufig als seriöser und kompeten
 *Literaturhinweise:*
 - Rossiter, Margaret W. 1993. The Matthew Matilda Effect in Science, Social Studies of Science, vol. 23.2, S. 325–41.
 - Steinbrink, Malte, Philipp Aufenvenne, Christian Haase und Max Pochadt. 2023. [Matilda in der Humangeographie. Gender Citation Gap und Zitierpartikularismus](https://opus4.kobv.de/opus4-uni-passau/files/1250/Steinbrink_Humangeographie.pdf). GW-Unterricht, 169.2, S. 5-21.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Über verleugnete Geschichte](https://www.erinnermich.eu/blog/gerdalerner/)
+- [Gewalt gegen Frauen](https://www.erinnermich.eu/blog/gewalt/)
+- [Die Macht der Sprache](https://www.erinnermich.eu/blog/machtsprache/)
+- [Frühkindliche Vorurteile](https://www.erinnermich.eu/blog/stereotypen/)
+- [Frauenleiden](https://www.erinnermich.eu/blog/trota/)
+- [Schubladendenken](https://www.erinnermich.eu/blog/moorleiche/)

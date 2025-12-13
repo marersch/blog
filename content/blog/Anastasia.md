@@ -4,7 +4,7 @@ date: 2025-08-08
 draft: false
 
 # post thumb
-image: "images/post/anastasia1.jpg"
+image: "images/post/anastasia2.jpg"
 
 # meta description
 description: "Anastasia. Anastasia Romanow. Russland. Februarrevolution. Oktoerrevolution. Zarenfamilie. Zar Nikolaus II. Romanow. Zarin Alexandra. Großfürstin Anastasia. Jekaterinenburg. Mord Zarenfamilie. Anna Anderson. Hochstaplerin. Lügnerin. Heiligsprechung Zarenfamilie. Zweifel. Tabuthema Russland. Mythos Anastasia Russland. Ermordung Zarenfamilie. Anastasia Romanova. Anastasia Nikolajewna Romanowa. Zarentochter Anastasia. Romanov Familie Ermordung. Anastasia hat überlebt. Mythos Anastasia.. Anna Anderson Anastasia. 
