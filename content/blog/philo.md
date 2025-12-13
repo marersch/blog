@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hypatia.jpg"
 
 # meta description
-description: "Philosophin. Hypatia. Mathematik. Astronomie. Leiterin Gelehrtenschule Alexandria. Philosophenmantel. Freiheit und Unabhängigkeit der Wissenschaft. Universalgelehrte. Museion Leiterin. Christentum. Wissenschaftliche Instrumente Astrolabium. Rhetorik."
+description: "Hypatia Philosophin. Hypatia. Hypatia Mathematik. Hypatia Astronomie. Hypatia Leiterin Gelehrtenschule Alexandria. Hypatia Philosophenmantel. Hypatia Freiheit und Unabhängigkeit der Wissenschaft. Hypatia Universalgelehrte. Hypatia Museion Leiterin. Hypatia Christentum. Hypatia Wissenschaftliche Instrumente Astrolabium. Hypatia Rhetorik. Hypatia Philosophie. Philosophiegeschichte Frau Hypatia. Hypatia Philosophiegeschichte. Herstory Philosophie. Frauengeschichte Philosophie. Herstory Philosophin. Philosophin Antike. Herstory Antike. Frauengeschichte Antike. Frauen schreiben Geschichte. Antike. Frauen schreiben Geschichte Philosophie."
 
 # taxonomies
 categories:

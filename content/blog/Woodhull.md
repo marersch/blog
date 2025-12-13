@@ -7,7 +7,7 @@ draft: false
 image: "images/post/woodhull1.jpg"
 
 # meta description
-description: "Victoria Woodhull. Kandidatur US-Präsidentschaft. Frau Politik USA. Heilseherei Wahrsagerei. Wall Street. Maklerbüro von Frauen geführt. New York. London. Freie Liebe. Frauenbewegung. Wahlrecht Frauen USA. Tennessee Claflin. The Humanitarian. Rednerin. Frauenrechte USA. Geburtenkontrolle. Sexualität Abtreibung 19. Jahrhundert. Monatszeitschrift Soziologie."
+description: "Victoria Woodhull. Victoria Woodhull Kandidatur US-Präsidentschaft. Victoria Woodhull Frau Politik USA. Victoria Woodhull Heilseherei Wahrsagerei. Victoria Woodhull Wall Street. Victoria Woodhull Maklerbüro von Frauen geführt. Victoria Woodhull New York. Victoria Woodhull London. Victoria Woodhull Freie Liebe. Victoria Woodhull Frauenbewegung. Victoria Woodhull Wahlrecht Frauen USA. Victoria Woodhull Tennessee Claflin. Victoria Woodhull The Humanitarian. Victoria Woodhull Rednerin. Victoria Woodhull Frauenrechte USA. Victoria Woodhull Geburtenkontrolle. Victoria Woodhull Sexualität Abtreibung 19. Jahrhundert. Victoria Woodhull Monatszeitschrift Soziologie. Victoria Woodhull Herstory. Herstory USA. Frauengeschichte USA. Victoria Woodhull Frauengeschichte. Herstory Amerika. Frauengeschichte Amerika. Frauen schreiben Geschichte. USA Frauen schreiben Geschichte. Frauenpower USA."
 
 # taxonomies
 categories:
@@ -82,4 +82,13 @@ Zeit ihres Lebens setzte sie sich für ihre Überzeugungen ein, durchbrach festg
 - Frisken, Amanda. 2004. Victoria Woodhull's Sexual Revolution: Political Theater and the Popular Press in Nineteenth-century America. University of Pennsylvania Press.
 - Kinzig, Silke. 2007. Auf dem Weg zur Macht? Zur Unterrepräsentation von Frauen im deutschen und U.S.-amerikanischen Regierungssystem. VS Verlag für Sozialwissenschaften.
 - Schrupp, Antje. 2002. Das Aufsehen erregende Leben der Victoria Woodhull. Helmer.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Unerschrockene Rebellin](https://www.erinnermich.eu/blog/fannywright/)
+- [Outcasts & Rebellen](https://www.erinnermich.eu/blog/boyle/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
 

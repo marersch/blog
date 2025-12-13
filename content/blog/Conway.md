@@ -7,8 +7,7 @@ draft: false
 image: "images/post/conway.jpg"
 
 # meta description
-description: "Anne Conway. Philosophie. Britische Philosophin. Kritik René Descartes. John Finch. Anne Conway geborene Finch. Kensingtion Palace. Tierliebhaberin. Alles beseelt und miteinander verbunden. nur Gott über allem als Schöpfer, Heiler. Henry More Christ’s College in Cambridge. Briefe Anne Conway. Grad der Vollkommenheit. Frau Philosophie Natur. Frauen in der Philosophie. Geschichte der Philosophie. Vernachlässigte Philosophen. Geistesgeschichte England. Philosophinnen 17. Jahrhundert.
-Frühe Neuzeit Philosophie. René Descartes Trennung Geist und Körper. Thomas Hobbes Universum tote Materie. Baruch de Spinoza Gott einzige existierende Substanz. Anne Conway Kritik an Thomas Hobbes. Anne Conway Kritik Baruch des Spinoza. Materie und Geist verbunden Anne Conway Philosophie."
+description: "Anne Conway. Anne Conway Philosophie. Anne Conway Britische Philosophin. Anne Conway Kritik René Descartes. John Finch. Anne Conway geborene Finch. Kensingtion Palace. Tierliebhaberin. Anne Conway Alles beseelt und miteinander verbunden. nur Gott über allem als Schöpfer, Heiler. Henry More Christ’s College in Cambridge. Briefe Anne Conway. Grad der Vollkommenheit. Anne Conway Frau Philosophie Natur. Anne Conway Frauen in der Philosophie. Anne Conway Geschichte der Philosophie. Vernachlässigte Philosophen. Anne Conway Geistesgeschichte England. Anne Conway Philosophinnen 17. Jahrhundert. Anne Conway Frühe Neuzeit Philosophie. René Descartes Trennung Geist und Körper. Thomas Hobbes Universum tote Materie. Baruch de Spinoza Gott einzige existierende Substanz. Anne Conway Kritik an Thomas Hobbes. Anne Conway Kritik Baruch des Spinoza. Anne Conway Materie und Geist verbunden Anne Conway Philosophie. Anne Conway Herstory. Anne Conway Geschichte. Anne Conway Erinnermich Blog. Anne Conway Blog Frauengeschichte. Anne Conway Frauengeschichte. Herstory Erinnermich. Erinnermich Frauen schreiben Geschichte. Frauen schreiben Geschichte Herstory. Herstory Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -74,5 +73,10 @@ Obwohl sie von zahlreichen renommierten Medizinern ihrer Zeit behandelt wurde, e
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Natur ist kein totes Museum](https://www.erinnermich.eu/blog/hedwigconradmartius/) - über Hedwig Conrad-Martius
+- [Erste Studentin Europas](https://www.erinnermich.eu/blog/schurmann/)
+- [Der Geist hat kein Geschlecht](https://www.erinnermich.eu/blog/conway/)
+- [Bewegte Zeiten](https://www.erinnermich.eu/blog/elizabethcarter/)
+- [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
+- [Gelebte Philosophie](https://www.erinnermich.eu/blog/simoneweil/)

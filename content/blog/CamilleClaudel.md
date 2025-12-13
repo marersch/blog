@@ -7,7 +7,7 @@ draft: false
 image: "images/post/camilleClaudel.jpg"
 
 # meta description
-description: "Camille Claudel. weggesperrt. Auguste Rodin. Bildhauerin Malerin. bedeutende Künstlerin. Frankreich. Alfred Boucher. Das reife Alter. Die große Welle. Der große Walzer. Depression Verfolgungswahn. Nervenheilanstalt. von Familie weggesperrt. von Familie eingesperrt. Musée Camille Claudel. Camille Claudel Bildhauerin. Auguste Rodin Lehrer Mentor Geliebter. Frau Handwerk Kunst Skulptur Plastik Camille Claudel. Frau Psychiatrie Nervenheilanstalt Gewalt. Frau Paranoia. Verfolgungswahn Gewalt. Frauen im 19. Jahrhundert Kunst. Weibliches Genie Kunst. Kunst Wahnsinn."
+description: "Camille Claudel. Camille Claudel weggesperrt. Camille Claudel Auguste Rodin. Camille Claudel Bildhauerin. Camille Claudel Malerin. Camille Claudel bedeutende Künstlerin. Camille Claudel Frankreich. Alfred Boucher. Camille Claudel Das reife Alter. Camille Claudel Die große Welle. Camille Claudel Der große Walzer. Camille Claudel Depression Verfolgungswahn. Camille Claudel Nervenheilanstalt. Camille Claudel von Familie weggesperrt. Camille Claudel von Familie eingesperrt. Musée Camille Claudel. Camille Claudel Bildhauerin. Auguste Rodin Lehrer Mentor Geliebter. Camille Claudel Frau Handwerk. Camille Claudel Kunst. Camille Claudel Skulptur.  Plastik Camille Claudel. Camille Claudel Frau Psychiatrie Nervenheilanstalt Gewalt. Camille Claudel Frau Paranoia. Camille Claudel Verfolgungswahn Gewalt. Camille Claudel Frauen im 19. Jahrhundert Kunst. Camille Claudel Weibliches Genie Kunst. Camille Claudel Kunst Wahnsinn. Camille Claudel Herstory. Camille Claudel Kunst Herstory. Herstory Kunst. Frauen schreiben Geschichte. Erinnermich Blog Herstory."
 
 # taxonomies
 categories:
@@ -65,3 +65,12 @@ Sie hat nicht nur den Künstler Auguste Rodin maßgeblich beeinflusst und ihm zu
 - Fuchs, Irmgard (Hrg.). 2005. Tiefenpsychologie und Revolte: zur Humanisierung des Alltagslebens. Königshausen & Neumann.
 - Meißner, Thomas. 2025. Der Prominente Patient: Krankheiten weiterer berühmter Persönlichkeiten. Springer.
 - Wunderlich, Dieter. 2008. WageMutige Frauen: 16 Porträts aus drei Jahrhunderten. Piper.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Kunst ist ewig](https://www.erinnermich.eu/blog/demorgan/)
+- [Berliner Künstlerin](https://www.erinnermich.eu/blog/annatherbusch/)
+

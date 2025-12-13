@@ -7,7 +7,7 @@ draft: false
 image: "images/post/semiramis.jpg"
 
 # meta description
-description: "Semiranis. altorientalische assyrische Herrscherin, erfolgreiche Kriegs- und Bauherrin. weibliche Sexualität. Wollust. Metapher für Lüsternheit. männliche Norm. patriarchale Geschichtsschreibung. Antimodell der christlichen Frau. Boccaccio. De mulieribus claris. Macht und Sexualität."
+description: "Semiramis. Semiranis. Semiramis altorientalische assyrische Herrscherin. Semiramis erfolgreiche Kriegs- und Bauherrin. Semiramis weibliche Sexualität. Semiramis Wollust. Semiramis Metapher für Lüsternheit. Semiramis männliche Norm. Semiramis patriarchale Geschichtsschreibung. Semiramis Antimodell der christlichen Frau. Semiramis Boccaccio. Semiramis De mulieribus claris. Semiramis Macht und Sexualität. Semiramis Herstory Orient. Semiramis Orient. Orient Herstory. Antike Herstory. Frauengeschichte Orient. Frauengeschichte Antike. Herstory Frauen schreiben Geschichte. Herstoy Erinnermich. Blog Erinnermich. Herstory Autorin Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -79,3 +79,13 @@ Da Diskurse über Frauen und Macht in der Regel auch den Aspekt der Sexualität 
 - Droß-Krüpe, Kerstin. 2020. Semiramis, de qua innumerabilia narrantur: Rezeption und Verargumentierung der Königin von Babylon von der Antike bis in die "opera seria" des Barock. Harrassowitz Verlag.
 - Droß-Krüpe, Kerstin. 2023. Changing Identities at the Turn of the Common Era: The Case of Semiramis, Studia Orientalia Electronica 11/2, Special Issue „Mesopotamian Identities in the Last Centuries of Cuneiform Writing“, S. 116-129.
 - Heer, Carina. 2018. Teufelsweiber: 100 Frauen, die die Welt auf den Kopf stellten. Benevento.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Zenobia](https://www.erinnermich.eu/blog/zenobia/)
+- [Frauen stehen ihren Mann](https://www.erinnermich.eu/blog/tomyris/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
+- [Kaiserin Theodora](https://www.erinnermich.eu/blog/theodora/)

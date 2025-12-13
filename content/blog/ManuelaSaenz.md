@@ -7,7 +7,7 @@ draft: false
 image: "images/post/saenz.jpg"
 
 # meta description
-description: "Manuela Saénz. Ecuador. Freiheitskämpferin Lateinamerika. Freiheit Südamerika.  erste Feministin Amerika. Bildung. arrangierte Ehe. Libertadora del libertador. Befreierin des Befreiers. Simón Bolívar. Großkolumbien. Kolumbien, Venezuela, Ecuador, Panama. Peru und Bolivien. Spanische Kolonie. Kolonisation Lateinamerika. Bildung Frau."
+description: "Manuela Saénz. Manuela Saénz Ecuador. Manuela Saénz Freiheitskämpferin Lateinamerika. Manuela Saénz Freiheit Südamerika. Manuela Saénz erste Feministin Amerika. Bildung. Manuela Saénz arrangierte Ehe. Manuela Saénz Libertadora del libertador. Manuela Saénz Befreierin des Befreiers. Manuela Saénz Simón Bolívar. Manuela Saénz Großkolumbien. Manuela Saénz Kolumbien, Manuela Saénz Venezuela, Manuela Saénz Ecuador, Manuela Saénz Panama. Manuela Saénz Peru und Bolivien. Manuela Saénz Spanische Kolonie. Manuela Saénz Kolonisation Lateinamerika. Manuela Saénz Bildung Frau. Manuela Saénz Südamerika. Manuela Saénz Lateinamerika. Manuela Saénz Herstory. Manuela Saénz Frauengeschichte. Manuela Saénz Frauen schreiben Geschichte. Herstory Frauen schreiben Geschichte."
 
 # taxonomies
 categories:

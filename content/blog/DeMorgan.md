@@ -7,7 +7,7 @@ draft: false
 image: "images/post/DeMorgan.jpg"
 
 # meta description
-description: "Evelyn De Morgan. Präraffaelismus. Kunst ist ewig. Frau und Kunst. Leben, Tod, Auferstehung. Florenz, London. William De Morgan. Keramik. Kunst. Erfolgreiche Malerin. Erfolgreiche Künstlerin. Feminismus in Kunst. Pazifismus. Frauenwahlrecht England. Gleichstellung Geschlechter. Realismus Symbolismus Kunst. Töchter des Nebels. Red Cross. Symbolismus Malerei. Feministische Künstlerin Evelyn De Morgan. Spiritistin. Spiritualismus"
+description: "Evelyn De Morgan. Evelyn De Morgan Präraffaelismus. Evelyn De Morgan Kunst ist ewig. Evelyn De Morgan Frau und Kunst. Evelyn De Morgan Leben, Tod, Auferstehung. Evelyn De Morgan Florenz, London. William De Morgan. Evelyn De Morgan Keramik. Evelyn De Morgan Kunst. Evelyn De Morgan Erfolgreiche Malerin. Evelyn De Morgan Erfolgreiche Künstlerin. Evelyn De Morgan Feminismus in Kunst. Evelyn De Morgan Pazifismus. Evelyn De Morgan Frauenwahlrecht England. Evelyn De Morgan Gleichstellung Geschlechter. Evelyn De Morgan Realismus Symbolismus Kunst. Evelyn De Morgan Töchter des Nebels. Evelyn De Morgan Red Cross. Evelyn De Morgan Symbolismus Malerei. Feministische Künstlerin Evelyn De Morgan. Evelyn De Morgan Spiritistin. Evelyn De Morgan Spiritualismus. Evelyn De Morgan Herstory. Herstory Frauengeschichte. Frauengeschichte Kunst. Herstory Kunst."
 
 # taxonomies
 categories:
@@ -74,3 +74,15 @@ Zudem war sie Pazifistin. Zwei Jahre nach Beginn des Ersten Weltkriegs veranstal
 - Gordon, Catherine. 1996. Evelyn de Morgan: Oil Paintings. De Morgan Foundation. 
 - Marsh, Jan & Pamela Gerrish Nunn. 1997. Pre-Raphaelite Women Artists. Manchester City Art Galleries.
 - Smith, Elise Lawton. & Evelyn De Morgan. 2002. Evelyn Pickering De Morgan and the Allegorical Body. Fairleigh Dickinson University Press.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Verrückt nach Angelika](https://www.erinnermich.eu/blog/kauffmannangelika/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Venezianische Barockmalerin](https://www.erinnermich.eu/blog/giovannagarzoni/)
+- [Berliner Künstlerin](https://www.erinnermich.eu/blog/annatherbusch/)

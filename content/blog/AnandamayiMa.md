@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ma.jpg"
 
 # meta description
-description: "Anandamayi Ma. Indien. Hinduismus. Religiöse Meisterin. Asien. Hinduistische Frau. Selbstverwirklichung. Bengalen. Bengalische Mutter. Philosophie Indien. Indische Philosophin. Einheit aller Religionen. Frauen im Hinduismus. Ostbengalen Bangladesch. Krishna. Frauenrollen Indien. Kinderhochzeit. Kinderehe. Frau dient Mann. Anandamayi Ma. Sri Anandamayi Ma. Anandamayi Ma Dichterin. Anandamayi Ma spirituelle Meisterin. Biographie Anandamayi Ma."
+description: "Anandamayi Ma. Anandamayi Ma Indien. Anandamayi Ma Hinduismus. Anandamayi Ma Religiöse Meisterin. Anandamayi Ma Asien. Anandamayi Ma Hinduistische Frau. Anandamayi Ma Selbstverwirklichung. Anandamayi Ma Bengalen. Anandamayi Ma Bengalische Mutter. Anandamayi Ma Philosophie Indien. Anandamayi Ma Indische Philosophin. Anandamayi Ma Einheit aller Religionen. Anandamayi Ma Frauen im Hinduismus. Anandamayi Ma Ostbengalen Bangladesch. Anandamayi Ma Krishna. Anandamayi Ma Frauenrollen Indien. Anandamayi Ma Kinderhochzeit. Anandamayi Ma Kinderehe. Anandamayi Ma Frau dient Mann. Anandamayi Ma. Sri Anandamayi Ma. Anandamayi Ma Dichterin. Anandamayi Ma spirituelle Meisterin. Biographie Anandamayi Ma. Anandamayi Ma Herstory. Herstory Indien. Herstory Asien. Herstory Frauen schreiben Geschichte. Anandamayi Ma Frauengeschichte."
 
 
 # taxonomies
@@ -90,3 +90,12 @@ Doch wie so oft scheinen Ausnahmen die Regel zu bestätigen. Auch auf dem indisc
 - Lipski, Alexander. 1977. Life and Teaching of Śrī Ānandamayī Mā. Motilal Banarsidass.
 - Mukunda Rao. 2022. India's Greatest Minds: Spiritual Masters, Philosophers, Reformers. Hachette India.
 - Suthren Hirst, Jacqueline. 2016. [Negotiating Secularity: Indira Gandhi, Ānandamayī Mā, and the Eliya Rajah of Travancore](https://link.springer.com/article/10.1007/s11407-016-9189-2), International Journal of Hindu Studies 20, S. 159-198.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
+- [Black Friday](https://www.erinnermich.eu/blog/sophiaduleepsingh/)
+- [Bis zu den Knien im Frauenblut](https://www.erinnermich.eu/blog/daly/)

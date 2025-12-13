@@ -7,7 +7,7 @@ draft: false
 image: "images/post/wangariMaathai.jpg"
 
 # meta description
-description: "Mutter der Bäume. Erste Afrikanische Frau Friedensnobelpreis. Wangari Maathai. Green Belt Movement. Professorin, Politikerin, Frauenrechtlerin und Umweltaktivistin. Kenia. Ostafrika. Zentralafrika. Amnesty International. Netzwerk Frauen. Bäume zur Armutsbekämpfung."
+description: "Wangari Maathai Mutter der Bäume. Wangari Maathai Erste Afrikanische Frau Friedensnobelpreis. Wangari Maathai. Wangari Maathai Green Belt Movement. Wangari Maathai Professorin. Wangari Maathai Politikerin. Wangari Maathai Frauenrechtlerin. Wangari Maathai Umweltaktivistin. Wangari Maathai Kenia. Wangari Maathai Ostafrika. Wangari Maathai Zentralafrika. Wangari Maathai Amnesty International. Wangari Maathai Netzwerk Frauen. Wangari Maathai Bäume zur Armutsbekämpfung. Wangari Maathai Herstory. Herstory Afrika. Herstory Frauen schreiben Geschichte. Wangari Maathai Frauen schreiben Geschichte. Blog Erinnermich. Afrika Frauengeschichte."
 
 # taxonomies
 categories:
@@ -59,3 +59,12 @@ Maathai scheute sich nicht, sich mit Politikern anzulegen, um für mehr Umweltsc
  - Maathai, Wangari & Ursula Wulfekamp 2008. Afrika, mein Leben: Erinnerungen einer Unbeugsamen. DuMont.
   - Napoli, Donna Jo. 2010. Mama Miti: Wangari Maathai and the Trees of Kenya. Simon & Schuster/Paula Wiseman Books.
  - Radkau, Joachim. 2011. Die Ära der Ökologie: eine Weltgeschichte. Beck.
+ 
+ 
+ .
+ 
+ *Verwandte Beiträge:*
+ - [Ein so langer Brief](https://www.erinnermich.eu/blog/mariamaba/)
+ - [Mit Sexentzug zur Waffenruhe](https://www.erinnermich.eu/blog/liberia/)
+ - [Afrikas Kriegerkönigin](https://www.erinnermich.eu/blog/njinga/)
+ - [Langer Weg](https://www.erinnermich.eu/blog/tawakkolkarman/)
