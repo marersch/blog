@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hedwigConrad-Martius.jpg"
 
 # meta description
-description: "Hedwig Conrad-Martius. Naturphilosophie. Phänomenologie. Moritz Geiger. Universität München. Edmund Husserl. Universität Göttingen. Realontologie. Wahrnehmung, Bewusstsein und Wirklichkeit. Raum und Zeit. Seinsphilosophie. Deutsche Philosophin. Bedeutendste Philosophinnen des 20. Jahrhunderts. Frau jüdische Wurzel Hedwig Conrad-Martius. Jüdische Philosophin. Philosophie Raum und Zeit. Philosophie Natur und Sein Hedwig Conrad Martius. Frau in der Philosophie."
+description: "Hedwig Conrad-Martius. Hedwig Conrad-Martius Naturphilosophie. Hedwig Conrad-Martius Phänomenologie. Hedwig Conrad-Martius Moritz Geiger. Hedwig Conrad-Martius Universität München. Hedwig Conrad-Martius Edmund Husserl. Hedwig Conrad-Martius Universität Göttingen. Hedwig Conrad-Martius Realontologie. Hedwig Conrad-Martius Wahrnehmung. Hedwig Conrad-Martius Bewusstsein. Hedwig Conrad-Martius  Wirklichkeit. Hedwig Conrad-Martius Raum und Zeit. Hedwig Conrad-Martius Seinsphilosophie. Hedwig Conrad-Martius Deutsche Philosophin. Hedwig Conrad-Martius Bedeutendste Philosophinnen des 20. Jahrhunderts. Hedwig Conrad-Martius Frau jüdische Wurzel Hedwig Conrad-Martius. Hedwig Conrad-Martius Jüdische Philosophin. Hedwig Conrad-Martius Philosophie Raum und Zeit. Philosophie Natur und Sein Hedwig Conrad Martius. Hedwig Conrad-Martius Frau in der Philosophie. Herstory Philosophie. Herstory Hedwig Conrad-Martius. Herstory Naturphilosophie. Frauengeschichte Philosophie. Frauengeschichte Hedwig Conrad-Martius. Blog Erinnermich Frauen schreiben Geschichte."
 
 # taxonomies
 categories:
@@ -102,6 +102,18 @@ Insgesamt verfasste Hedwig Conrad-Martius zahlreiche philosophische Schriften, d
 *Literaturhinweise:*
 - Miron, Ronny. 2021 . Hedwig Conrad-Martius: The Phenomenological Gateway to Reality. Cham: Springer Verlag.
 - Pfeiffer, Alexandra Elisabeth. 2005. Hedwig Conrad-Martius: eine phänomenologische Sicht auf Natur und Welt. Würzburg: Königshausen & Neumann.
+
+
+
+.
+
+
+*Verwandte Beiträge:*
+- [Lebendige Substanz](https://www.erinnermich.eu/blog/conway/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Pionierin der Klimaforschung](https://www.erinnermich.eu/blog/eunicefoote/)
+- [Keine halben Sachen](https://www.erinnermich.eu/blog/merian/)
+- [Staunen über die Welt](https://www.erinnermich.eu/blog/theano/)
 
 
 

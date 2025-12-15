@@ -7,7 +7,7 @@ draft: false
 image: "images/post/heleneStoecker.jpg"
 
 # meta description
-description: "Helene Stöcker. Pazifistin. Reformerin. Sexuelle Reform. Sexuelle Freiheit. Entkriminalisierung von Abtreibungen, Enttabuisierung von Sexualität, Aufklärung und Verbreitung von Verhütungsmittel - Helene Stöcker (1869-1943). Studium Schweiz. Erster Weltkrieg. Jüdische Herkunft. Nationalsozialismus Deutschland. Auswanderung Amerika."
+description: "Helene Stöcker. Helene Stöcker Pazifistin. Helene Stöcker Reformerin. Helene Stöcker Sexuelle Reform. Helene Stöcker Sexuelle Freiheit. Helene Stöcker Entkriminalisierung von Abtreibungen. Helene Stöcker Enttabuisierung von Sexualität. Helene Stöcker Aufklärung. Helene Stöcker Verbreitung von Verhütungsmittel. Helene Stöcker Herstory. Helene Stöcker Studium Schweiz. Helene Stöcker Erster Weltkrieg. Helene Stöcker Jüdische Herkunft. Helene Stöcker Nationalsozialismus Deutschland. Helene Stöcker Auswanderung Amerika. Helene Stöcker Frauengeschichte. Herstory Frauen schreiben Geschichte. Herstory sexuelle Freiheit. Herstory Verhütung. Herstory Sexualität. Blog Erinnermich Frauen schreiben Geschichte."
 
 # taxonomies
 categories:
@@ -22,6 +22,7 @@ tags:
   - "Pionierin"
   - "Freiheit"
   - "Literatur"
+  - "Sexualität"
 
 # summary for main page
 summary: "Aktivistin, Pionierin, Pazifistin: die deutsche Philosophin und Autorin Helene Stöcker (1869-1943), die für sexuelle Freiheit und Frieden eintratt."
@@ -78,3 +79,7 @@ Als die Nationalsozialisten in Deutschland an die Macht kamen, verschlechterte s
 *Verwandte Beiträge:*
 - [Sexualität und Macht - Rosa Mayreder (1858–1938)](https://www.erinnermich.eu/blog/mayreder/)
 - [Frauen eine Stimme geben](https://www.erinnermich.eu/blog/jayaluintel/)
+- [Die Unerschrockene](https://www.erinnermich.eu/blog/russell/)
+- [Der Zeit voraus](https://www.erinnermich.eu/blog/woodhull/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hadewijch.jpg"
 
 # meta description
-description: "Hadewijch. Hadewijch von Antwerpen. Mystikerin. Begine. Christentum. Mittelalter. Christlicher Laienorden. Bedeutende Autorin in mittelniederländischer Sprache. Mystische Liebe Gott und Mensch. Liebesmystik. Philosophie Mittelalter."
+description: "Hadewijch. Hadewijch von Antwerpen. Hadewijch Mystikerin. Hadewijch Begine. Hadewijch Christentum. Hadewijch Mittelalter. Hadewijch Christlicher Laienorden. Hadewijch Bedeutende Autorin in mittelniederländischer Sprache. Hadewijch Mystische Liebe Gott und Mensch. Hadewijch Liebesmystik. Hadewijch Philosophie Mittelalter. Frau Philosophie Mittelalter. Frau Christentum Mittelalter. Frau Religion Mittelalter. Frauenrolle Mittelalter. Christentum Mittelalter. Mystik Mittelalter. Christentum Mystik. Frau Mystik. Mystik Frau. Hadewijch Mystik Frau. Herstory Hadewijch. Herstory Christentum Mittelalter. Herstory Mittelalter. Herstory Erinnermich. Herstory Frauen schreiben Geschichte. Blog Erinnermich Frauen schreiben Geschichte. Erinnermich Autorin Marlene Erschbamer."
 
 # taxonomies
 categories:
@@ -101,8 +101,13 @@ Hadewijch verstand die Liebe als Zugang zum Absoluten, ein Zugang, der zugleich 
 .
 
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Mit dem Buch in den Tod](https://www.erinnermich.eu/blog/porete/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Alles wird gut](https://www.erinnermich.eu/blog/juliana/)
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
+- [Frauenleiden](https://www.erinnermich.eu/blog/trota/)
+- [Frauen der Ottonen](https://www.erinnermich.eu/blog/ottonen/)
 
 
 

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/hexen.jpg"
 
 # meta description
-description: "Hexe. Hexenverfolgung. letzte Hexenverbrennung Schottland. Janet Horne. Sexualangst. Gebärneid. Mittel der Unterwerfung von Frauen. Femizid. Vorurteile Frau Frausein. Aberglaube. Teufel Dämon. patriarchalisches System. Mythos Frau. Frauenfeindlichkeit."
+description: "Hexe. Hexenverfolgung. letzte Hexenverbrennung Schottland. Hexe Janet Horne. Hexe Sexualangst. Hexe Gebärneid. Hexe Mittel der Unterwerfung von Frauen. Hexe Femizid. Hexe Vorurteile Frau Frausein. Hexe Aberglaube. Hexe Teufel Dämon. Hexe patriarchalisches System. Hexe Mythos Frau. Hexe Frauenfeindlichkeit. Hexe Herstory. Herstory Frau. Frauengeschichte Gewalt. Gewalt gegen Frauen Geschichte. Herstory Frauen schreiben Geschichte. Blog Erinnermich Frauen schreiben Geschichte. Herstory Schottland. Schottland Frauengeschichte. Schottland Hexe. Anderssein Herstory."
 
 # taxonomies
 categories:
@@ -15,6 +15,7 @@ categories:
   
 tags:
   - "Gewalt"
+  - "Frau"
 
 
 
@@ -67,3 +68,13 @@ Aber nicht nur. Hexenprozesse werden heute auch als Mittel zur Unterwerfung von 
 - Levack, Brian P. 2009. Hexenjagd: die Geschichte der Hexenverfolgung in Europa. Beck.
 - Opitz-Belakhal, Claudia. 2017. Böse Weiber: Wissen und Geschlecht in der Dämonologie der Frühen Neuzeit. Ulrike Helmer Verlag,.
 - Paris, Philip. 2023. The Last Witch of Scotland. Black and White Publishing Limited.
+
+
+.
+
+
+*Verwandte Beiträge:*
+- [Bierhexen](https://www.erinnermich.eu/blog/bierhexen/)
+- [Der Geist hat kein Geschlecht](https://www.erinnermich.eu/blog/gournay/)
+- [Menstruationstabu](https://www.erinnermich.eu/blog/menstruation/)
+- [Bis zu den Knien im Frauenblut](https://www.erinnermich.eu/blog/daly/)

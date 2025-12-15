@@ -7,7 +7,7 @@ draft: false
 image: "images/post/heldenmaedchen.jpg"
 
 # meta description
-description: "Catarina Lanz, Katharina Lanz. Mädchen von Spinges. Französische Truppen. Südtirol. Preußische Soldatinnen: Eleonore Prochaska, Anna Lühring. Heldenmädchen. Gefahr für weibliche Rollenbilder. Mutige Frau Südtirol. Herstory Südtirol. Frauengeschichte. Frauenpower Südtirol Geschichte. Vergessene Frauen Geschichte. Frauen gegen Napoleon. Frauenrollen Geschichte Europa. Gewalt Krieg Frau. Tiroler Heldin. Starke Frauen Deutschland. Mutige Frauen Deutschland. Geschichtsschreibung Frau Herstory."
+description: "Catarina Lanz. Katharina Lanz. Katharina Lanz Mädchen von Spinges. Französische Truppen. Katharina Lanz Südtirol. Catarina Lanz Spinges Südtirol. Preußische Soldatinnen. Soldatin Eleonore Prochaska. Soldatin Anna Lühring. Heldenmädchen. Gefahr für weibliche Rollenbilder. Katharina Lanz Mutige Frau Südtirol. Herstory Südtirol. Catarina Lanz Frauengeschichte. Katharina Lanz Frauenpower Südtirol Geschichte. Vergessene Frauen Geschichte. Frauen gegen Napoleon. Frauenrollen Geschichte Europa. Gewalt Krieg Frau. Tiroler Heldin. Starke Frauen Deutschland. Mutige Frauen Deutschland. Geschichtsschreibung Frau Herstory."
 
 # taxonomies
 categories:

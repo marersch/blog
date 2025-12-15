@@ -7,7 +7,7 @@ draft: false
 image: "images/post/femme-fatale.jpg"
 
 # meta description
-description: "Femme fatale. Sprichwort. Redewendung. Kunst. Selbstbestimmung Körper. Frau Körper Darstellung. Mythos Frau. Bibel Judith Salome. Griechische Antike Helena Pandora. verführerisch, erotisch, attraktiv, verhängnisvoll, todbringen, vollbusig, barbusig, selbstbewusst, stark, willensstark, intrigant."
+description: "Femme fatale. Femme fatale Sprichwort. Femme fatale Redewendung. Femme fatale Kunst. Femme fatale Selbstbestimmung Körper. Femme fatale Frau Körper Darstellung. Femme fatale Mythos Frau. Bibel Judith Salome. Griechische Antike Helena Pandora. Femme fatale verführerisch. Femme fatale erotisch. Femme fatale attraktiv. Femme fatale verhängnisvoll. Femme fatale todbringen. Femme fatale vollbusig. Femme fatale barbusig. Femme fatale selbstbewusst. Femme fatale stark. Femme fatale willensstark. Femme fatale intrigant. Frau Erwartungen Gesellschaft. Frauenrollen. Klischee Frau. Herstory Redewendung. Redewendung Bedeutung. Redewendung Hintergrund Femme fatale. Herstory Femme fatale. Herstory Erinnermich. Femme fatale Frauen schreiben Geschichte. Blog Erinnermich Frauen schreiben Geschichte. Femme fatale Frauengeschichte."
 
 # taxonomies
 categories:
@@ -67,3 +67,13 @@ Mittlerweile ist die Femme fatale durchaus auch zum Symbol für eine emanzipiert
 - Hilmes, Carola. 1990. Die Femme fatale: ein Weiblichkeitstypus in der nachromantischen Literatur. Metzler.
 - Kirchner, Elena. 2021. Die Tragik der Femme Fatale. ibidem Verlag.
 - Rissler-Pipka, Nanette. 2005. Das Frauenopfer in der Kunst und seine Dekonstruktion: Beispiele intermedialer Vernetzung von Literatur, Malerei und Film. Fink.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Cherchez la femme](https://www.erinnermich.eu/blog/femme/)
+- [Quasselstrippen](https://www.erinnermich.eu/blog/quasselstrippe/)
+- [Die Büchse der ...](https://www.erinnermich.eu/blog/pandora/)
+- [Phönix aus der Asche](https://www.erinnermich.eu/blog/ehrmann_phoenix/)
