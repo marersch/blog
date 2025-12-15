@@ -77,7 +77,7 @@ Wie kam diese Interpretation ins Französische und von dort als Redewendung ins 
 
 Die Redewendung verkörpert ein Klischee aus Kriminalromanen: Was auch immer das Problem ist, meist steckt eine Frau dahinter. Der Satz traf den Nerv der Gesellschaft und verbreitete sich. 
 
-Da Französisch damals als Sprache der Gelehrten galt, fand die Redewendung Eingang in die gehobene deutsche Sprache. Bis heute wird er nicht nur bei Verbrechen zitiert, um angeblich allen Frauen angeborene Eigenschaften zu beschreiben.
+Da Französisch damals als Sprache der Gelehrten galt, fand die Redewendung Eingang in die gehobene deutsche Sprache.
 
 ##### Hartnäckige Klischees
 
