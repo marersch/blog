@@ -7,7 +7,7 @@ draft: false
 image: "images/post/waeger_tibet.jpg"
 
 # meta description
-description: "Rollenbilder im Nationalsozialismus. Frau als Geburtsmaschine. Mutter der Tibeter. Tibethilfe. Irmtraut Wäger. Tibeter im Exil in Indien. Irmtraut Wäger. Amala. Tibet Hilfe Deutschland. Herz für Tibet. Tibet gegen Vergessen. Tibet Faszination. Tibet Zerstörung. Tibet Ethnozid. Tibet. Tibet. Tibet. Exiltibeter. Tibetische Kultur. Erhalt tibetische Kultur Identität."
+description: "Irmtraut Wäger. Rollenbilder im Nationalsozialismus. Frau als Geburtsmaschine. Irmtraut Wäger Mutter der Tibeter. Irmtraut Wäger Tibethilfe. Irmtraut Wäger. Tibeter im Exil in Indien. Irmtraut Wäger. Amala. Irmtraut Wäger Tibet Hilfe Deutschland. Irmtraut Wäger Herz für Tibet. Irmtraut Wäger Tibet gegen Vergessen. Irmtraut Wäger Tibet Faszination. Irmtraut Wäger Tibet Zerstörung. Tibet Ethnozid. Tibet. Irmtraut Wäger Tibet. Tibet. Irmtraut Wäger Exiltibeter. Tibetische Kultur. Erhalt tibetische Kultur Identität. Herstory Tibet. Tibet Frauengeschichte. Asien Herstory. Frauen schreiben Geschichte Irmtraut Wäger. Blog Erinnermich Irmtraut Wäger."
 
 # taxonomies
 categories:
@@ -62,3 +62,14 @@ Wie sehr sie bei den Exiltibetern bekannt und beliebt war, durfte ich selbst mit
 - Roloff, Carola. 2014. „Trauer um Irmtraut Wäger,“ Tibet und Buddhismus 4/2014, S. 46–48.
 - Smolarski, René. 2019. „»...zwei Welten im Leben eines Volkes«. Nationalsozialistische Geschlechterrollen im Spiegel der Briefmarken des ›Dritten Reiches‹ (1933–1945),“ IN: Pierre Smolarski, René Smolarski, Silke Vetter-Schultheiß (Hg.): Gezähnte Geschichte. Die Briefmarke als historische Quelle. Göttingen: V&R, S. 369–395.
 - Wäger, Irmtraut. 2011. Amala. Mein Leben für Tibet. Aufgezeichnet von Franz Binder. München: nymphenburger.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Dach der Welt](https://www.erinnermich.eu/blog/ligotami/)
+- [Zwei tibetische Prinzessinnen](https://www.erinnermich.eu/blog/pemachozin_pemachodzom/)
+- [Einflussreiche Frau in Tibet](https://www.erinnermich.eu/blog/chokyi_dronma/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Königin im Himalaya](https://www.erinnermich.eu/blog/yeshedolma/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)

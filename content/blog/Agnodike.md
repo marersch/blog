@@ -68,3 +68,15 @@ Und noch eine Veränderung brachte Agnodike dem antiken Griechenland: Die Gesetz
 - Böhm, Michael. 2022. Die Sanduhr in meinem Kopf. Kleine Galerie von Lebensbildern bemerkenswerter Frauen. Bookspot Verlag.
 - Green, Monica H. 2008. Making Women's Medicine Masculine. The Rise of Male Authority in Pre-Modern Gynaecology. Oxford University Press.
 - Heer, Carina. 2018. Teufelsweiber. 100 Frauen, die die Welt auf den Kopf stellten. Benevento.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Frauenleiden](https://www.erinnermich.eu/blog/trota/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Menstruationstabu](https://www.erinnermich.eu/blog/menstruation/)
+- [Vögel ohne Nest](https://www.erinnermich.eu/blog/clorindamatto/)
+- [Mythos Stillen](https://www.erinnermich.eu/blog/stillen/)
+- [Die Büchse der ...](https://www.erinnermich.eu/blog/pandora/)

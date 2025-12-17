@@ -83,3 +83,13 @@ Sie nahm für sich in Anspruch, den Frauen das literarische Sprechen beigebracht
 - Mierau, Fritz. 2018. Keller der Erinnerung: Sprache in Zeiten gelebter Utopie. epubli.
 - Puchner, Martin. 2019. Die Macht der Schrift: Wie Literatur die Geschichte der Menschheit formte. Blessing.
 - Sichtermann, Barbara. 2023. Schreiben gegen alle Widerstände: Aus dem Leben wagemutiger Schriftstellerinnen. marix Verlag ein Imprint von Verlagshaus Römerweg.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Briefe aus Norwegen](https://www.erinnermich.eu/blog/isidorasekulic/)
+- [Mathematik war ihr Leben](https://www.erinnermich.eu/blog/sonjakowalewski/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Tagebuch einer Verlorenen](https://www.erinnermich.eu/blog/b%C3%B6hme/)

@@ -80,7 +80,13 @@ Einerseits spielten sie Märsche, damit die Bewacher die vorbeimarschierenden Ar
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Gelebte Erinnerung](https://www.erinnermich.eu/blog/estherbejarano/) - über Esther Bejarano, Mitglied Mädchenorchester Auschwitz
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Stolperstein](https://www.erinnermich.eu/blog/amaliafleischer/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Übersehene Komponistin](https://www.erinnermich.eu/blog/petronellagoering/)
+- [Herzenssache Musik](https://www.erinnermich.eu/blog/fridakern/)
 
 

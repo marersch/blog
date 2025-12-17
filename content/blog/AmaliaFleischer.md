@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fleischer.jpg"
 
 # meta description
-description: "Amalia Fleischer. Italienische Rechtsanwältin. Erste Südtiroler Anwältin. Holocaust. Bozen. Südtirol. Juden. Judenhass. Judenverfolgung. Frau. Rechtsanwältin. Jüdin. Nationalsozialismus Südtirol. Heimat. Heimatbegriff. Ideologische Verwendung Heimat. Meran Juden. Vatikanisches Archiv. Vernichtungslager Auschwitz-Birkenau."
+description: "Amalia Fleischer. Amalia Fleischer Italienische Rechtsanwältin. Amalia Fleischer Erste Südtiroler Anwältin. Amalia Fleischer Holocaust. Amalia Fleischer Bozen. Amalia Fleischer Südtirol. Amalia Fleischer Juden. Amalia Fleischer Judenhass. Amalia Fleischer Judenverfolgung. Amalia Fleischer Frau. Amalia Fleischer Rechtsanwältin. Amalia Fleischer Jüdin. Amalia Fleischer Nationalsozialismus Südtirol. Amalia Fleischer Heimat. Amalia Fleischer Heimatbegriff. Amalia Fleischer Ideologische Verwendung Heimat. Amalia Fleischer Meran Juden. Amalia Fleischer Vatikanisches Archiv. Amalia Fleischer Vernichtungslager Auschwitz-Birkenau. Amalia Fleischer Herstory. Amalia Fleischer Frauengeschichte. Herstory Südtirol. Frauengeschichte Südtirol. Nationalsozialismus Südtirol Herstory. Faschismus Südtirol Herstory. Blog Erinnermich Herstory Frauen schreiben Geschichte."
 
 # taxonomies
 categories:
@@ -74,3 +74,16 @@ Juden in Südtirol - nicht wenige von ihnen prägten jahrelang das gesellschaftl
 - Marullo di Condojanni, Francesco & Giulia Merlo. 2018. Biografia di Amalia Fleischer, prima avvocata di Bolzano e vittima delle leggi antiebraiche. In: Antonella Meniconi & Marcello Pezzetti (Hrsg.): [Razza e inGiustizia: Gli avvocati e i magistrati al tempo delle leggi antiebraiche](https://www.csm.it/documents/21768/81517/Razza+e+inGiustizia/8f8fcd74-7e72-7f98-da33-1391c21e1aa4). Senato della Repubblica, S. 180-189.
 - Nassehi, Armin. 2019. Woher kommst Du nicht? Sieben Exkursionen in eine Soziologie der Heimat. Kursbuch.
 - Stern, Frank & Barbara Eichinger. 2009. Wien und die jüdische Erfahrung 1900-1938: Akkulturation, Antisemitismus, Zionismus. Böhlau.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Gelebte Erinnerung](https://www.erinnermich.eu/blog/estherbejarano/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Auschwitzs Cellistin](https://www.erinnermich.eu/blog/a.l.wallfisch/)
+- [Übersehene Komponistin](https://www.erinnermich.eu/blog/petronellagoering/)
+- [Herzenssache Musik](https://www.erinnermich.eu/blog/fridakern/)
+- [Die Riesin aus Südtirol](https://www.erinnermich.eu/blog/riesin-tirol/)
+

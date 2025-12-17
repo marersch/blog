@@ -49,3 +49,13 @@ Vor allem für Frauen wurde sie zum Vorbild. Sie ist eine der wenigen muslimisch
 
 *Literaturhinweis:*
 - Jones, Linda G. 2020. “Holiness, saints, and sanctity in Islam: Striving for remembrance,“ IN: Alexandre Coello de la Rosa und Linda G. Jones (Hg.): Saints and Sanctity in Judaism, Christianity, and Islam. London: Routledge, S. 65-92.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Perle der Zeiten](https://www.erinnermich.eu/blog/nadira/)
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
+- [Selbstverwirklichung](https://www.erinnermich.eu/blog/anandamayima/)
+- [Kaiserin Theodora](https://www.erinnermich.eu/blog/theodora/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
