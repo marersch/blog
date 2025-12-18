@@ -7,7 +7,7 @@ draft: false
 image: "images/post/harrietTubman.jpg"
 
 # meta description
-description: "Harriet Tubman. Fluchthelferin & Freiheitskämpferin. Weiblicher Moses. Sklaverei in Amerika. Underground Railroad. Schmuggelnetzwerk. Südstaaten und Nordstaaten. Amerikanischer Bürgerkrieg."
+description: "Harriet Tubman. Harriet Tubman Fluchthelferin. Harriet Tubman Freiheitskämpferin. Harriet Tubman Weiblicher Moses. Harriet Tubman Sklaverei in Amerika. Harriet Tubman Underground Railroad. Harriet Tubman Schmuggelnetzwerk. Harriet Tubman Südstaaten und Nordstaaten. Harriet Tubman Amerikanischer Bürgerkrieg. Harriet Tubman Herstory. Harriet Tubman Erinnermich. Blog Erinnermich. Frauengeschichte. Frauen schreiben Geschichte. Harriet Tubman USA. Harriet Tubman Herstory Erinnermich. Harriet Tubman mutige Frau. Harriet Tubman Geschichte."
 
 # taxonomies
 categories:
@@ -60,3 +60,13 @@ Nach dem Amerikanischen Bürgerkrieg kaufte Harriet Tubman ein kleines Anwesen u
 - Humez, Jean M. 2003. Harriet Tubman: The Life and the Life Stories. University of Wisconsin Press.
 - Petry, Ann. 2022. Harriet Tubman. Fluchthelferin bei der Underground Railroad. Aus der Sklaverei in die Freiheit. Zürich: Nagel und Kimche.
 - Sernett, Milton C. 2007. Harriet Tubman: Myth, Memory, and History. Duke University Press. 
+
+
+.
+
+*Verwandte Beiträge:*
+- [Unerschrockene Rebellin](https://www.erinnermich.eu/blog/fannywright/)
+- [Afrikas Kriegerkönigin](https://www.erinnermich.eu/blog/njinga/)
+- [Josephine Baker](https://www.erinnermich.eu/blog/baker/)
+- [Angela Davis](https://www.erinnermich.eu/blog/angeladavis/)
+- [Der Zeit voraus](https://www.erinnermich.eu/blog/woodhull/)

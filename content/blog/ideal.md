@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ideal.jpg"
 
 # meta description
-description: "Frau und Schönheit. Schönheitsideale weltweit. Schönheitsideal Geschichte. Leiden für Schönheit. Qual Schönheit. ideal. Lotusfüße. Korsett. Wespentaille. Schönheit und Gesundheitsschäden. Padaung. Lange Hälse. Asien. Brüste bügeln. Brüste klein halten. Gefahren. Afrika. Schönheitspraktiken Europa. Schönheitspraktiken Asien. Schönheitspraktiken Afrika. Gefahr Schönheitspraktiken. Geschichte Schönheitspraktiken."
+description: "Frau und Schönheit. Schönheitsideale weltweit. Schönheitsideal Geschichte. Leiden für Schönheit. Qual Schönheit. ideal. Lotusfüße. Korsett. Wespentaille. Schönheit und Gesundheitsschäden. Padaung. Lange Hälse. Asien. Brüste bügeln. Brüste klein halten. Gefahren. Afrika. Schönheitspraktiken Europa. Schönheitspraktiken Asien. Schönheitspraktiken Afrika. Gefahr Schönheitspraktiken. Geschichte Schönheitspraktiken. Herstory Körper. Herstory Schönheit. Herstory Idealbild. Frauengeschichte Körper. Frauengeschichte Schönheit. Blog Erinnermich. Herstory Beauty. Herstory Beauty Trends."
 
 # taxonomies
 categories:
@@ -99,3 +99,5 @@ Palgrave Macmillan UK.
 *Verwandte Beiträge:*
 - [Magie des Ohrschmucks](https://www.erinnermich.eu/blog/ohrschmuck/)
 - [Bemalte Haut](https://www.erinnermich.eu/blog/tattoos/)
+- [Weiß wie Schnee](https://www.erinnermich.eu/blog/farbe/)
+- [Die Riesin aus Südtirol](https://www.erinnermich.eu/blog/riesin-tirol/)
