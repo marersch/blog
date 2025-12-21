@@ -7,7 +7,7 @@ draft: false
 image: "images/post/kingsley.jpg"
 
 # meta description
-description: "Engländerin Mary Kingsley. Afrika, Forscherin, Schriftstellerin, Kritik an Missionaren in Afrika. Fische und Einheimische in Westafrika."
+description: "Mary Kingsley. Engländerin Mary Kingsley. Mary Kingsley Afrika. Mary Kingsley Forscherin. Mary Kingsley Schriftstellerin. Mary Kingsley Kritik an Missionaren in Afrika. Mary Kingsley Fische und Einheimische in Westafrika. Mary Kingsley Westafrika. Mary Kingsley Afrika. Mary Kingsley Abenteuer. Abenteuer Frau. Mary Kingsley Herstory. Mary Kingsley Frauengeschichte. Mary Kingsley Eurozentrismus. Mary Kingsley Pionierin. Mary Kingsley Klischee Frau. Mary Kingsley Erinnermich. Mary Kingsley Schriftstellerin. Mary Kingsley Kritik Missionare."
 
 # taxonomies
 categories:
@@ -71,3 +71,19 @@ Eigentlich war der Umstand, im viktorianischem England mit 30 Jahren noch unverh
 
 *Literaturhinweis:*
 - Blunt, Alison. 1994. Travel, Gender and Imperalism. Mary Kingsley and West Africa. New York: Guilford Press.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Kriegerinnen von Dahomey](https://www.erinnermich.eu/blog/agooji/)
+- [Ein so langer Brief](https://www.erinnermich.eu/blog/mariamaba/)
+- [Entdeckungsreise durch Afrika](https://www.erinnermich.eu/blog/tinne/)
+- [Mit Sexentzug zur Waffenruhe](https://www.erinnermich.eu/blog/liberia/)
+- [Afrikas Kriegerkönigin](https://www.erinnermich.eu/blog/njinga/)
+- [Verkleidet durch die Sahara](https://www.erinnermich.eu/blog/eberhardt/)
+- [Mit Pinsel und Bleistift bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Frau am Steuer - Frau aus Stahl](https://www.erinnermich.eu/blog/auto/)
+- [Der Berg ruft](https://www.erinnermich.eu/blog/dyhrenfurth/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)
+- [Weiblicher Indiana Jones](https://www.erinnermich.eu/blog/mariareiche/)

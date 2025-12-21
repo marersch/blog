@@ -7,7 +7,7 @@ draft: false
 image: "images/post/isidoraSekulic.jpg"
 
 # meta description
-description: "Isidora Sekulić. serbische Schriftstellerin. Reise Norwegen. Hochzeitsreise vorgetäuscht. Erster Weltkrieg. Reisebericht. Pionierin Literatur. Balkan. Literaturpreis. Briefe aus Norwegen. Identität. Kraftvolle Poesie."
+description: "Isidora Sekulić. Isidora Sekulić serbische Schriftstellerin. Isidora Sekulić Reise Norwegen. Isidora Sekulić Hochzeitsreise vorgetäuscht. Isidora Sekulić Erster Weltkrieg. Isidora Sekulić Reisebericht. Isidora Sekulić Pionierin Literatur. Isidora Sekulić Balkan. Isidora Sekulić Literaturpreis. Isidora Sekulić Briefe aus Norwegen. Isidora Sekulić Identität. Isidora Sekulić Kraftvolle Poesie. Isidora Sekulić Serbien. Isidora Sekulić Literatur. Isidora Sekulić Herstory. Herstory Serbien. Herstory Literatur. Herstory Erster Weltkrieg. Herstory Norwegen. Herstory Briefe. Frauen schreiben Geschichte. Frauengeschichte. Isidora Sekulić Frauengeschichte. Isidora Sekulić Erinnermich. Erinnermich Isidora Sekulić."
 
 # taxonomies
 categories:
@@ -67,3 +67,13 @@ Ihre Schriften sind insgesamt von großer poetischer Kraft. Mit der Übersetzung
 - Bracewell, Wendy (Hg.). 2009. Orientations: An Anthology of European Travel Writing on Europe. Central European University Press.
 - Hawkesworth, Celia. 2023. Voices in the Shadows: Women and Verbal Art in Serbia and Bosnia. Central European University Press.
 - Sekulić, Isidora. 2019. Briefe aus Norwegen: ausgewählte Texte aus den Jahren 1913 bis 1951. Übersetzt von Tatjana Petzer. Friedenauer Presse.
+
+
+
+.
+*Verwandte Beiträge:*
+- [Seele des Silbernen Zeitalter](https://www.erinnermich.eu/blog/a.a.achmatowa/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Waldlichtung](https://www.erinnermich.eu/blog/mariazambrano/)
+- [Die gelbe Tapete](https://www.erinnermich.eu/blog/charlotteperkinsgilman/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
