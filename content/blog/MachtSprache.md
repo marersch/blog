@@ -7,7 +7,7 @@ draft: false
 image: "images/post/macht_sprache.jpg"
 
 # meta description
-description: "Macht der Sprache. Gendergaga. Ungleichheit, Unterdrückung. Generisches Maskulinum. Stereotype. Männliche Herrschaft. Symbolische Gewalt. Pierre Bourdieu. Ludwig Wittgenstein."
+description: "Macht der Sprache. Gendergaga. Ungleichheit Frau Herstory. Unterdrückung Frau Herstory. Generisches Maskulinum Herstory. Stereotype Herstory. Männliche Herrschaft Herstory. Symbolische Gewalt Herstory. Pierre Bourdieu Sprache. Ludwig Wittgenstein Sprache. Sprache Mann. Sprache Frau. Sprache Herstory. Herstory Macht der Sprache. Gender Sprache. Macht Sprache. Missverständnis Sprache. Herstory Missverständnis Sprache. Herstory Gewalt. Frau Sprache. Frau Gewalt Sprache."
 
 # taxonomies
 categories:
@@ -70,3 +70,14 @@ Nach all den feministischen Debatten und Errungenschaften ist unsere Sprache nac
 Die Norm ist nach wie vor eine männliche. Das oben erwähnte Gedankenexperiment zeigt, wie eng Sprache mit dem Erschaffen von Bildern in unserem Kopf verbunden ist. Sprache schafft vermeintliche Realitäten und stiftet mitunter auch Verwirrung – wie im oben genannten Beispiel.
 
 Sprache ist eine Form der Macht. Sprache kann unterdrücken. Sprache kann aber auch verbinden. Sprache ist wandelbar. Die Bilder, die Sprache automatisch in uns erzeugt, können sich verändern. Sich dessen bewusst zu werden, ist der erste Schritt aus dieser Form von Ungleichheit.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Gewalt gegen Frauen](https://www.erinnermich.eu/blog/gewalt/)
+- [Frauen und Geschichte](https://www.erinnermich.eu/blog/geschichtsschreibung/)
+- [Der Matilda-Effekt](https://www.erinnermich.eu/blog/matildaeffekt/)
+- [Frauen - Hexen - Dämonen](https://www.erinnermich.eu/blog/hexen/)
+- [Frauen eine Stimme geben](https://www.erinnermich.eu/blog/jayaluintel/)
+
