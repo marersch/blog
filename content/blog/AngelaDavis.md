@@ -32,7 +32,9 @@ Aktivistin, Feministin, Kapitalismuskritikerin, Kommunistin und Philosophin. Wie
 
 Angela Davis (*1944) war unter den ersten nicht-weißen Frauen der USA, die einen Doktor in Philosophie erlangte. Für ihren Einsatz für mehr Gerechtigkeit wurde sie in einen Schauprozess verwickelt, der mit ihrem Todesurteil enden sollte. 
 
-Doch der Reihe nach. Angela Davis wuchs inmitten der Rassentrennung auf: Ungleichheit in Bildung, bei Bürgerrechten, Polizeischutz, Wahlrecht oder Wohnungssuche waren allgegenwärtig. Ihre Eltern waren eine der ersten nicht-Weißen, die in ein ursprünglich von Weißen bewohntes Wohngebiet zogen. Weitere Familien folgten ihrem Beispiel. Da die Häuser von nicht-Weißen oft in die Luft gesprengt wurden, erhielt das Wohngebiet den Beinamen "Dynamite Hill".
+Doch der Reihe nach. Angela Davis wuchs inmitten der Rassentrennung auf: Ungleichheit in Bildung, bei Bürgerrechten, Polizeischutz, Wahlrecht oder Wohnungssuche waren allgegenwärtig. Ihre Eltern waren eine der ersten nicht-Weißen, die in ein ursprünglich von Weißen bewohntes Wohngebiet zogen. Weitere Familien folgten ihrem Beispiel. 
+
+Häuser, in denen Menschen mit nichtweißer Hautfarbe lebten, wurden oft in die Luft gesprengt. Deshalb erhielt das Wohngebiet den Beinamen „Dynamite Hill”.
 
 ##### Bildung
 
