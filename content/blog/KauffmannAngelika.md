@@ -7,7 +7,7 @@ draft: false
 image: "images/post/kauffmann.jpg"
 
 # meta description
-description: "Angelika Kauffmann. Malerei. Musik. Sopranistin. Portraitmalerin. Goethe. Herder. Gründungsmitglied Royal Academy. Musik. Schwarzenberg. Vorarlberg. Salon und Atelier in Rom."
+description: "Angelika Kauffmann. Angelika Kauffmann Malerei. Angelika Kauffmann Musik. Angelika Kauffmann Sopranistin. Angelika Kauffmann Portraitmalerin. Angelika Kauffmann Goethe. Angelika Kauffmann Herder. Angelika Kauffmann Gründungsmitglied Royal Academy. Angelika Kauffmann Musik. Angelika Kauffmann Schwarzenberg. Angelika Kauffmann Vorarlberg. Angelika Kauffmann Salon und Atelier in Rom. Angelika Kauffmann Herstory. Herstory Künstler. Angelika Kauffmann Kunst. Herstory Kunst. Herstory Musik."
 
 # taxonomies
 categories:
@@ -77,3 +77,16 @@ Angelika Kauffmann verstarb 1807 in Rom, wo ihr ein feierliches Begräbnis berei
 *Literaturhinweise:*
 - Baumgärtel, Bettina. [Angelika Kauffmann: Biographie](https://www.angelika-kauffmann.de/biographie/), in: Angelika Kauffmann Research Project.
 - Rosenthal, Angela. 1996. Angelika Kauffmann. Bildnismalerei im 18. Jahrhundert. Berlin: Reimer.
+
+
+.
+*Verwandte Beiträge:*
+- [Kunst ist ewig](https://www.erinnermich.eu/blog/demorgan/)
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Brillianz & Leid](https://www.erinnermich.eu/blog/camilleclaudel/)
+- [Venezianische Barockmalerin](https://www.erinnermich.eu/blog/giovannagarzoni/)
+- [Berliner Künstlerin](https://www.erinnermich.eu/blog/annatherbusch/)
+- [Surreales Liebespaar](https://www.erinnermich.eu/blog/galadali/)
+- [Meisterin der Renaissance](https://www.erinnermich.eu/blog/sofonisba/)
+- [Die Skandalgräfin](https://www.erinnermich.eu/blog/fannyreventlow/)

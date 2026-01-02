@@ -7,7 +7,7 @@ draft: false
 image: "images/post/juliananorwich.jpg"
 
 # meta description
-description: "Juliana von Norwich. Julian von Norwich. Mystikerin. Ältestes erhaltenes englischsprachiges Buch einer Frau. Christus eine Frau und Mutter. Reklusion. Einmauern. Mittelalter. Philosophie Frau. Schriftstellerin. Philosophin. Mystikerin. Norwich zweitwichtigste Stadt nach London. Visionen Sterbebett. Christus eine Frau."
+description: "Juliana von Norwich. Julian von Norwich. Juliana von Norwich Mystikerin. Juliana von Norwich Ältestes erhaltenes englischsprachiges Buch einer Frau. Juliana von Norwich Christus eine Frau und Mutter. Juliana von Norwich Reklusion. Juliana von Norwich Einmauern. Mittelalter. Juliana von Norwich Philosophie Frau. Juliana von Norwich Schriftstellerin. Philosophin. Juliana von Norwich Mystikerin. Norwich zweitwichtigste Stadt nach London. Juliana von Norwich Visionen Sterbebett. Juliana von Norwich Christus eine Frau. Juliana von Norwich Herstory. Herstory England. Herstory Mystikerin."
 
 # taxonomies
 categories:

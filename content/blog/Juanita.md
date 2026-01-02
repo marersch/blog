@@ -7,7 +7,7 @@ draft: false
 image: "images/post/juanita.jpg"
 
 # meta description
-description: "Jungfrau aus dem Eis. Juanita. Inka. Anden. Menschenopfer. Götter besänftigen. Menschenopfer im Tausch für Wasser. Entdeckung 1995. Archäologe und Anthropologe Johan Reinhards. Capacocha - Ritual der Inkas, Kinder und Tiere den Göttern geopfert, um auf Naturkatastrophen zu reagieren. Klimatische Veränderungen. Reaktion auf Klimawandel in Anden."
+description: "Jungfrau aus dem Eis. Juanita. Herstory Inka. Herstory Anden. Menschenopfer. Herstory Götter besänftigen. Herstory Menschenopfer im Tausch für Wasser. Entdeckung 1995. Archäologe und Anthropologe Johan Reinhards. Capacocha - Ritual der Inkas, Kinder und Tiere den Göttern geopfert, um auf Naturkatastrophen zu reagieren. Klimatische Veränderungen. Reaktion auf Klimawandel in Anden. Anden Herstory. Gewalt Frau Opfer. Frau Opfer Amerika. Herstory Amerika."
 
 # taxonomies
 categories:
@@ -56,3 +56,10 @@ Die Wissenschaft geht davon aus, dass Juanita aufgrund klimatischer Veränderung
 - Cline, Eric H. 2018. Versunkene Welten und wie man sie findet: Auf den Spuren genialer Entdecker und Archäologen. Deutsche Verlags-Anstalt.
 - Peters, Ulrike. 2018. Die Inka. Marix Verlag.
 - Reinhard, Johan. 2005. The Ice Maiden: Inca Mummies, Mountain Gods, and Sacred Sites in the Andes. National Geographic Society.
+
+
+.
+*Verwandte Beiträge:*
+- [Kleopatra Südamerikas](https://www.erinnermich.eu/blog/moche/)
+- [Schubladendenken](https://www.erinnermich.eu/blog/moorleiche/)
+- [Gewalt gegen Frauen](https://www.erinnermich.eu/blog/gewalt/)
