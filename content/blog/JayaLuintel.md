@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Luintel1.jpg"
 
 # meta description
-description: "Frauen und Gewalt. Kriegsverbrechen. Vergewaltigung. Nepal. Bürgerkrieg in Nepal. The Story Kitchen. Jaya Luintel. Herstory. Überlebende zu Wort kommen lassen. Frauen eigene Träume träumen."
+description: "Story Kitschen Frauen und Gewalt. Story Kitchen Kriegsverbrechen. Story Kitschen Vergewaltigung. Story Kitchen Nepal. Story Kitchen Bürgerkrieg in Nepal. The Story Kitchen. Story Kitchen Jaya Luintel. Story Kitchen Herstory. Überlebende zu Wort kommen lassen. Frauen eigene Träume träumen. Herstory Kriegsverbrechen. Krieg Vergewaltigung. Nepal Herstory. Nepal Frauengeschichte. Story Kitchen Herstory. Story Kitchen Nepal. Story Kitschen Gewalt Frau. Herstory Asien. Nepal Story Kitchen. Nepal Herstory Frau Gewalt. Nepal Krieg Gewalt. Nepal Story Kitchen."
 
 # taxonomies
 categories:
@@ -73,5 +73,10 @@ Es geht nicht darum, die Frauen zu beschämen oder erneut zu verletzen, indem ma
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Sexualität und Macht](https://www.erinnermich.eu/blog/mayreder/)
+- [Frauen stehen ihren Mann](https://www.erinnermich.eu/blog/tomyris/)
+- [Jagd auf Frauen](https://www.erinnermich.eu/blog/neandertaler/)
+- [Gewalt gegen Frauen](https://www.erinnermich.eu/blog/gewalt/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Tagebuch einer Verlorenen](https://www.erinnermich.eu/blog/b%C3%B6hme/)

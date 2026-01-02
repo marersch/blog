@@ -67,3 +67,14 @@ Der letzte große Frauenstreik in Island fand am 24. Oktober 2023 statt. Dabei f
 - Bjarnason, Egill. 2023. Island - die großartige Geschichte eines kleinen Landes: Wie eine winzige Insel mitten im Atlantik die Welt über Jahrhunderte geprägt hat. FBV.
 - Siegel, Anne. 2021. Wo die wilden Frauen wohnen: Islands starke Frauen und ihr Leben mit der Natur. Malik.
 
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mit Sexentzug zur Waffenruhe](https://www.erinnermich.eu/blog/liberia/)
+- [Keltische Frauenpower](https://www.erinnermich.eu/blog/kelten/)
+- [Stadt der Frauen](https://www.erinnermich.eu/blog/pizan/)
+- [Powerfrauen](https://www.erinnermich.eu/blog/mongolen/)
+- [Amazonen](https://www.erinnermich.eu/blog/amazonen/)
+

@@ -75,3 +75,12 @@ Ihre zentralen Themen waren und sind die Abschaffung von Gefängnissen, Antirass
 *Literaturhinweise:*
 - Grolleau, Fabien. 2021. Gejagt: Die Flucht der Angela Davis. Cross Cult.
 - Lorenz, Sophie. 2020. »Schwarze Schwester Angela« – Die DDR und Angela Davis. Kalter Krieg, Rassismus und Black Power 1965-1975. Bielefeld: Transcript.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Outcasts & Rebellen](https://www.erinnermich.eu/blog/boyle/)
+- [Stadt der Frauen](https://www.erinnermich.eu/blog/pizan/)
+- [Der eigene Weg](https://www.erinnermich.eu/blog/salome/)
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
