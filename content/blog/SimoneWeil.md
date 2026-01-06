@@ -7,7 +7,7 @@ draft: false
 image: "images/post/simoneWeil.jpg"
 
 # meta description
-description: "Simone Weil. Gelebte Philosophie. Theorie und Praxis. Kritik an Karl Marx. Nahrung für alle. Entwurzelung. Krieg. Einwurzelung. Aufmerksamkeit. Liebe zu Gott. Skepsis gegenüber Kirche, Hierarchie, Macht. Leid als Weg zu sich selbst. Auflösung des Ichs."
+description: "Simone Weil. Simone Weil Gelebte Philosophie. Simone Weil Theorie und Praxis. Simone Weil Kritik an Karl Marx. Simone Weil Nahrung für alle. Simone Weil Entwurzelung. Simone Weil Krieg. Simone Weil Einwurzelung. Simone Weil Aufmerksamkeit. Simone Weil Liebe zu Gott. Simone Weil Skepsis gegenüber Kirche, Hierarchie, Macht. Simone Weil Leid als Weg zu sich selbst. Simone Weil Auflösung des Ichs. Simone Weil Philosophie. Simone Weil Philosophin. Simone Weil Herstory. Simone Weil Kritik Marxismus. Simone Weil Kritik Kaptialismus. Simone Weil Fabriktagebuch. Simone Weil Freiheit. Philosophie Freiheit. Philosophin Freiheit. Frauengeschichte Freiheit. Herstory Freiheit. Frauengeschichte Herstory. Denkende Frauen Europa. Philosophinnen Europa."
 
 # taxonomies
 categories:
@@ -80,4 +80,27 @@ Auch dem Luxus konnte Simone Weil nichts abgewinnen. Ihrem Gerechtigkeitssinn en
 
 Zudem kasteite sie sich selbst. Sie aß selten ausreichend und schlief wenig, was schließlich zu ihrem frühen Tod mit nur 34 Jahren führte.
 
+
+
+*Literaturhinweise:*
+- Büchel Sladkovic, Angela. 2004. Warten auf Gott – Simone Weil zwischen Rationalismus, Politik und Mystik. Lit.
+- Knischek, Stefan. 2006. Lebensweisheiten berühmter Philosophinnen: "Freiheit ist das höchste Gut". Humboldt.
+- Manzi, Jack (Hrsg.). 2024. Between Wittgenstein and Weil: Comparisons in Philosophy, Religion, and Ethics. Routledge, Taylor & Francis Group.
+- Wimmer, Reiner. 1996. Vier jüdische Philosophinnen: Rosa Luxemburg, Simone Weil, Edith Stein, Hannah Arendt. Reclam.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Selbstverwirklichung](https://www.erinnermich.eu/blog/anandamayima/)
+- [Waldlichtung](https://www.erinnermich.eu/blog/mariazambrano/)
+- [Die gelbe Tapete](https://www.erinnermich.eu/blog/charlotteperkinsgilman/)
+- [Raum für Schweigen](https://www.erinnermich.eu/blog/sarahkofman/)
+- [Gebildetes Frauenzimmer](https://www.erinnermich.eu/blog/chatelet/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Baum und Schlange](https://www.erinnermich.eu/blog/barbararenz/)
+- [Sei dir selber treu](https://www.erinnermich.eu/blog/bettinearnim/)
+- [Natur ist kein totes Museum](https://www.erinnermich.eu/blog/hedwigconradmartius/)
+- [Der Geist hat kein Geschlecht](https://www.erinnermich.eu/blog/gournay/)
+- [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
 
