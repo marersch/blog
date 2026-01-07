@@ -7,7 +7,7 @@ draft: false
 image: "images/post/MaryamMirzakhani.jpg"
 
 # meta description
-description: "12. Mai Feiertag Frauen in der Mathematik. Frauen und Mathematik. Fields Medaille. Frauen Iran. Maryam Mirzakhani New Frontiers Prize. Maryam Mirzakhani."
+description: "Maryam Mirzakhani 12. Mai Feiertag Frauen in der Mathematik. Maryam Mirzakhani Mathematik. Maryam Mirzakhani Mathe. Maryam Mirzakhani Pionierin Mathe. Maryam Mirzakhani Frauen und Mathematik. Maryam Mirzakhani Fields Medaille. Maryam Mirzakhani Frauen Iran. Maryam Mirzakhani New Frontiers Prize. Maryam Mirzakhani. Maryam Mirzakhani Herstory. Maryam Mirzakhani Frauengeschichte. Maryam Mirzakhani MINT. Maryam Mirzakhani Frau Iran. Herstory Maryam Mirzakhani. Erinnermich Maryam Mirzakhani. Maryam Mirzakhani Erinnermich. Maryam Mirzakhani Pionierin. Mathe Frau Maryam Mirzakhani. Mathematik Frauen Maryam Mirzakhani."
 
 # taxonomies
 categories:
