@@ -51,6 +51,10 @@ params:
     preloader: ''
   search:
     enable: yes
+  social:
+    - title: instagram
+      icon: ti-instagram
+      link: "https://www.instagram.com/erinnermich_blog/"
 menu:
   footer:
     - URL: about/
@@ -62,6 +66,9 @@ menu:
     - URL: contact/
       name: Impressum
       weight: 3
+    - URL: "https://www.instagram.com/erinnermich_blog/"
+      name: Instagram
+      weight: 4
   main:
     - URL: about/
       name: About
