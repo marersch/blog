@@ -7,7 +7,7 @@ draft: false
 image: "images/post/dohm.jpg"
 
 # meta description
-description: "Hedwig Dohm. Soziale Gerechtigkeit. Selbstbestimmung. Kritik an Nietzsche. Bildung für alle. Chancengleichheit. Mutterschaft als soziales und kulturelles Konstrukt. Hedwig Dohm. Pionierin Frauenbewegung. Frauenwahlrecht. Stimmrecht für Frauen. Sozialkritikerin Hedwig Dohm. Schriftstellerin Hedwig Dohm Essayistin. Kulturelle Prägung Geschlechterrollen."
+description: "Hedwig Dohm. Hedwig Dohm Soziale Gerechtigkeit. Hedwig Dohm Selbstbestimmung. Hedwig Dohm Kritik an Nietzsche. Hedwig Dohm Bildung für alle. Hedwig Dohm Chancengleichheit. Dohm Mutterschaft als soziales und kulturelles Konstrukt. Hedwig Dohm. Pionierin Frauenbewegung. Hedwig Dohm Frauenwahlrecht. Hedwig Dohm Stimmrecht für Frauen. Sozialkritikerin Hedwig Dohm. Schriftstellerin Hedwig Dohm Essayistin. Kulturelle Prägung Geschlechterrollen. Hedwig Dohm Herstory. Hedwig Dohm Frauen schreiben Geschichte. Hedwig Dohm Frauengeschichte. Hedwig Dohm Philosophie. Hedwig Dohm Schriftstellerin. Hedwig Dohm Menschenrechte haben kein Geschlecht. Feministin Hedwig Dohm. Pazifistin Hedwig Dohm. Philosophin Hedwig Dohm. Humor Hedwig Dohm. Ironie Hedwig Dohm. Satire Hedwig Dohm. Das Stimmrecht der Frauen Hedwig Dohm. Die Antifeministen Hedwig Dohm. wissenschaftliche Emazipation der Frau Hedwig Dohm."
 
 # taxonomies
 categories:
@@ -64,3 +64,22 @@ Hedwig Dohm forderte für Frauen eine gute Bildung und Ausbildung in Berufen. Da
 
 Sie selbst erhielt, wie für Mädchen üblich, keine umfassende Bildung. Allerdings konnte sie ihre Eltern überreden, sie wenigstens auf die Lehrerinnenschule zu schicken. Doch auch dort konnte ihre Wissbegierde nicht gestillt werden. Vieles eignete sie sich nach ihrer Hochzeit mit Ernst Dohm selbst an. Ihr Wissensdurst sollte sie ein Leben lang begleiten.
 
+
+*Literaturhinweise:*
+- Dohm, Hedwig. 1902. [Die Antifeministen](https://www.digitale-sammlungen.de/de/view/bsb11127059?page=5). Ein Buch der Verteidigung.
+- Dohm, Hedwig. 1874. [Die wissenschaftliche Emancipation der Frauen](https://www.digitale-sammlungen.de/de/view/bsb11189989?page=7).
+- Riedel, Tanja-Carina. 2008. Gleiches Recht für Frau und Mann: die bürgerliche Frauenbewegung und die Entstehung des BGB. Böhlau.
+- Rohner, Isabel. 2010. Spuren ins Jetzt. Hedwig Dohm – eine Biografie. Ulrike Helmer Verlag.
+- Steinmeier, Frank-Walter. (Hrsg.) 2021. Wegbereiter der deutschen Demokratie: 30 mutige Frauen und Männer 1789-1918. C.H.Beck.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Der Geist hat kein Geschlecht](https://www.erinnermich.eu/blog/gournay/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
+- [Tränenhaus](https://www.erinnermich.eu/blog/gabrielereuter/)
+- [Der Zeit voraus](https://www.erinnermich.eu/blog/woodhull/)
+- [Die Mutter des Frauentages](https://www.erinnermich.eu/blog/clarazetkin/)
+- [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
