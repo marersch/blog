@@ -16,6 +16,7 @@ categories:
 tags:
   - "Philosophin"
   - "Philosophie"
+  - "Queer"
 
 
 

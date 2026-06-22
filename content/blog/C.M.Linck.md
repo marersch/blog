@@ -17,6 +17,7 @@ tags:
   - "Frau"
   - "Freiheit"
   - "Klischee"
+  - "Queer"
 
   
 # summary for main page

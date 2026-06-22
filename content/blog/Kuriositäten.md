@@ -20,6 +20,7 @@ tags:
   - "Antike"
   - "Geschichtsschreibung"
   - "Musik"
+  - "Queer"
 
 # summary for main page
 summary: "Während vielen Frauen der Weg in die Geschichtsschreibung verwehrt blieb, wurden gelegentlich ungewöhnliche Geschichten überliefert - eine kuriose Spurensuche in drei Akten."
