@@ -50,7 +50,7 @@ Sie studierte unter anderem Theologie und Philosophie in Zürich, musste das Stu
 
 ##### Frau mit Peitsche
 
-Ein bekanntes [Foto](https://de.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9#/media/Datei:Nietzsche_paul-ree_lou-von-salome188.jpg) zeigt eine Inszenierung: Lou Salomé mit einer Peitsche auf einem Karren, der von Rée und Nietzsche gezogen wird. Kurze Zeit später legte Nietzsche in seinem Werk *Also sprach Zarathustra* einer alten Frau die Worte „Du gehst zu Frauen? Vergiss die Peitsche nicht!“ in den Mund. Nach dem Tod Nietzsches schrieb Lou Andreas-Salomé ein Buch über ihn:
+Ein bekanntes [Foto](https://de.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9#/media/Datei:Nietzsche_paul-ree_lou-von-salome188.jpg) zeigt eine Inszenierung: Lou Salomé mit einer Peitsche auf einem Karren, der von Rée und Nietzsche gezogen wird. Kurze Zeit später legte Nietzsche in seinem Werk *Also sprach Zarathustra* einer alten Frau die Worte „Du gehst zu Frauen? Vergiss die Peitsche nicht!“ in den Mund. Lou Andreas-Salomé schrieb ein Buch über ihn:
 
 >Dann zeigt es sich, dass die Theorien Nietzsches alle aus dem Bedürfniss der eigenen Selbsterlösung geflossen sind, – aus dem Sehnen, seiner tief bewegten und leidvollen Innerlichkeit jenen Halt zu geben, den der Gläubige in seinem Gott besitzt.
 
