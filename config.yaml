@@ -24,7 +24,7 @@ params:
   logo: images/logo.jpg
   logo_large: images/logo_large.jpg
   logo_footer: images/logo_footer.jpg
-  foto_zeitwunden: images/romane.png
+  foto_romane: images/romane.png
   mobile:
   newsletter:
     content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
