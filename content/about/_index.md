@@ -34,8 +34,8 @@ Warum schaffen es Männer in die Geschichtsbücher, während Frauen dafür fast 
 
 Über welches Thema würdet ihr hier gerne lesen? Schreibt mir unter: blog@erinnermich.eu.
 
-##### Zeitwunden von Fiona Novale
+##### Romane von Fiona Novale
 
-Die Arbeit an diesem Blog hat mich inspiriert, einen Roman zu schreiben: [Zeitwunden](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg), erschienen im Jahr 2025 unter dem Pseudonym [Fiona Novale](https://fiona-novale.erinnermich.eu/).
+Die Arbeit an diesem Blog hat mich inspiriert, Romane zu schreiben: [Zeitwunden](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg) (2025) & [Spiegelblumen](https://www.amazon.de/Spiegelblumen-Familiengeheimnisse-Leben-Unruhe-versetzen/dp/3565734787/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.E4wSO6RdStEv517n68ZaYmvzKdfckAh0F57G6M8LAZhm7B-CSZzSUqMxQJFT0gkkdXrojduNKdwVALvXkdhEB856oXNi6J2FDDpUqgGwHfA.O6FbbvMpIOwcKueltGPcKZzVPc-e1h21vzABuIXL-uU&dib_tag=se&keywords=spiegelblumen+fiona+novale&qid=1790524694&sr=8-1) (2026) - erschienen unter meinem literarischen Pseudonym [Fiona Novale](https://fiona-novale.erinnermich.eu/)
 
 
