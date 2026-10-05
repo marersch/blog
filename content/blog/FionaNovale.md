@@ -17,7 +17,7 @@ tags:
   - "Erinnerung"
   - "Frau"
   - "Literatur"
-  - "Schrifstellerin"
+  - "Schriftstellerin"
   
   
   # summary for main page
