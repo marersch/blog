@@ -18,7 +18,7 @@ tags:
   - "Queer"
   
 # summary for main page
-summary: "Für manche Menschen ist der Tod düster, traurig und endgültig. Das er auch bunt und schrill sein kann, zeigen verschiedene Kulte rund um dem Globus - ein Ausflug nach Indonesien, Madagaskar, Mexiko und Südasien."
+summary: "Für manche Menschen ist der Tod düster, traurig und endgültig. Dass er auch bunt und schrill sein kann, zeigen verschiedene Kulte rund um dem Globus - ein Ausflug nach Indonesien, Madagaskar, Mexiko und Südasien."
 
 # post type
 type: "post"
