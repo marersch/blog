@@ -21,6 +21,7 @@ tags:
   - "Women of color"
   - "Asien"
   - "Eurozentrismus"
+  - "Buddhismus"
   
   
 # post type
@@ -76,5 +77,12 @@ Yeshe Dolma hat durch ihr Geschichtswerk für uns einen Aspektwechsel vollzogen.
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Frauen und Geschichte](https://www.erinnermich.eu/blog/geschichtsschreibung/)
+- [Dach der Welt](https://www.erinnermich.eu/blog/ligotami/)
+- [Einflussreiche Frau in Tibet](https://www.erinnermich.eu/blog/chokyi_dronma/)
+- [Nonnen-Samurai-Herrscherin](https://www.erinnermich.eu/blog/hojomasako/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)
+- [Zwei tibetische Prinzesinnen](https://www.erinnermich.eu/blog/pemachozin_pemachodzom/)
+- [Mutter der Tibeter](https://www.erinnermich.eu/blog/amala/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
