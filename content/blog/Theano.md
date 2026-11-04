@@ -7,7 +7,7 @@ draft: false
 image: "images/post/theano.jpg"
 
 # meta description
-description: "Theano von Kroton. Pythagoras. Pythagoreerinnen. Harmonie. Goldener Schnitt. Geometrie, Medizin, Philosophie. Bildung für Frauen in der Antike."
+description: "Theano von Kroton. Pythagoras. Pythagoreerinnen. Harmonie. Goldener Schnitt. Geometrie, Medizin, Philosophie. Bildung für Frauen in der Antike. Philosophin. Herstory Antike. Herstory Philosophie. Frauen in der Philosophie."
 
 # taxonomies
 categories:
@@ -72,4 +72,14 @@ Aesara -auch Aisara oder Sara- lebte rund 100 Jahre nach Theano in Süditalien. 
 
 Von Aesara ist der Text „Über die menschliche Natur“ überliefert. Auch sind Fragmente und Briefe der Theano erhalten. Das ist keine Selbstverständlichkeit, denn zu jeder Zeit gingen Schriften verloren.
 
-Als im Mittelalter die Klöster für die Abschrift von Werken zuständig waren, entschieden sie, welche Texte in das mittelalterliche Weltbild passten oder eben nicht. Dadurch entschied sich, welche Werke für die Nachwelt erhalten bleiben sollten. Pythagoras und die Pythagoreer*innen entsprachen wohl weniger dem Zeitgeist. Aber das ist nur ein Grund, warum heute zahlreiche antike Texte nur als Fragment oder in der Sekundärliteratur erhalten sind...
+Als im Mittelalter die Klöster für die Abschrift von Werken zuständig waren, entschieden sie, welche Texte in das mittelalterliche Weltbild passten oder eben nicht. Dadurch entschied sich, welche Werke für die Nachwelt erhalten bleiben sollten. Pythagoras und die Pythagoreer*innen entsprachen wohl weniger dem Zeitgeist. Aber das ist nur ein Grund, warum heute zahlreiche antike Texte nur als Fragment oder in der Sekundärliteratur erhalten sind ...
+
+*Verwandte Beiträge:*
+- [Webstuhl gegen Freiheit](https://www.erinnermich.eu/blog/hipparchia/)
+- [Tatort Philosophie](https://www.erinnermich.eu/blog/philo/)
+- [Chinas erste Denkerin](https://www.erinnermich.eu/blog/banzhao/)
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
+- [Philosophinnen](https://www.erinnermich.eu/blog/philosophinnen/)
+- [Drei Frauen für Sokrates](https://www.erinnermich.eu/blog/sokrates/)
+- [Feiertag der Mathematikerinnen](https://www.erinnermich.eu/blog/maryammirzakhani/)
+- [Mathematik war ihr Leben](https://www.erinnermich.eu/blog/sonjakowalewski/)
