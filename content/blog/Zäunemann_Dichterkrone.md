@@ -7,7 +7,7 @@ draft: false
 image: "images/post/zaeunemann.jpg"
 
 # meta description
-description: "Sidonia Hedwig Zäunemann. Ebenbürtigkeit der Geschlechter. Dichterkrone. Gesellschaftskritik. Ehe als patriarchales Werkzeug."
+description: "Sidonia Hedwig Zäunemann. Ebenbürtigkeit der Geschlechter. Dichterkrone. Gesellschaftskritik. Ehe als patriarchales Werkzeug. Literatur Herstory."
 
 # taxonomies
 categories:
@@ -76,6 +76,11 @@ Ihr Leben nahm ein frühes, abruptes Ende. Während eines Ausritts stürzte sie 
 
 *Verwandter Beitrag:*
 - [Gekrönte Dichterin](https://www.erinnermich.eu/blog/vonziegler_dichterkrone/)
+- [Weltweisheit für Frauenzimmer](https://www.erinnermich.eu/blog/unzer_dichterkrone/)
+- [Gewissensfreiheit](https://www.erinnermich.eu/blog/pascal/)
+- [Lebendige Substanz](https://www.erinnermich.eu/blog/conway/)
+- [Die gelbe Tapete](https://www.erinnermich.eu/blog/charlotteperkinsgilman/)
+- [Feder, Papier & Tintenfass](https://www.erinnermich.eu/blog/droste-huelshoff/)
 
 
 
