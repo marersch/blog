@@ -7,7 +7,7 @@ draft: false
 image: "images/post/winkelmann1.jpg"
 
 # meta description
-description: "Emilie Winkelmann. Zimmerin. Erste selbstständige Architektin Deutschlands. Frau in Männerdomänen. Frau in Männerberufen. Frau auf dem Bau. Frau und Studium."
+description: "Emilie Winkelmann. Zimmerin. Erste selbstständige Architektin Deutschlands. Frau in Männerdomänen. Frau in Männerberufen. Frau auf dem Bau. Frau und Studium. Herstory Zimmermann. Herstory Bauwesen. Frau auf dem Bau Herstory."
 
 # taxonomies
 categories:
@@ -55,4 +55,15 @@ Ihre letzten Jahre verbrachte sie in der Nähe von Bielefeld. Mehrere ihrer Baut
 *Literaturhinweise:*
 - Notz, Gisela (Hg.). 2018. Wegbereiterinnen. Berühmte, bekannte und zu Unrecht vergessene Frauen aus der Geschichte. Neu-Ulm: AG SPAK Bücher.
 - Ricon Baldessani, Sonia. 2001. Wie Frauen bauen. Architektinnen. Von Julia Morgan bis Zaha Hadid. Berlin: AvivA Verlag.
+
+
+.
+
+
+*Verwandte Beiträge:*
+- [Madame Tussaud](https://www.erinnermich.eu/blog/tussaud/)
+- [Museumsleiterin](https://www.erinnermich.eu/blog/buchheim/)
+- [Vorurteile & Schubladen](https://www.erinnermich.eu/blog/schamanin2026/)
+- [Werkzeug für alle](https://www.erinnermich.eu/blog/tabithababbitt/)
+- [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
 
