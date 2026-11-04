@@ -7,7 +7,7 @@ draft: false
 image: "images/post/tattoo.jpg"
 
 # meta description
-description: "Tattoos und Frauen. Sisi. Kaiserin Elisabeth. Eisprinzessin. Fruchtbarkeitssymbol. Rebellion höfische Etikette. Tattoo und Ehejahre. Ainu. Zeichen Weiblichkeit und Schönheit. Korjaken. Henna. Tattoo als Schutz. Tätowierungen und Tabus."
+description: "Tattoos und Frauen. Sisi. Kaiserin Elisabeth. Eisprinzessin. Fruchtbarkeitssymbol. Rebellion höfische Etikette. Tattoo und Ehejahre. Ainu. Zeichen Weiblichkeit und Schönheit. Korjaken. Henna. Tattoo als Schutz. Tätowierungen und Tabus. Herstory Tattoos."
 
 # taxonomies
 categories:
@@ -84,6 +84,12 @@ Fest steht: Frauen lassen sich bereits seit Jahrtausenden aus den unterschiedlic
 .
 
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Magie des Ohrschmucks](https://www.erinnermich.eu/blog/ohrschmuck/)
+- [Black is beautiful](https://www.erinnermich.eu/blog/black/)
+- [Weiß wie Schnee](https://www.erinnermich.eu/blog/farbe/)
+- [Schönheitsideale](https://www.erinnermich.eu/blog/ideal/)
+- [Nackte Rebellion](https://www.erinnermich.eu/blog/mahadevi/)
+- [Kleopatra Südamerikas](https://www.erinnermich.eu/blog/moche/)
+- [Amazonen](https://www.erinnermich.eu/blog/amazonen/)
 
