@@ -87,3 +87,12 @@ Sonst würdet ihr oft ausgelacht.
 - Auszug aus: [Das männliche Geschlechte, im Namen einiger Frauenzimmer besungen](https://opacplus.bsb-muenchen.de/title/BV001175191), in: Vermischte Schriften in gebundener und ungebundener Rede, 1739, S. 70, von Christiana von Ziegler.
 
 Christiana von Zieglers Talent blieb nicht unbemerkt. Im Jahre 1733 verlieh ihr die Universität Wittenberg die Dichterkrone. Sie wurde also eine poeta laureata, eine gekrönte Dichterin. Als erste Frau wurde sie mit dieser Ehre ausgezeichnet. Beim eigentlichen Festakt durfte sie aber nicht anwesend sein – Frauen hatten schließlich keinerlei Zutritt zu universitären Zeremonien.
+
+*Verwandte Beiträge:*
+- [Weltweisheit für Frauenzimmer](https://www.erinnermich.eu/blog/unzer_dichterkrone/)
+- [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
+- [Ländliche Dichterin](https://www.erinnermich.eu/blog/gabrielamistral/)
+- [Perle der Zeiten](https://www.erinnermich.eu/blog/nadira/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Das Maß aller Dinge](https://www.erinnermich.eu/blog/naden/)
+- [Seele des Silbernen Zeitalters](https://www.erinnermich.eu/blog/a.a.achmatowa/)
