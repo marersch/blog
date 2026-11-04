@@ -7,7 +7,7 @@ draft: false
 image: "images/post/tomyris.jpg"
 
 # meta description
-description: "Tomyris. Kampf gegen Perserkönig Kyros. Ambivalentes Frauenbild. Herrscherin mit männlichen und weiblichen Eigenschaften. Irritation der Männerwelt."
+description: "Tomyris. Herstory Persien. Tomyris Herrscherin. Herstory Arabien. Kampf gegen Perserkönig Kyros. Ambivalentes Frauenbild. Herrscherin mit männlichen und weiblichen Eigenschaften. Irritation der Männerwelt."
 
 # taxonomies
 categories:
@@ -83,4 +83,11 @@ Die Geschichte der Tomyris zitierte auch [Christine de Pizan](https://www.erinne
 - [Zenobia](https://www.erinnermich.eu/blog/zenobia/)
 - [Boudica - Britische Ikone](https://www.erinnermich.eu/blog/boudica/)
 - [Amazonen](https://www.erinnermich.eu/blog/amazonen/)
+- [Taj Mahal](https://www.erinnermich.eu/blog/begum/)
+- [Herrscherin im Orient](https://www.erinnermich.eu/blog/semiranis/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
+- [Kaiserin Theodora](https://www.erinnermich.eu/blog/theodora/)
+- [Perle der Zeiten](https://www.erinnermich.eu/blog/nadira/)
+
+
 
