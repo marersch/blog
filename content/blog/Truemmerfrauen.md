@@ -7,7 +7,7 @@ draft: false
 image: "images/post/truemmerfrauen.jpg"
 
 # meta description
-description: "Nazis. Trümmerfrauen. Propaganda. Inszenierung Trümmerfrauen. Frauenbild Nazis. NS-Propaganda. Mutterorden. Mutterkreuz. Karnickelorden. Karnickelkreuz. Muttertag als Feiertag der Nazis. Hitler. Nationalsozialismus. Deutschland nach 1945. DDR Trümmerfrauen. Erinnerung schaffen."
+description: "Nazis Herstory. Trümmerfrauen. Propaganda. Inszenierung Trümmerfrauen. Frauenbild Nazis. NS-Propaganda. Mutterorden. Mutterkreuz. Karnickelorden. Karnickelkreuz. Muttertag als Feiertag der Nazis. Hitler. Nationalsozialismus. Deutschland nach 1945. DDR Trümmerfrauen. Erinnerung schaffen."
 
 # taxonomies
 categories:
@@ -61,3 +61,17 @@ In der DDR hielt sich der Mythos der Trümmerfrauen noch lange, diente er doch d
 - Harwardt, Darius. 2019. Verehrter Feind: Amerikabilder deutscher Rechtsintellektueller in der Bundesrepublik. Campus Verlag.
 - Pohn-Weidinger, Maria. 2013. Heroisierte Opfer: Bearbeitungs- und Handlungsstrukturen von „Trümmerfrauen" in Wien. Springer Fachmedien Wiesbaden.
 - Treber, Leonie. 2014. Mythos Trümmerfrauen: von der Trümmerbeseitigung in der Kriegs- und Nachkriegszeit und der Entstehung eines deutschen Erinnerungsortes. Klartext.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Traumlandschaften](https://www.erinnermich.eu/blog/ludwig/)
+- [Verbotene Literatur](https://www.erinnermich.eu/blog/keun/)
+- [Mut an der Front](https://www.erinnermich.eu/blog/kirkpatrick/)
+- [Outcasts & Rebellen](https://www.erinnermich.eu/blog/boyle/)
+- [Auschwitz Cellistin](https://www.erinnermich.eu/blog/a.l.wallfisch/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Stolperstein](https://www.erinnermich.eu/blog/amaliafleischer/)
