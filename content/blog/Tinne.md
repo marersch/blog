@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Tinne.jpg"
 
 # meta description
-description: "Holländerin Alexandrine Tinne. Afrika. Sahara. Nil. Mord in der Sahara. Unabhängigkeit. Niederländische Abenteurerin. Afrikaforscherin. Fotografin. Philippe Frédéric Tinne. Henriette Tinne-van Capellen. Adriana van Capellen."
+description: "Holländerin Alexandrine Tinne. Afrika. Sahara. Nil. Mord in der Sahara. Unabhängigkeit. Niederländische Abenteurerin. Afrikaforscherin. Fotografin. Philippe Frédéric Tinne. Henriette Tinne-van Capellen. Adriana van Capellen. Herstory Afrika. Herstory Pionierin."
 
 # taxonomies
 categories:
@@ -75,3 +75,11 @@ Währenddessen haben einige Leute einfach nur zugesehen, während andere bereits
 *Verwandte Beiträge:*
 - [Mary Kingsley – allein durch Westafrika](https://www.erinnermich.eu/blog/kingsley/)
 - [Verkleidet durch die Sahara](https://www.erinnermich.eu/blog/eberhardt/)
+- [Ikone des Widerstands](https://www.erinnermich.eu/blog/winniemandela/)
+- [Mutter der Bäume](https://www.erinnermich.eu/blog/wangarimaathai/)
+- [Mit Bleistift und Pinsel bewaffnet](https://www.erinnermich.eu/blog/lealafugie/)
+- [Mut im Gepäck](https://www.erinnermich.eu/blog/stark/)
+- [Briefe aus Norwegen](https://www.erinnermich.eu/blog/isidorasekulic/)
+- [Dach der Welt](https://www.erinnermich.eu/blog/ligotami/)
+- [Der Wille einer Frau](https://www.erinnermich.eu/blog/david-neel/)
+- [Die Lady mit der Lampe](https://www.erinnermich.eu/blog/nightingale/)
