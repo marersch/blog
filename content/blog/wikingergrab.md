@@ -7,19 +7,23 @@ draft: false
 image: "images/post/wikingerin.jpg"
 
 # meta description
-description: "Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Name in Geschichtsbüchern stehen?"
+description: "Wikingergrab. Wikinger Herstory. Grab DNA. Schweden Herstory. Birka. Viktorianisches Ideal. Männliche Deutung. Perspektivwechsel. Erinnermich Wikinger. Männliche Geschichtsschreibung. Mutige und ambitionierte Frauen. Wäre manch erfolgreiche Frau ein Mann gewesen, würde ihr Name in Geschichtsbüchern stehen?"
 
 # taxonomies
 categories:
   - "Geschichtsschreibung"
-  - "Frauenrollen"
-  - "Klischees"
+
 tags:
   - "Frau"
   - "Geschichtsschreibung"
   - "Erinnerung"
   - "Kriegerin"
   - "Wikinger"
+  - "Klischee"
+  
+
+# summary for main page
+summary: "Das berühmte Wikingergrab von Birka in Schweden zeigt eindrucksvoll, wie moderne Forschung verstaubte Weltbilder aushebelt und uns zwingt, die Rolle der Frau in der Geschichte völlig neu zu bewerten."
 
 # post type
 type: "post"
@@ -58,3 +62,17 @@ Manchmal lohnt sich ein Perspektivwechsel. Nur weil etwas als unwahrscheinlich o
 - Heinken, Siebo. 2022. „Gudríds Reise nach Amerika," GEO, Schweizer Ausgabe, S. 30–52.
 - Moen, Marianne. 2019. Challenging Gender. A reconsideration of gender in the Viking Age using the mortuary landscape. PhD Thesis, University of Oslo.
 - Price, Neil, Charlotte Hedenstierna-Jonson, Torun Zachrisson, Anna Kjellström, Jan Storå, Maja Krzewińska, Torsten Günther, Verónica Sobrado, Mattias Jakobsson und Anders Götherström. 2019. „Viking warrior women? Reassessing Birka chamber grave Bj. 581,“ Antiquity 93 (367), S. 181–198, https://doi.org/10.15184/aqy.2018.258.
+
+
+
+.
+
+*Verwandte Beiträge:*
+- [Zeitwunden & Spiegelblumen](https://www.erinnermich.eu/blog/fionanovale/)
+- [Matrilokalität](https://www.erinnermich.eu/blog/matrilokal/)
+- [Vorurteile & Schubladen](https://www.erinnermich.eu/blog/schamanin2026/)
+- [Keltische Frauenpower](https://www.erinnermich.eu/blog/kelten/)
+- [Jagd auf Frauen](https://www.erinnermich.eu/blog/neandertaler/)
+- [Amazonen](https://www.erinnermich.eu/blog/amazonen/)
+- [Variablen der Geschichte](https://www.erinnermich.eu/blog/neuegeschichte/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
