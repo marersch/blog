@@ -64,3 +64,6 @@ Steinzeitliche Knochenfunde und Grabbeigaben aus verschiedenen Regionen der Welt
 - [Die Schamanin](https://www.erinnermich.eu/blog/schamanin/)
 - [Fürstin der Kupferzeit](https://www.erinnermich.eu/blog/kupferzeit-fuerstin/)
 - [Variablen der Geschichte](https://www.erinnermich.eu/blog/neuegeschichte/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
+- [Jagd auf Frauen](https://www.erinnermich.eu/blog/neandertaler/)
+- [Matrilokalität](https://www.erinnermich.eu/blog/matrilokal/)
