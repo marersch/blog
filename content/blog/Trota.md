@@ -79,3 +79,7 @@ Trota ließ sich jedoch weder persönlich noch mit ihren medizinischen Texten un
 *Verwandte Beiträge:*
 - [Der Matilda Effekt](https://www.erinnermich.eu/blog/matildaeffekt/)
 - [Den Mutigen gehört die Welt](https://www.erinnermich.eu/blog/agnodike/) - über die erste reguläre Ärztin der Antike
+- [Wachs & Anatomie](https://www.erinnermich.eu/blog/manzolini/)
+- [Grenzsprengerin](https://www.erinnermich.eu/blog/hildegard/)
+- [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
+
