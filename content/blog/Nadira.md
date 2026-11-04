@@ -84,4 +84,16 @@ Als sich 1839/40 die politischen Beziehungen verschlechterten, spielte Nadira ei
 - Sultanova, Razia. 2011. From Shamanism to Sufism: Women, Islam and Culture in Central Asia. Bloomsbury Academic.
 
 
+.
+
+*Verwandte Beiträge:*
+- [Muslimische Mysthikerin](https://www.erinnermich.eu/blog/rabia/)
+- [Muslimische Heilige](https://www.erinnermich.eu/blog/aisha/)
+- [Taj Mahal](https://www.erinnermich.eu/blog/begum/)
+- [Mächtige Perserin](https://www.erinnermich.eu/blog/parysatis/)
+- [Herrscherin im Orient](https://www.erinnermich.eu/blog/semiranis/)
+- [Kaiserin Theodora](https://www.erinnermich.eu/blog/theodora/)
+- [Zenobia](https://www.erinnermich.eu/blog/zenobia/)
+
+
 
