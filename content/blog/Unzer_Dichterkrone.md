@@ -7,7 +7,7 @@ draft: false
 image: "images/post/unzer.jpg"
 
 # meta description
-description: "Johanna Charlotte Unzer. Ebenbürtigkeit der Geschlechter. Dichterkrone. Gesellschaftskritik. Philosophin der Aufklärung. Versuch in Scherzgedichten. Grundriß einer Weltweisheit für das Frauenzimmer. Versuch in sittlichen und zärtlichen Gedichten."
+description: "Johanna Charlotte Unzer. Ebenbürtigkeit der Geschlechter. Dichterkrone. Gesellschaftskritik. Philosophin der Aufklärung. Versuch in Scherzgedichten. Grundriß einer Weltweisheit für das Frauenzimmer. Versuch in sittlichen und zärtlichen Gedichten. Herstory Literatur. Frauen in der Literatur."
 
 # taxonomies
 categories:
@@ -105,7 +105,12 @@ Und überzieht die schöne Haut mit Graus;
 
 
 
-*Verwandte Blogeinträge:*
+*Verwandte Beiträge:*
 - [Die Macht der Sprache](https://www.erinnermich.eu/blog/machtsprache/)
 - [Gekrönte Dichterin](https://www.erinnermich.eu/blog/vonziegler_dichterkrone/)
 - [Alles Männerbereiche, oder was?](https://www.erinnermich.eu/blog/z%C3%A4unemann_dichterkrone/)
+- [Ländliche Dichterin](https://www.erinnermich.eu/blog/gabrielamistral/)
+- [Perle der Zeiten](https://www.erinnermich.eu/blog/nadira/)
+- [Mystische Lieder & Liebe](https://www.erinnermich.eu/blog/hadewijch/)
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Philosophie der Freiheit](https://www.erinnermich.eu/blog/lalded/)
