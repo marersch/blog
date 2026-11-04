@@ -7,7 +7,7 @@ draft: false
 image: "images/post/Theodora.jpg"
 
 # meta description
-description: "Theodora. Kaiserin von Byzanz. Kaiser Justinian. Konstantinopel. Hagia Sophia. Zirkusaufstand. Nika-Aufstand. Von der Schauspielerin zur Kaiserin. Prokop. Procopius. Johannes von Ephesos. Quellenlage. Auslegung von Quellen. Papststurz. Papst Silverius."
+description: "Theodora. Kaiserin von Byzanz. Kaiser Justinian. Konstantinopel. Hagia Sophia. Zirkusaufstand. Nika-Aufstand. Von der Schauspielerin zur Kaiserin. Prokop. Procopius. Johannes von Ephesos. Quellenlage. Auslegung von Quellen. Papststurz. Papst Silverius. Herstory Byzanz."
 
 # taxonomies
 categories:
@@ -70,4 +70,17 @@ Ihr bekanntestes Bildnis befindet sich in der Basilika San Vitale in Ravanna. Da
 *Literaturhinweise:*
 - Hartmann, Elke. 2007. Frauen in der Antike. Weibliche Lebenswelten von Sappho bis Theodora. München: Verlag C. H. Beck.
 - Harvey, Susan A. 2001 [2010]. Theodora the "Believing Queen:" A Study in Syriac Historiographical Tradition. Hugoye: Journal of Syriac Studies 4.2, S. 209–234.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Kuriositäten](https://www.erinnermich.eu/blog/kuriosit%C3%A4ten/)
+- [Herrscherin im Orient](https://www.erinnermich.eu/blog/semiranis/)
+- [Die Augusta](https://www.erinnermich.eu/blog/augusta/)
+- [Hüterin des Feuers](https://www.erinnermich.eu/blog/vestalin/)
+- [Geraubte Identität](https://www.erinnermich.eu/blog/junia/)
+- [Mitarbeiterin des Apostels Paulus](https://www.erinnermich.eu/blog/priska/)
+- [Zenobia](https://www.erinnermich.eu/blog/zenobia/)
+
 
