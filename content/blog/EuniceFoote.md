@@ -30,7 +30,7 @@ type: "post"
 
 Der Klimawandel ist eines der drängendsten Themen unserer Zeit. Eng damit verbunden ist der so genannte Treibhauseffekt. Während der natürliche Treibhauseffekt dafür sorgt, dass es auf der Erde durchschnittlich 15 Grad warm ist, wird dieser Effekt seit der Industrialisierung durch Abgase verstärkt. Hauptursache für den anthropogenen Treibhauseffekt ist der starke Anstieg der Treibhausgase.
 
-Bereits vor fast zweihundert Jahren war eine Forscherin dem Treibhauseffekt auf der Spur war: Eunice Newton Foote (1819-1888). Die [Leistungen von Eunice Foote](https://www.nzz.ch/wissenschaft/klimawandel-eunice-foote-erforschte-co2-frueher-als-tyndall-ld.1645453?reduced=true) waren in der Geschichte der Klimaforschung jedoch lange Zeit unbekannt. 
+Bereits vor fast zweihundert Jahren war eine Forscherin dem Treibhauseffekt auf der Spur: Eunice Newton Foote (1819-1888). Die [Leistungen von Eunice Foote](https://www.nzz.ch/wissenschaft/klimawandel-eunice-foote-erforschte-co2-frueher-als-tyndall-ld.1645453?reduced=true) waren in der Geschichte der Klimaforschung jedoch lange Zeit unbekannt. 
 
 ##### Bahnbrechende Entdeckungen
 
