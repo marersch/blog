@@ -7,7 +7,7 @@ draft: false
 image: "images/post/TawakkolKarman.jpg"
 
 # meta description
-description: "Tawakkol Karman. Friedensnobelpreis. Arabien. Arabischer Frühling. Pressefreiheit. Gegen Korruption. Jemen. Humanitäre Krise."
+description: "Tawakkol Karman. Friedensnobelpreis Frau. Arabien Herstory. Arabischer Frühling. Pressefreiheit. Gegen Korruption. Jemen. Humanitäre Krise."
 
 # taxonomies
 categories:
@@ -34,7 +34,9 @@ Jemen, Anfang des 20. Jahrhunderts: Das Land versinkt in Arbeitslosigkeit, Armut
 
 Tawakkol Karman studiert an der Universität von Sanaa in der Hauptstadt Jemens. Sie heiratet früh und bekommt drei Kinder, arbeitet als Journalistin. Über die Dinge, die sie wirklich bewegen und für die sie brennt, darf sie allerdings nicht schreiben – die Zensur ist allgegenwärtig. Dabei würde die Verfassung Pressefreiheit garantieren. 
 
->Freie Meinungsäußerung ist der erste und wichtigste Schritt, um Wandel in einer Gesellschaft zu erreichen. - Tawakkol Karman.
+>Freie Meinungsäußerung ist der erste und wichtigste Schritt, um Wandel in einer Gesellschaft zu erreichen. 
+
+- Tawakkol Karman.
 
 Aus Überzeugung setzt sie sich gegen Zwangsheirat und Heirat von Minderjährigen ein. Das zieht den Hass von Extremisten auf sich.
 
@@ -56,6 +58,14 @@ Es folgen Bestechungsversuche, Morddrohungen und Diskreditierung. Nach neun Mona
 
 Im Jahr 2014 kommt es zum Putsch durch die Huthi, einer militärischen Bürgerkriegspartei. Es folgt eine militärische Intervention durch Saudi-Arabien und die Vereinigten Arabischen Emiraten. Das alles führt zur verheerendsten humanitären Krise im Jemen, die bis heute andauert.
 
->Es ist möglich, gegen Gewalt und Unterdrückung zu kämpfen, ohne auf Gewalt und Unterdrückung zurückzugreifen. - Tawakkol Karman.
+>Es ist möglich, gegen Gewalt und Unterdrückung zu kämpfen, ohne auf Gewalt und Unterdrückung zurückzugreifen. 
+
+- Tawakkol Karman.
 
 Tawakkol Karman engagiert sich für einen politischen Dialog und unterstützt die Aufstände in den Arabischen Ländern, um gegen Autoritarismus, Diktatur und Unterdrückung anzukämpfen. Ihr Traum ist die Errichtung eines Staates, in dem Gewaltlosigkeit herrscht und Menschenrechte verteidigt werden. Davon ist Jemen gerade weit entfernt und bis dahin dürfte es wohl noch ein [langer Weg](https://www.tagesschau.de/ausland/asien/jemen-waffenruhe-ramadan-101.html) werden.
+
+*Verwandte Beiträge:*
+- [Mutter der Bäume](https://www.erinnermich.eu/blog/wangarimaathai/)
+- [Mit Sexentzug zur Waffenruhe](https://www.erinnermich.eu/blog/liberia/)
+- [Menschenrechte haben kein Geschlecht](https://www.erinnermich.eu/blog/dohm/)
+- [Tränenhaus](https://www.erinnermich.eu/blog/gabrielereuter/)
