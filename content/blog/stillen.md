@@ -66,5 +66,19 @@ Wir sollten uns davon verabschieden, etwas vermeintlich perfekt zu machen, denn 
 - Ventura, Gal. 2018. Maternal Breast-feeding and Its Substitutes in Nineteenth-century French Art. Brill.
 
 
+.
+
+
+*Verwandte Beiträge:*
+- [Femme fatale](https://www.erinnermich.eu/blog/femmefatale/)
+- [Von wegen natürliche Rollenverteilung](https://www.erinnermich.eu/blog/urzeit/)
+- [Bemalte Haut](https://www.erinnermich.eu/blog/tattoos/)
+- [Schönheitsideale](https://www.erinnermich.eu/blog/ideal/)
+- [Mutter-Tochter-Geschichten](https://www.erinnermich.eu/blog/muttertochter/)
+- [Mutterschaft in Tibet](https://www.erinnermich.eu/blog/mutter_tibet/)
+- [Die Mutter des Frauentages](https://www.erinnermich.eu/blog/clarazetkin/)
+- [Kein Happy End](https://www.erinnermich.eu/blog/prinzessinnen/)
+
+
 
 
