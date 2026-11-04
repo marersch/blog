@@ -91,4 +91,9 @@ Zeit ihres Lebens setzte sie sich für ihre Überzeugungen ein, durchbrach festg
 - [Unerschrockene Rebellin](https://www.erinnermich.eu/blog/fannywright/)
 - [Outcasts & Rebellen](https://www.erinnermich.eu/blog/boyle/)
 - [Gegen sexuelle Tabus](https://www.erinnermich.eu/blog/helenestoecker/)
+- [Angela Davis](https://www.erinnermich.eu/blog/angeladavis/)
+- [Josephine Baker](https://www.erinnermich.eu/blog/baker/)
+- [Chefin der Unterwelt](https://www.erinnermich.eu/blog/baker/)
+- [In 72 Tagen um die Welt](https://www.erinnermich.eu/blog/nelliebly/)
+- [Weiblicher Moses](https://www.erinnermich.eu/blog/tubman/)
 
