@@ -82,5 +82,8 @@ Wie wir uns in einer spezifischen Situation verhalten, hängt oft davon ab, welc
 
 .
 
-*Verwandter Beitrag:*
+*Verwandte Beiträge:*
 - [Blutgräfin](https://www.erinnermich.eu/blog/blutgraefin/)
+- [Die Riesin aus Südtirol](https://www.erinnermich.eu/blog/riesin-tirol/)
+- [Frauen - Hexen - Dämonen](https://www.erinnermich.eu/blog/hexen/)
+- [Faszinierender Schauer](https://www.erinnermich.eu/blog/charlottedacre/)
