@@ -7,7 +7,7 @@ draft: false
 image: "images/post/elenaPiscopia.jpg"
 
 # meta description
-description: "Elena Lucrezia Cornaro Piscopia. Venedig. Venezianische Adelsfamilie. Venezianische Gesellschaft frivol. Wunderkind. Gelehrte und Wissenschaftlerin. Oblate. Erste Frau mit Doktortitel in Philosophie. Natürliche Geschlechterordnung."
+description: "Elena Lucrezia Cornaro Piscopia. Venedig. Venezianische Adelsfamilie. Venezianische Gesellschaft frivol. Wunderkind. Gelehrte und Wissenschaftlerin. Oblate. Erste Frau mit Doktortitel in Philosophie. Natürliche Geschlechterordnung. Herstory. Frauengeschichte."
 
 # taxonomies
 categories:
@@ -62,3 +62,17 @@ Bald war sie Mitglied verschiedener Akademien in ganz Europa und wurde von Geleh
 - Guernsey, Jane Howard. 1999. The Lady Cornaro, Pride and Prodigy of Venice. New York: College Avenue Press.
 - Kalnická, Zdeňka. 2021. The First Woman Philosopher with a Doctorate: Elena Cornaro Piscopia. Studies in the History of Philosophy, 12.3, S. 97-121, [DOI 10.12775/szhf.2021.016](https://doi.org/10.12775/szhf.2021.016 ). 
 - Maschietto, Francesco Ludovico. 1978. Elena Lucrezia Cornaro Piscopia (1646-1684), prima donna laureata nel mondo. Padova: Antenore.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Die Erste ihrer Art](https://www.erinnermich.eu/blog/tumarkin/)
+- [Gespräche als Lebenselixir](https://www.erinnermich.eu/blog/rahelvarnhagen/)
+- [Gebildetes Frauenzimmer](https://www.erinnermich.eu/blog/chatelet/)
+- [Bewegte Zeiten](https://www.erinnermich.eu/blog/elizabethcarter/)
+- [Weltweisheit für Frauenzimmer](https://www.erinnermich.eu/blog/unzer_dichterkrone/)
+- [Phönix aus der Asche](https://www.erinnermich.eu/blog/ehrmann_phoenix/)
+- [Mathematik war ihr Leben](https://www.erinnermich.eu/blog/sonjakowalewski/)
+- [Erste Studentin Europas](https://www.erinnermich.eu/blog/schurmann/)
+- [Humanistin an der Leine](https://www.erinnermich.eu/blog/cassandrafedele/)
