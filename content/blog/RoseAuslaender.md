@@ -7,7 +7,7 @@ draft: false
 image: "images/post/roseAuslaender.jpg"
 
 # meta description
-description: "Rose Ausländer. weltoffenes, liberal-jüdisches, kaisertreues Elternhaus. Czernowitz. Habsburger Monarchie. Sowjets. Nationalsozialismus. Ghetto. Juden. Paul Celan. Dichterin. Lyrik. Mutterland. Emigration USA. Heimat. Wörter als Heimat. Schmelztiegel der Kulturen."
+description: "Rose Ausländer. weltoffenes, liberal-jüdisches, kaisertreues Elternhaus. Czernowitz. Habsburger Monarchie. Sowjets. Nationalsozialismus. Ghetto. Juden. Paul Celan. Dichterin. Lyrik. Mutterland. Emigration USA. Heimat. Wörter als Heimat. Schmelztiegel der Kulturen. Rose Ausländer Herstory. Literatur Herstory. Nationalsozialismus Herstory. Erinnermich Blog Frauengeschichte. Rose Ausländer Erinnermich."
 
 # taxonomies
 categories:
@@ -107,4 +107,20 @@ Ein bekanntes Sprichwort besagt, dass die Zeit alle Wunden heilt. Stimmt das ode
 - Jarosch, Sabina. 2015. Czernowitz war ein Nest ... in dem Dichter ausgebrütet wurden. IN: Abenteuer Philosophie, 140, S. 54-57.
 - Kristensson, Jutta. 1994. Symbolik in Rose Ausländers Lyrik – Gedichte im Schatten der Shoah. IN: Nordisk judaistik/Scandinavian Jewish Studies, 15 (1-2), S. 100–120. https://doi.org/10.30752/nj.69513
 - Tück, Jan-Heiner. 2015. Den Vaternamen zurückgeben. Zu einem Gedicht Rose Ausländers, IN: Internationale Katholische Zeitschrift Communio, 44, S. 78–84.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Briefe aus Norwegen](https://www.erinnermich.eu/blog/isidorasekulic/)
+- [Outcasts & Rebellen](https://www.erinnermich.eu/blog/boyle/)
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Freiheit & Emotionen](https://www.erinnermich.eu/blog/heller/)
+- [Traumlandschaften](https://www.erinnermich.eu/blog/ludwig/)
+- [Waldlichtung](https://www.erinnermich.eu/blog/mariazambrano/)
+- [Mut an der Front](https://www.erinnermich.eu/blog/kirkpatrick/)
+- [Achtung! Atombomben](https://www.erinnermich.eu/blog/hinton/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+
+
 
