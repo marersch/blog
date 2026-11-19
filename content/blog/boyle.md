@@ -7,7 +7,7 @@ draft: false
 image: "images/post/kayBoyle.jpg"
 
 # meta description
-description: "Kay Boyle. USA. Europa. Schriftstellerin. Weltkriege. Briefe an Lola Ridge. Rebellen und Outcasts. Ausgestoßene. Frankreich Westdeutschland Korrespondentin. Soziale Verantwortung Privilegien. Romane. Politische und persönliche Themen vereinend. Kurzgeschichten. Gedichte. Romane. Kinderbücher. Kay Boyle. Amerikanische Schriftstellerin Kay Boyle. Kay Boyle Politische Aktivistin. Paris Exil 1920er Amerikanerin. McCarthy-Ära Blacklist. Vietnamkrieg Proteste."
+description: "Kay Boyle. USA. Europa. Schriftstellerin. Weltkriege. Briefe an Lola Ridge. Rebellen und Outcasts. Ausgestoßene. Frankreich Westdeutschland Korrespondentin. Soziale Verantwortung Privilegien. Romane Herstory. Politische und persönliche Themen vereinend. Kurzgeschichten. Gedichte. Romane. Kinderbücher. Kay Boyle. Amerikanische Schriftstellerin Kay Boyle. Kay Boyle Politische Aktivistin. Paris Exil 1920er Amerikanerin. McCarthy-Ära Blacklist. Vietnamkrieg Proteste. Kay Boyle Herstory. Erinnermich Blog Frauengeschichte."
 
 # taxonomies
 categories:
@@ -63,3 +63,19 @@ Wer ist nun ein Rebell, einer, der in die Welt hinausgeht, oder jemand, der ein 
 - Boyle, Kay. 2024 [1940]. The Crazy Hunter. Pushkin Press, Limited.
 - Boyle, Kay & Sandra Spanier. 2015. Kay Boyle: A Twentieth-Century Life in Letters. University of Illinois Press.
 - Lesinska, Zofia P. 2002. Perspectives of Four Women Writers on the Second World War: Gertrude Stein, Janet Flanner, Kay Boyle, and Rebecca West. Studies in Literary Criticism and Theory. Peter Lang Publ.
+
+
+.
+
+*Verwandte Beiträge:*
+- [Mutterland](https://www.erinnermich.eu/blog/roseauslaender/)
+- [Briefe aus Norwegen](https://www.erinnermich.eu/blog/isidorasekulic/)
+- [Waldlichtung](https://www.erinnermich.eu/blog/mariazambrano/)
+- [Zeugin des Grauens](https://www.erinnermich.eu/blog/leemiller/)
+- [Schindlers Liste](https://www.erinnermich.eu/blog/emilieschindler/)
+- [Mut an der Front](https://www.erinnermich.eu/blog/kirkpatrick/)
+- [Horizontale Kollaboration](https://www.erinnermich.eu/blog/kollaboration/)
+- [Dummer Teufel](https://www.erinnermich.eu/blog/druskowitz/)
+- [Verbotene Literatur](https://www.erinnermich.eu/blog/keun/)
+- [Traumlandschaften](https://www.erinnermich.eu/blog/ludwig/)
+
